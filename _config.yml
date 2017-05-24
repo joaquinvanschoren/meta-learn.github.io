@@ -1,8 +1,16 @@
-title: Meta-Learning
+title: Workshop on Meta-Learning
 email: roberto.calandra@berkeley.edu
 author: Roberto Calandra
-description: "Workshop on Meta-Learning"
+description: "NIPS Workshop on Meta-Learning"
 baseurl: ""
 url: "http://metalearning.io"
 
 theme: jekyll-theme-cayman
+
+# Google services
+google_analytics: UA-99852557-1
+google_verification:
+
+# Build settings
+markdown: kramdown
+permalink: pretty
