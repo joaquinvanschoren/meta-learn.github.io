@@ -1,7 +1,7 @@
 title: Workshop on Meta-Learning
 email: roberto.calandra@berkeley.edu
 author: Roberto Calandra
-description: "NIPS Workshop on Meta-Learning"
+description: "NIPS 2017 <br> December 2017 <br> Long Beach Convention Center, Long Beach"
 baseurl: ""
 url: "http://metalearning.io"
 
@@ -14,3 +14,6 @@ google_verification:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+kramdown:
+  auto_ids:       true
