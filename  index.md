@@ -38,7 +38,7 @@ The goal of this workshop is to bring together researchers from all the differen
 - Submission deadline: 23 October 2017 ([Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
 - Notification: 14 November 2017
 - Camera ready: 04 December 2017
-- Workshop: December 2017
+- Workshop: 09 December 2017
 
 ## Schedule ##
 
@@ -67,7 +67,7 @@ Papers must be in the latest NIPS format, but with a maximum of 4 pages (excludi
 
 Accepted papers and eventual supplementary material will be made available on the workshop website. However, this does not constitute an archival publication and no formal workshop proceedings will be made available, meaning contributors are free to publish their work in archival journals or conference.
 
-Submissions can be made through [To be done](http://metalearning.io)
+Submissions can be made through [To be done](http://metalearning.ml)
 
 ## Accepted Papers  ##
 
@@ -75,5 +75,5 @@ Accepted papers will be posted here.
 
 ## Contacts  ##
 
-For any question you can contact us at <info@metalearning.io>
+For any question you can contact us at <info@metalearning.ml>
  
