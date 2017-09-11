@@ -35,7 +35,7 @@ The goal of this workshop is to bring together researchers from all the differen
 - [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/) (UC Berkeley)
 
 ## Important dates ##
-- Submission deadline: 23 October 2017 ([Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
+- Submission deadline: 01 November 2017 ([Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
 - Notification: 14 November 2017
 - Camera ready: 04 December 2017
 - Workshop: 09 December 2017
