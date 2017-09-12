@@ -20,7 +20,7 @@ Some of the fundamental questions that this workshop aims to address are:
 The goal of this workshop is to bring together researchers from all the different communities and topics that fall under the umbrella of meta-learning. We expect that the presence of these different communities will result in a fruitful exchange of ideas and stimulate an open discussion about the current challenges in meta-learning, as well as possible solutions.
 
 
-## Invited speakers ##
+## Speakers ##
 - [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) (MIT)
 - [Jane Wang]() (DeepMind)
 - [Jitendra Malik](https://people.eecs.berkeley.edu/~malik/) (UC Berkeley)
@@ -36,28 +36,28 @@ The goal of this workshop is to bring together researchers from all the differen
 
 ## Important dates ##
 - Submission deadline: 01 November 2017 ([Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
-- Notification: 14 November 2017
+- Notification: 23 November 2017
 - Camera ready: 04 December 2017
 - Workshop: 09 December 2017
 
 ## Schedule ##
 
 | --------:| ---------------------------------------------------
-| 09:00 | Introduction and opening remarks
-| 09:10 | Invited talk 1:
+| 09:00 | Introduction and opening remarks 
+| 09:10 | Invited talk 1: TBA
 | 09:40 | Poster spotlights
 | 10:00 | Poster session 1
 | 10:30 | *Coffee Break*
-| 11:00 | Invited talk 2:
-| 11:30 | Invited talk 3:
+| 11:00 | Invited talk 2: TBA
+| 11:30 | Invited talk 3: TBA
 | 12:00 | *Lunch Break*
-| 14:00 | Invited talk 4:
+| 14:00 | Invited talk 4: TBA
 | 14:30 | Poster session 2
 | 15:00 | *Coffee Break*
-| 15:30 | Invited talk 5:
-| 16:00 | Contributed talk 1:
-| 16:15 | Contributed talk 2:
-| 16:30 | Invited talk 6: 
+| 15:30 | Invited talk 5: TBA
+| 16:00 | Contributed talk 1: TBA
+| 16:15 | Contributed talk 2: TBA
+| 16:30 | Invited talk 6: TBA
 | 17:00 | Panel discussion
 | 18:00 | End 
 
@@ -66,6 +66,8 @@ The goal of this workshop is to bring together researchers from all the differen
 Papers must be in the latest NIPS format, but with a maximum of 4 pages (excluding references). Papers should include the authors (by using the \nipsfinalcopy) to your document prior to submitting). 
 
 Accepted papers and eventual supplementary material will be made available on the workshop website. However, this does not constitute an archival publication and no formal workshop proceedings will be made available, meaning contributors are free to publish their work in archival journals or conference.
+
+*The two best papers submitted will be presented as 15-minutes contributed talks*
 
 Submissions can be made through [To be done](http://metalearning.ml)
 
