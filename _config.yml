@@ -17,3 +17,6 @@ permalink: pretty
 
 kramdown:
   auto_ids:       true
+  
+plugins:
+  - jekyll-seo-tag

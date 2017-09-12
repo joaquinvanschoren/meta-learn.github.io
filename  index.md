@@ -24,9 +24,12 @@ The goal of this workshop is to bring together researchers from all the differen
 - [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) (MIT)
 - [Jane Wang]() (DeepMind)
 - [Jitendra Malik](https://people.eecs.berkeley.edu/~malik/) (UC Berkeley)
-- [Oriol Vinyals]() (Deepmind)
+- [Oriol Vinyals]() (DeepMind)
 - [Chelsea Finn](https://people.eecs.berkeley.edu/~cbfinn/) (UC Berkeley) 
 - [Christophe Giraud-Carrier]() (Brigham Young University)
+
+## Additional Panelists  ##
+- [Samy Bengio]() (Google)
 
 ## Organizers ##
 - [Roberto Calandra](http://www.robertocalandra.com) (UC Berkeley)
@@ -69,7 +72,7 @@ Accepted papers and eventual supplementary material will be made available on th
 
 *The two best papers submitted will be presented as 15-minutes contributed talks*
 
-Submissions can be made through [To be done](http://metalearning.ml)
+Submissions can be made through [CMT3](https://cmt3.research.microsoft.com/MLW2017)
 
 ## Accepted Papers  ##
 
