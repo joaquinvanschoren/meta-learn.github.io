@@ -72,7 +72,7 @@ Accepted papers and eventual supplementary material will be made available on th
 
 *The two best papers submitted will be presented as 15-minutes contributed talks*
 
-Submissions can be made through [CMT3](https://cmt3.research.microsoft.com/MLW2017)
+Submissions can be made through [CMT3](https://cmt3.research.microsoft.com/MetaML2017)
 
 ## Accepted Papers  ##
 
