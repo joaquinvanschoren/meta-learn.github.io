@@ -74,7 +74,7 @@ Accepted papers and eventual supplementary material will be made available on th
 
 **Accepted authors will be able to register to the NIPS workshops even if the registration for public is currently closed!**
 
-Submissions can be made through [CMT3](https://cmt3.research.microsoft.com/MetaML2017)
+Submissions can be made at [https://cmt3.research.microsoft.com/metalearn2017](https://cmt3.research.microsoft.com/metalearn2017)
 
 ## Accepted Papers  ##
 
