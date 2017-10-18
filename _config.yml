@@ -18,6 +18,6 @@ permalink: pretty
 kramdown:
   auto_ids:       true
   
-plugins:
+plugins_dir:
   - jekyll-seo-tag
   - jekyll-sitemap
