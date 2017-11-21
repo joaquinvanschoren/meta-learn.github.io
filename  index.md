@@ -46,23 +46,22 @@ The goal of this workshop is to bring together researchers from all the differen
 ## Schedule ##
 
 | --------:| ---------------------------------------------------
-| 09:00 | Introduction and opening remarks 
-| 09:10 | Invited talk 1: TBA
-| 09:40 | Poster spotlights
-| 10:00 | Poster session 1
-| 10:30 | *Coffee Break*
-| 11:00 | Invited talk 2: TBA
-| 11:30 | Invited talk 3: TBA
+| 08:30 | Introduction and opening remarks 
+| 08:40 | Invited talk 1: Jitendra Malik
+| 09:10 | Invited talk 2: Christophe Giraud-Carrier
+| 09:40	| Poster spotlights
+| 10:00 | Poster session 1 ( + Coffee Break)
+| 11:00 | Invited talk 3: Jane Wang  
+| 11:30 | Invited talk 4: Chelsea Finn
 | 12:00 | *Lunch Break*
-| 14:00 | Invited talk 4: TBA
-| 14:30 | Poster session 2
-| 15:00 | *Coffee Break*
-| 15:30 | Invited talk 5: TBA
-| 16:00 | Contributed talk 1: TBA
-| 16:15 | Contributed talk 2: TBA
-| 16:30 | Invited talk 6: TBA
-| 17:00 | Panel discussion
-| 18:00 | End 
+| 13:30 | Invited talk 5: Josh Tenenbaum
+| 14:00 | Contributed talk 1: TBA
+| 14:15 | Contributed talk 2: TBA
+| 14:30 | Poster session 2 ( + Coffee Break)
+| 15:30 | Invited talk 6: Oriol Vinyals
+| 16:00 | Panel discussion
+| 17:00 | End 
+
 
 ## Submission instructions  ##
 
@@ -79,6 +78,10 @@ Submissions can be made at [https://cmt3.research.microsoft.com/metalearn2017](h
 ## Accepted Papers  ##
 
 Accepted papers will be posted here.
+
+## Program Committee ##
+
+TBA
 
 ## Contacts  ##
 
