@@ -38,8 +38,8 @@ The goal of this workshop is to bring together researchers from all the differen
 - [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/) (UC Berkeley)
 
 ## Important dates ##
-- Submission deadline: ~~01 November 2017~~ **03 November 2017** ([Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
-- Notification: 23 November 2017
+- Submission deadline: ~~03 November 2017~~ ([Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
+- Notification: ~~24 November 2017~~
 - Camera ready: 04 December 2017
 - Workshop: 09 December 2017
 
@@ -77,11 +77,43 @@ Submissions can be made at [https://cmt3.research.microsoft.com/metalearn2017](h
 
 ## Accepted Papers  ##
 
-Accepted papers will be posted here.
+- SMASH: One-Shot Model Architecture Search through HyperNetworks
+- Meta Inverse Reinforcement Learning via Maximum Reward Sharing
+- Learning to Learn from Weak Supervision by Full Supervision
+- Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm 
+[[arxiv]](https://arxiv.org/pdf/1710.11622)
+- Bayesian model ensembling using meta-trained recurrent neural networks
+- Accelerating Neural Architecture Search using Performance Prediction
+- Meta-Learning for Semi-Supervised Few-Shot Classification
+- Connectivity Learning in Multi-Branch Networks
+- A Simple Neural Attentive Meta-Learner
+- Semi-Supervised Few-Shot Learning with Prototypical Networks
+- Language Learning as Meta-Learning
+- Hyperparameter Optimization with Hypernets
+- Few-Shot Learning with Meta Metric Learners
+- Gated Fast Weights for On-The-Fly Neural Program Generation
+- A bridge between hyperparameter optimization \\ and learning-to-learn
+- Understanding Short-Horizon Bias in Stochastic Meta-Optimization
+- Routing Networks: Adaptive Selection of Non-linear Functions for Multi-Task Learning
+- Learning Decision Trees with Reinforcement Learning
+- Multiple Adaptive Bayesian Linear Regression for Scalable Bayesian Optimization with Warm Start
+- Backpropagated plasticity: learning to learn with gradient descent in large plastic networks
+- Learning to Learn while Learning
+- Meta-Learning for Instance-Level Data Association
+- Supervised Learning of Unsupervised Learning Rules
+- Learning word embeddings from dictionary definitions only
+- Learning to Model the Tail
+- Born Again Neural Networks
+- Hyperactivations for Activation Function Exploration
+- Concept Learning via Meta-Optimization with Energy Models
+- Simple and Efficient Architecture Search for CNNs
+
 
 ## Program Committee ##
 
-TBA
+We thank the program committee for shaping the excellent technical program (in alphabetical order):   
+
+Parminder Bhatia, Andrew Brock, Bistra Dilkina, Rocky Duan, David Duvenaud, Thomas Elsken, Dumitru Erhan, Matthias Feurer, Chelsea Finn, Roman Garnett, Christophe Giraud-Carrier, Erin Grant, Klaus Greff, Roger Grosse, Abhishek Gupta, Matt Hoffman, Aaron Klein, Marius Lindauer, Jan-Hendrik Metzen, Igor Mordatch, Randy Olson, Sachin Ravi, Horst Samulowitz, Jürgen Schmidhuber, Matthias	Seeger, Jake Snell, Jasper Snoek, Alexander	Toshev, Eleni Triantafillou, Jan van Rijn, Joaquin Vanschoren.
 
 ## Contacts  ##
 
