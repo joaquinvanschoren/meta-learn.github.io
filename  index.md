@@ -47,18 +47,19 @@ The goal of this workshop is to bring together researchers from all the differen
 
 | --------:| ---------------------------------------------------
 | 08:30 | Introduction and opening remarks 
-| 08:40 | Invited talk 1: Jitendra Malik
-| 09:10 | Invited talk 2: Christophe Giraud-Carrier -- Informing the Use of Hyperparameter Optimization Through Metalearning
+| 08:40 | **Jitendra Malik** -- Learning to optimize with reinforcement learning
+
+| 09:10 | **Christophe Giraud-Carrier** -- Informing the Use of Hyperparameter Optimization Through Metalearning
 | 09:40	| Poster spotlights
 | 10:00 | Poster session 1 ( + Coffee Break)
-| 11:00 | Invited talk 3: Jane Wang -- Multiple scales of task and reward-based learning
-| 11:30 | Invited talk 4: Chelsea Finn
+| 11:00 | **Jane Wang** -- Multiple scales of task and reward-based learning
+| 11:30 | **Chelsea Finn**
 | 12:00 | *Lunch Break*
-| 13:30 | Invited talk 5: Josh Tenenbaum
+| 13:30 | **Josh Tenenbaum** 
 | 14:00 | Contributed talk 1: Multiple Adaptive Bayesian Linear Regression for Scalable Bayesian Optimization with Warm Start
 | 14:15 | Contributed talk 2: Learning to Model the Tail 
 | 14:30 | Poster session 2 ( + Coffee Break)
-| 15:30 | Invited talk 6: Oriol Vinyals
+| 15:30 | **Oriol Vinyals**
 | 16:00 | Panel discussion
 | 17:00 | End 
 
