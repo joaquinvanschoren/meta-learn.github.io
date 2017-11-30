@@ -48,15 +48,15 @@ The goal of this workshop is to bring together researchers from all the differen
 | --------:| ---------------------------------------------------
 | 08:30 | Introduction and opening remarks 
 | 08:40 | Invited talk 1: Jitendra Malik
-| 09:10 | Invited talk 2: Christophe Giraud-Carrier
+| 09:10 | Invited talk 2: Christophe Giraud-Carrier -- Informing the Use of Hyperparameter Optimization Through Metalearning
 | 09:40	| Poster spotlights
 | 10:00 | Poster session 1 ( + Coffee Break)
-| 11:00 | Invited talk 3: Jane Wang  
+| 11:00 | Invited talk 3: Jane Wang -- Multiple scales of task and reward-based learning
 | 11:30 | Invited talk 4: Chelsea Finn
 | 12:00 | *Lunch Break*
 | 13:30 | Invited talk 5: Josh Tenenbaum
-| 14:00 | Contributed talk 1: TBA
-| 14:15 | Contributed talk 2: TBA
+| 14:00 | Contributed talk 1: Multiple Adaptive Bayesian Linear Regression for Scalable Bayesian Optimization with Warm Start
+| 14:15 | Contributed talk 2: Learning to Model the Tail 
 | 14:30 | Poster session 2 ( + Coffee Break)
 | 15:30 | Invited talk 6: Oriol Vinyals
 | 16:00 | Panel discussion
@@ -80,8 +80,7 @@ Submissions can be made at [https://cmt3.research.microsoft.com/metalearn2017](h
 - SMASH: One-Shot Model Architecture Search through HyperNetworks
 - Meta Inverse Reinforcement Learning via Maximum Reward Sharing
 - Learning to Learn from Weak Supervision by Full Supervision
-- Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm 
-[[arxiv]](https://arxiv.org/pdf/1710.11622)
+- Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm [[Extended version]](https://arxiv.org/pdf/1710.11622)
 - Bayesian model ensembling using meta-trained recurrent neural networks
 - Accelerating Neural Architecture Search using Performance Prediction
 - Meta-Learning for Semi-Supervised Few-Shot Classification
@@ -102,7 +101,7 @@ Submissions can be made at [https://cmt3.research.microsoft.com/metalearn2017](h
 - Meta-Learning for Instance-Level Data Association
 - Supervised Learning of Unsupervised Learning Rules
 - Learning word embeddings from dictionary definitions only
-- Learning to Model the Tail
+- Learning to Model the Tail [[Extended version]](https://papers.nips.cc/paper/7278-learning-to-model-the-tail)
 - Born Again Neural Networks
 - Hyperactivations for Activation Function Exploration
 - Concept Learning via Meta-Optimization with Energy Models
