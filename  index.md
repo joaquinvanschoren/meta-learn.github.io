@@ -48,7 +48,6 @@ The goal of this workshop is to bring together researchers from all the differen
 | --------:| ---------------------------------------------------
 | 08:30 | Introduction and opening remarks 
 | 08:40 | **Jitendra Malik** -- Learning to optimize with reinforcement learning
-
 | 09:10 | **Christophe Giraud-Carrier** -- Informing the Use of Hyperparameter Optimization Through Metalearning
 | 09:40	| Poster spotlights
 | 10:00 | Poster session 1 ( + Coffee Break)
