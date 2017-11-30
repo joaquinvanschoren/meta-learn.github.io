@@ -80,7 +80,7 @@ Submissions can be made at [https://cmt3.research.microsoft.com/metalearn2017](h
 - SMASH: One-Shot Model Architecture Search through HyperNetworks
 - Meta Inverse Reinforcement Learning via Maximum Reward Sharing
 - Learning to Learn from Weak Supervision by Full Supervision
-- Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm [[Extended version]](https://arxiv.org/pdf/1710.11622)
+- Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm [[Extended version](https://arxiv.org/pdf/1710.11622)]
 - Bayesian model ensembling using meta-trained recurrent neural networks
 - Accelerating Neural Architecture Search using Performance Prediction
 - Meta-Learning for Semi-Supervised Few-Shot Classification
@@ -101,7 +101,7 @@ Submissions can be made at [https://cmt3.research.microsoft.com/metalearn2017](h
 - Meta-Learning for Instance-Level Data Association
 - Supervised Learning of Unsupervised Learning Rules
 - Learning word embeddings from dictionary definitions only
-- Learning to Model the Tail [[Extended version]](https://papers.nips.cc/paper/7278-learning-to-model-the-tail)
+- Learning to Model the Tail [[Extended version](https://papers.nips.cc/paper/7278-learning-to-model-the-tail)]
 - Born Again Neural Networks
 - Hyperactivations for Activation Function Exploration
 - Concept Learning via Meta-Optimization with Energy Models
