@@ -62,7 +62,7 @@ The goal of this workshop is to bring together researchers from all the differen
 | 16:00 | Panel discussion
 | 17:00 | End 
 
-
+<!--
 ## Submission instructions  ##
 
 Papers must be in the latest NIPS format, but with a maximum of 4 pages (excluding references). Papers should include the authors (by using the \nipsfinalcopy) to your document prior to submitting). 
@@ -74,6 +74,7 @@ Accepted papers and eventual supplementary material will be made available on th
 **Accepted authors will be able to register to the NIPS workshops even if the registration for public is currently closed!**
 
 Submissions can be made at [https://cmt3.research.microsoft.com/metalearn2017](https://cmt3.research.microsoft.com/metalearn2017)
+-->
 
 ## Accepted Papers  ##
 
