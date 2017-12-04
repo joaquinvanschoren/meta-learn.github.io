@@ -52,7 +52,7 @@ The goal of this workshop is to bring together researchers from all the differen
 | 09:40	| Poster spotlights
 | 10:00 | Poster session 1 ( + Coffee Break)
 | 11:00 | **Jane Wang** -- Multiple scales of task and reward-based learning
-| 11:30 | **Chelsea Finn**
+| 11:30 | **Chelsea Finn** -- Model-Agnostic Meta-Learning: Universality, Inductive Bias, and Weak Supervision
 | 12:00 | *Lunch Break*
 | 13:30 | **Josh Tenenbaum** 
 | 14:00 | Contributed talk 1: Multiple Adaptive Bayesian Linear Regression for Scalable Bayesian Optimization with Warm Start
@@ -77,35 +77,49 @@ Submissions can be made at [https://cmt3.research.microsoft.com/metalearn2017](h
 
 ## Accepted Papers  ##
 
-- SMASH: One-Shot Model Architecture Search through HyperNetworks
-- Meta Inverse Reinforcement Learning via Maximum Reward Sharing
-- Learning to Learn from Weak Supervision by Full Supervision
+-  [SMASH: One-Shot Model Architecture Search through HyperNetworks](papers/metalearn17_brock.pdf)   
+Andrew Brock, Theodore Lim, J.M. Ritchie, Nick Weston
+- [Meta Inverse Reinforcement Learning via Maximum Reward Sharing](papers/metalearn17_li.pdf)   
+Kun Li,  Joel W. Burdick
+- [Learning to Learn from Weak Supervision by Full Supervision](papers/metalearn17_dehghani.pdf)   
+Mostafa Dehghani, Aliaksei Severyn, Sascha Rothe, Jaap Kamps
 - Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm [[Extended version](https://arxiv.org/pdf/1710.11622)]
 - Bayesian model ensembling using meta-trained recurrent neural networks
 - Accelerating Neural Architecture Search using Performance Prediction
-- Meta-Learning for Semi-Supervised Few-Shot Classification
-- Connectivity Learning in Multi-Branch Networks
-- A Simple Neural Attentive Meta-Learner
-- Semi-Supervised Few-Shot Learning with Prototypical Networks
+- [Meta-Learning for Semi-Supervised Few-Shot Classification](papers/metalearn17_ren.pdf) [[Appendix](papers/metalearn17_ren_appendix.pdf)]   
+Mengye Ren, Eleni Triantafillou, Sachin Ravi, Jake Snell, Kevin Swersky, Joshua B. Tenenbaum, Hugo Larochelle, Richard S. Zemel
+- [Connectivity Learning in Multi-Branch Networks](papers/metalearn17_ahmed.pdf)   
+Karim Ahmed, Lorenzo Torresani
+- [A Simple Neural Attentive Meta-Learner](papers/metalearn17_mishra.pdf)   
+Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel
+- [Semi-Supervised Few-Shot Learning with Prototypical Networks](papers/metalearn17_boney.pdf)   
+Rinu Boney, Alexander Ilin
 - Language Learning as Meta-Learning
 - Hyperparameter Optimization with Hypernets
-- Few-Shot Learning with Meta Metric Learners
+- [Few-Shot Learning with Meta Metric Learners](papers/metalearn17_cheng.pdf)   
+Yu Cheng, Mo Yu, Xiaoxiao Guo, Bowen Zhou
 - Gated Fast Weights for On-The-Fly Neural Program Generation
 - A bridge between hyperparameter optimization \\ and learning-to-learn
 - Understanding Short-Horizon Bias in Stochastic Meta-Optimization
 - Routing Networks: Adaptive Selection of Non-linear Functions for Multi-Task Learning
 - Learning Decision Trees with Reinforcement Learning
-- Multiple Adaptive Bayesian Linear Regression for Scalable Bayesian Optimization with Warm Start
+- [Multiple Adaptive Bayesian Linear Regression for Scalable Bayesian Optimization with Warm Start](papers/metalearning17_perrone.pdf)   
+Valerio Perrone, Rodolphe Jenatton, Matthias Seeger, Cédric Archambeau
 - Backpropagated plasticity: learning to learn with gradient descent in large plastic networks
-- Learning to Learn while Learning
-- Meta-Learning for Instance-Level Data Association
+- [Learning to Learn while Learning](papers/metalearn17_kappler.pdf)   
+Daniel Kappler, Stefan Schaal, Franziska Meier
+- [Meta-Learning for Instance-Level Data Association](papers/metalearn17_clark.pdf)   
+Ronald Clark, John McCormac, Stefan Leutenegger, Andrew J. Davison
 - Supervised Learning of Unsupervised Learning Rules
 - Learning word embeddings from dictionary definitions only
-- Learning to Model the Tail [[Extended version](https://papers.nips.cc/paper/7278-learning-to-model-the-tail)]
+- [Learning to Model the Tail](papers/metalearn17_wang.pdf) [[Extended version](https://papers.nips.cc/paper/7278-learning-to-model-the-tail)]   
+Yu-Xiong Wang, Deva Ramanan, Martial Hebert
 - Born Again Neural Networks
 - Hyperactivations for Activation Function Exploration
 - Concept Learning via Meta-Optimization with Energy Models
-- Simple and Efficient Architecture Search for CNNs
+- [Simple and Efficient Architecture Search for CNNs](papers/metalearn17_elsken.pdf)   
+Thomas Elsken, Jan-Hendrik Metzen, Frank Hutter
+
 
 
 ## Program Committee ##
