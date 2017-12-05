@@ -97,18 +97,20 @@ Karim Ahmed, Lorenzo Torresani
 Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel
 - [Semi-Supervised Few-Shot Learning with Prototypical Networks](papers/metalearn17_boney.pdf)   
 Rinu Boney, Alexander Ilin
-- [Language Learning as Meta-Learning](papers/metalearn17_andreas.pdf)   
+- [Language Learning as Meta-Learning](papers/metalearn17_andreas.pdf) [[Appendix](papers/metalearn17_andreas_appendix.pdf)]    
 Jacob Andreas, Dan Klein, Sergey Levine
 - [Hyperparameter Optimization with Hypernets](papers/metalearn17_lorraine.pdf)      
 Jonathan Lorraine, David Duvenaud
 - [Few-Shot Learning with Meta Metric Learners](papers/metalearn17_cheng.pdf)   
 Yu Cheng, Mo Yu, Xiaoxiao Guo, Bowen Zhou
-- Gated Fast Weights for On-The-Fly Neural Program Generation
+- [Gated Fast Weights for On-The-Fly Neural Program Generation](papers/metalearn17_schlag.pdf)   
+Imanol Schlag, Jürgen Schmidhuber
 - [A bridge between hyperparameter optimization and learning-to-learn](papers/metalearn17_franceschi.pdf)   
 Luca Franceschi, Paolo Frasconi, Michele Donini, Massimiliano Pontil
 - [Understanding Short-Horizon Bias in Stochastic Meta-Optimization](papers/metalearn17_wu.pdf) [[Appendix](papers/metalearn17_wu_appendix.pdf)]   
 Yuhuai Wu, Mengye Ren, Renjie Liao, Roger B. Grosse
-- Routing Networks: Adaptive Selection of Non-linear Functions for Multi-Task Learning [[Extended version](https://arxiv.org/abs/1711.01239)]
+- [Routing Networks: Adaptive Selection of Non-linear Functions for Multi-Task Learning](papers/metalearn17_rosenbaum.pdf) [[Extended version](https://arxiv.org/abs/1711.01239)]   
+Clemens Rosenbaum, Tim Klinger, Matthew Riemer
 - [Learning Decision Trees with Reinforcement Learning](papers/metalearn17_xiong.pdf) [[Appendix](papers/metalearn17_xiong_appendix.pdf)]   
 Zheng Xiong, Wenpeng Zhang, Wenwu Zhu
 - [Multiple Adaptive Bayesian Linear Regression for Scalable Bayesian Optimization with Warm Start](papers/metalearn17_perrone.pdf)   
@@ -120,7 +122,7 @@ Daniel Kappler, Stefan Schaal, Franziska Meier
 - [Meta-Learning for Instance-Level Data Association](papers/metalearn17_clark.pdf)   
 Ronald Clark, John McCormac, Stefan Leutenegger, Andrew J. Davison
 - [Supervised Learning of Unsupervised Learning Rules](papers/metalearn17_metz.pdf)   
-Luke Metz, Brian Cheung,Jascha Sohl-dickstein
+Luke Metz, Brian Cheung, Jascha Sohl-dickstein
 - [Learning word embeddings from dictionary definitions only](papers/metalearn17_bosc.pdf)   
 Tom Bosc, Pascal Vincent
 - [Learning to Model the Tail](papers/metalearn17_wang.pdf) [[Extended version](https://papers.nips.cc/paper/7278-learning-to-model-the-tail)]   
