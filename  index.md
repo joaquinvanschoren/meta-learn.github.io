@@ -100,24 +100,30 @@ Rinu Boney, Alexander Ilin
 - [Few-Shot Learning with Meta Metric Learners](papers/metalearn17_cheng.pdf)   
 Yu Cheng, Mo Yu, Xiaoxiao Guo, Bowen Zhou
 - Gated Fast Weights for On-The-Fly Neural Program Generation
-- A bridge between hyperparameter optimization \\ and learning-to-learn
+- A bridge between hyperparameter optimization and learning-to-learn
 - Understanding Short-Horizon Bias in Stochastic Meta-Optimization
 - Routing Networks: Adaptive Selection of Non-linear Functions for Multi-Task Learning
-- Learning Decision Trees with Reinforcement Learning
-- [Multiple Adaptive Bayesian Linear Regression for Scalable Bayesian Optimization with Warm Start](papers/metalearning17_perrone.pdf)   
+- [Learning Decision Trees with Reinforcement Learning](papers/metalearn17_xiong.pdf) [[Appendix](papers/metalearn17_xiong_appendix.pdf)]   
+Zheng Xiong, Wenpeng Zhang, Wenwu Zhu
+- [Multiple Adaptive Bayesian Linear Regression for Scalable Bayesian Optimization with Warm Start](papers/metalearn17_perrone.pdf)   
 Valerio Perrone, Rodolphe Jenatton, Matthias Seeger, Cédric Archambeau
-- Backpropagated plasticity: learning to learn with gradient descent in large plastic networks
+- [Backpropagated plasticity: learning to learn with gradient descent in large plastic networks](papers/metalearn17_miconi.pdf)
+Thomas Miconi, Jeff Clune, Kenneth O. Stanley
 - [Learning to Learn while Learning](papers/metalearn17_kappler.pdf)   
 Daniel Kappler, Stefan Schaal, Franziska Meier
 - [Meta-Learning for Instance-Level Data Association](papers/metalearn17_clark.pdf)   
 Ronald Clark, John McCormac, Stefan Leutenegger, Andrew J. Davison
-- Supervised Learning of Unsupervised Learning Rules
-- Learning word embeddings from dictionary definitions only
+- [Supervised Learning of Unsupervised Learning Rules](papers/metalearn17_metz.pdf)   
+Luke Metz, Brian Cheung,Jascha Sohl-dickstein
+- [Learning word embeddings from dictionary definitions only](papers/metalearn17_bosc.pdf)   
+Tom Bosc, Pascal Vincent
 - [Learning to Model the Tail](papers/metalearn17_wang.pdf) [[Extended version](https://papers.nips.cc/paper/7278-learning-to-model-the-tail)]   
 Yu-Xiong Wang, Deva Ramanan, Martial Hebert
-- Born Again Neural Networks
+- [Born Again Neural Networks](papers/matelearn17_furlanello.pdf)   
+Tommaso Furlanello, Zachary C. Lipton, Laurent Itti, Anima Anandkumar
 - Hyperactivations for Activation Function Exploration
-- Concept Learning via Meta-Optimization with Energy Models
+- [Concept Learning via Meta-Optimization with Energy Models](papers/metalearn17_mordatch.pdf)   
+Igor Mordatch
 - [Simple and Efficient Architecture Search for CNNs](papers/metalearn17_elsken.pdf)   
 Thomas Elsken, Jan-Hendrik Metzen, Frank Hutter
 
