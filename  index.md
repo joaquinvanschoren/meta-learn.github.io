@@ -96,12 +96,15 @@ Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel
 - [Semi-Supervised Few-Shot Learning with Prototypical Networks](papers/metalearn17_boney.pdf)   
 Rinu Boney, Alexander Ilin
 - Language Learning as Meta-Learning
-- Hyperparameter Optimization with Hypernets
+- [Hyperparameter Optimization with Hypernets](papers/metalearn17_lorraine.pdf)      
+Jonathan Lorraine, David Duvenaud
 - [Few-Shot Learning with Meta Metric Learners](papers/metalearn17_cheng.pdf)   
 Yu Cheng, Mo Yu, Xiaoxiao Guo, Bowen Zhou
 - Gated Fast Weights for On-The-Fly Neural Program Generation
-- A bridge between hyperparameter optimization and learning-to-learn
-- Understanding Short-Horizon Bias in Stochastic Meta-Optimization
+- [A bridge between hyperparameter optimization and learning-to-learn](papers/metalearn17_franceschi.pdf)   
+Luca Franceschi, Paolo Frasconi, Michele Donini, Massimiliano Pontil
+- [Understanding Short-Horizon Bias in Stochastic Meta-Optimization](papers/metalearn17_wu.pdf)[[Appendix](papers/metalearn17_wu_appendix.pdf)]   
+Yuhuai Wu, Mengye Ren, Renjie Liao, Roger B. Grosse
 - Routing Networks: Adaptive Selection of Non-linear Functions for Multi-Task Learning
 - [Learning Decision Trees with Reinforcement Learning](papers/metalearn17_xiong.pdf) [[Appendix](papers/metalearn17_xiong_appendix.pdf)]   
 Zheng Xiong, Wenpeng Zhang, Wenwu Zhu
