@@ -97,7 +97,8 @@ Karim Ahmed, Lorenzo Torresani
 Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel
 - [Semi-Supervised Few-Shot Learning with Prototypical Networks](papers/metalearn17_boney.pdf)   
 Rinu Boney, Alexander Ilin
-- Language Learning as Meta-Learning
+- [Language Learning as Meta-Learning](papers/metalearn17_andreas.pdf)   
+Jacob Andreas, Dan Klein, Sergey Levine
 - [Hyperparameter Optimization with Hypernets](papers/metalearn17_lorraine.pdf)      
 Jonathan Lorraine, David Duvenaud
 - [Few-Shot Learning with Meta Metric Learners](papers/metalearn17_cheng.pdf)   
@@ -124,7 +125,7 @@ Luke Metz, Brian Cheung,Jascha Sohl-dickstein
 Tom Bosc, Pascal Vincent
 - [Learning to Model the Tail](papers/metalearn17_wang.pdf) [[Extended version](https://papers.nips.cc/paper/7278-learning-to-model-the-tail)]   
 Yu-Xiong Wang, Deva Ramanan, Martial Hebert
-- [Born Again Neural Networks](papers/matelearn17_furlanello.pdf)   
+- [Born Again Neural Networks](papers/metalearn17_furlanello.pdf)   
 Tommaso Furlanello, Zachary C. Lipton, Laurent Itti, Anima Anandkumar
 - Hyperactivations for Activation Function Exploration
 - [Concept Learning via Meta-Optimization with Energy Models](papers/metalearn17_mordatch.pdf)   
