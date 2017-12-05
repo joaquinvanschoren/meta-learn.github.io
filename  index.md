@@ -58,7 +58,7 @@ The goal of this workshop is to bring together researchers from all the differen
 | 14:00 | Contributed talk 1: Multiple Adaptive Bayesian Linear Regression for Scalable Bayesian Optimization with Warm Start
 | 14:15 | Contributed talk 2: Learning to Model the Tail 
 | 14:30 | Poster session 2 ( + Coffee Break)
-| 15:30 | **Oriol Vinyals**
+| 15:30 | **Oriol Vinyals** -- Meta Unsupervised Learning
 | 16:00 | Panel discussion
 | 17:00 | End 
 
@@ -85,8 +85,10 @@ Kun Li,  Joel W. Burdick
 - [Learning to Learn from Weak Supervision by Full Supervision](papers/metalearn17_dehghani.pdf)   
 Mostafa Dehghani, Aliaksei Severyn, Sascha Rothe, Jaap Kamps
 - Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm [[Extended version](https://arxiv.org/pdf/1710.11622)]
-- Bayesian model ensembling using meta-trained recurrent neural networks
-- Accelerating Neural Architecture Search using Performance Prediction
+- [Bayesian model ensembling using meta-trained recurrent neural networks](papers/metalearn17_ambrogioni.pdf)   
+Luca Ambrogioni, Julia Berezutskaya, Umut Güçlü, Eva W. P. van den Borne, Yağmur Güçlütürk, Marcel A. J. van Gerven
+- [Accelerating Neural Architecture Search using Performance Prediction](papers/metalearn17_baker.pdf)   
+Bowen Baker, Otkrist Gupta, Ramesh Raskar, Nikhil Naik
 - [Meta-Learning for Semi-Supervised Few-Shot Classification](papers/metalearn17_ren.pdf) [[Appendix](papers/metalearn17_ren_appendix.pdf)]   
 Mengye Ren, Eleni Triantafillou, Sachin Ravi, Jake Snell, Kevin Swersky, Joshua B. Tenenbaum, Hugo Larochelle, Richard S. Zemel
 - [Connectivity Learning in Multi-Branch Networks](papers/metalearn17_ahmed.pdf)   
@@ -103,9 +105,9 @@ Yu Cheng, Mo Yu, Xiaoxiao Guo, Bowen Zhou
 - Gated Fast Weights for On-The-Fly Neural Program Generation
 - [A bridge between hyperparameter optimization and learning-to-learn](papers/metalearn17_franceschi.pdf)   
 Luca Franceschi, Paolo Frasconi, Michele Donini, Massimiliano Pontil
-- [Understanding Short-Horizon Bias in Stochastic Meta-Optimization](papers/metalearn17_wu.pdf)[[Appendix](papers/metalearn17_wu_appendix.pdf)]   
+- [Understanding Short-Horizon Bias in Stochastic Meta-Optimization](papers/metalearn17_wu.pdf) [[Appendix](papers/metalearn17_wu_appendix.pdf)]   
 Yuhuai Wu, Mengye Ren, Renjie Liao, Roger B. Grosse
-- Routing Networks: Adaptive Selection of Non-linear Functions for Multi-Task Learning
+- Routing Networks: Adaptive Selection of Non-linear Functions for Multi-Task Learning [[Extended version](https://arxiv.org/abs/1711.01239)]
 - [Learning Decision Trees with Reinforcement Learning](papers/metalearn17_xiong.pdf) [[Appendix](papers/metalearn17_xiong_appendix.pdf)]   
 Zheng Xiong, Wenpeng Zhang, Wenwu Zhu
 - [Multiple Adaptive Bayesian Linear Regression for Scalable Bayesian Optimization with Warm Start](papers/metalearn17_perrone.pdf)   
