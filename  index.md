@@ -84,7 +84,9 @@ Andrew Brock, Theodore Lim, J.M. Ritchie, Nick Weston
 Kun Li,  Joel W. Burdick
 - [Learning to Learn from Weak Supervision by Full Supervision](papers/metalearn17_dehghani.pdf)   
 Mostafa Dehghani, Aliaksei Severyn, Sascha Rothe, Jaap Kamps
-- Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm [[Extended version](https://arxiv.org/pdf/1710.11622)]
+- Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm   
+Chelsea Finn, Sergey Levine
+<!--[[Extended version](https://arxiv.org/pdf/1710.11622)]-->
 - [Bayesian model ensembling using meta-trained recurrent neural networks](papers/metalearn17_ambrogioni.pdf)   
 Luca Ambrogioni, Julia Berezutskaya, Umut Güçlü, Eva W. P. van den Borne, Yağmur Güçlütürk, Marcel A. J. van Gerven
 - [Accelerating Neural Architecture Search using Performance Prediction](papers/metalearn17_baker.pdf)   
@@ -129,7 +131,8 @@ Tom Bosc, Pascal Vincent
 Yu-Xiong Wang, Deva Ramanan, Martial Hebert
 - [Born Again Neural Networks](papers/metalearn17_furlanello.pdf)   
 Tommaso Furlanello, Zachary C. Lipton, Laurent Itti, Anima Anandkumar
-- Hyperactivations for Activation Function Exploration
+- [Hyperactivations for Activation Function Exploration](papers/metalearn17_vercellino.pdf)   
+Conner Joseph Vercellino, William Yang Wang
 - [Concept Learning via Meta-Optimization with Energy Models](papers/metalearn17_mordatch.pdf)   
 Igor Mordatch
 - [Simple and Efficient Architecture Search for CNNs](papers/metalearn17_elsken.pdf)   
