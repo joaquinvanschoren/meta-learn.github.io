@@ -54,7 +54,7 @@ The goal of this workshop is to bring together researchers from all the differen
 | 11:00 | **Jane Wang** -- Multiple scales of task and reward-based learning
 | 11:30 | **Chelsea Finn** -- Model-Agnostic Meta-Learning: Universality, Inductive Bias, and Weak Supervision
 | 12:00 | *Lunch Break*
-| 13:30 | **Josh Tenenbaum** 
+| 13:30 | **Josh Tenenbaum** -- Learn to learn high-dimensional models from few examples
 | 14:00 | Contributed talk 1: Multiple Adaptive Bayesian Linear Regression for Scalable Bayesian Optimization with Warm Start
 | 14:15 | Contributed talk 2: Learning to Model the Tail 
 | 14:30 | Poster session 2 ( + Coffee Break)
