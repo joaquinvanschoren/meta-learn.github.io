@@ -51,7 +51,7 @@ The goal of this workshop is to bring together researchers from all the differen
 | 09:10 | [**Christophe Giraud-Carrier** -- Informing the Use of Hyperparameter Optimization Through Metalearning](slides/2017/metalearn2017_giraud-carrier.pptx)
 | 09:40	| Poster spotlights
 | 10:00 | Poster session 1 ( + Coffee Break)
-| 11:00 | **Jane Wang** -- Multiple scales of task and reward-based learning
+| 11:00 | [**Jane Wang** -- Multiple scales of task and reward-based learning](slides/2017/metalearn2017_wang.pdf)
 | 11:30 | [**Chelsea Finn** -- Model-Agnostic Meta-Learning: Universality, Inductive Bias, and Weak Supervision](slides/2017/metalearn2017_finn.pdf)
 | 12:00 | *Lunch Break*
 | 13:30 | **Josh Tenenbaum** -- Learn to learn high-dimensional models from few examples
