@@ -21,31 +21,32 @@ The goal of this workshop is to bring together researchers from all the differen
 
 
 ## Speakers ##
-- [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) (MIT)
-- [Jane Wang]() (DeepMind)
-- [Jitendra Malik](https://people.eecs.berkeley.edu/~malik/) (UC Berkeley)
-- [Oriol Vinyals]() (DeepMind)
-- [Chelsea Finn](https://people.eecs.berkeley.edu/~cbfinn/) (UC Berkeley) 
-- [Christophe Giraud-Carrier]() (Brigham Young University)
+- [Nando de Freitas](https://scholar.google.com/citations?user=nzEluBwAAAAJ&hl=en) (DeepMind)
+- [Lise Getoor](https://getoor.soe.ucsc.edu/home) (UC Santa Cruz)
+- [Hugo Larochelle](https://ai.google/research/people/105144) (Google Brain)
+- [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/) (UC Berkeley)
+- [Michele Sebag]() (Paris-Saclay) 
 
-## Additional Panelists  ##
-- [Samy Bengio]() (Google)
+<!-- ## Additional Panelists  ##
+- [Samy Bengio]() (Google) -->
 
 ## Organizers ##
-- [Roberto Calandra](http://www.robertocalandra.com) (UC Berkeley)
 - [Frank Hutter](http://www2.informatik.uni-freiburg.de/~hutter/) (University of Freiburg)
-- [Hugo Larochelle](http://www.dmi.usherb.ca/~larocheh/index_en.html) (Google Brain)
-- [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/) (UC Berkeley)
+- [Joaquin Vanschoren]() ()
+- [Erin Grant]() (UC Berkeley)
+- [Jane Wang](http://www.janexwang.com) (DeepMind)
+- [Sachin Ravi]() (Princeton)
 
 ## Important dates ##
-- Submission deadline: ~~03 November 2017~~ ([Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
-- Notification: ~~24 November 2017~~
-- Camera ready: ~~04 December 2017~~
-- Workshop: 09 December 2017
+- Submission deadline: ~~02 November 2018~~ ([Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
+- Notification: ~~23 November 2018~~
+- Camera ready: ~~03 December 2018~~
+- Workshop: 08 December 2018
 
 ## Schedule ##
 
-| --------:| ---------------------------------------------------
+TBD
+<!-- | --------:| ---------------------------------------------------
 | 08:30 | Introduction and opening remarks 
 | 08:40 | **Jitendra Malik** -- Learning to optimize with reinforcement learning
 | 09:10 | [**Christophe Giraud-Carrier** -- Informing the Use of Hyperparameter Optimization Through Metalearning](slides/2017/metalearn2017_giraud-carrier.pptx)
@@ -60,7 +61,7 @@ The goal of this workshop is to bring together researchers from all the differen
 | 14:30 | Poster session 2 ( + Coffee Break)
 | 15:30 | **Oriol Vinyals** -- Meta Unsupervised Learning
 | 16:00 | Panel discussion
-| 17:00 | End 
+| 17:00 | End  -->
 
 <!--
 ## Submission instructions  ##
@@ -76,7 +77,7 @@ Accepted papers and eventual supplementary material will be made available on th
 Submissions can be made at [https://cmt3.research.microsoft.com/metalearn2017](https://cmt3.research.microsoft.com/metalearn2017)
 -->
 
-## Accepted Papers  ##
+<!-- ## Accepted Papers  ##
 
 -  [SMASH: One-Shot Model Architecture Search through HyperNetworks](papers/2017/metalearn17_brock.pdf)   
 Andrew Brock, Theodore Lim, J.M. Ritchie, Nick Weston
@@ -85,9 +86,9 @@ Kun Li,  Joel W. Burdick
 - [Learning to Learn from Weak Supervision by Full Supervision](papers/2017/metalearn17_dehghani.pdf)   
 Mostafa Dehghani, Aliaksei Severyn, Sascha Rothe, Jaap Kamps
 - Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm   
-Chelsea Finn, Sergey Levine
+Chelsea Finn, Sergey Levine -->
 <!--[[Extended version](https://arxiv.org/pdf/1710.11622)]-->
-- [Bayesian model ensembling using meta-trained recurrent neural networks](papers/2017/metalearn17_ambrogioni.pdf)   
+<!-- - [Bayesian model ensembling using meta-trained recurrent neural networks](papers/2017/metalearn17_ambrogioni.pdf)   
 Luca Ambrogioni, Julia Berezutskaya, Umut Güçlü, Eva W. P. van den Borne, Yağmur Güçlütürk, Marcel A. J. van Gerven
 - [Accelerating Neural Architecture Search using Performance Prediction](papers/2017/metalearn17_baker.pdf)   
 Bowen Baker, Otkrist Gupta, Ramesh Raskar, Nikhil Naik
@@ -136,15 +137,15 @@ Conner Joseph Vercellino, William Yang Wang
 - [Concept Learning via Meta-Optimization with Energy Models](papers/2017/metalearn17_mordatch.pdf)   
 Igor Mordatch
 - [Simple and Efficient Architecture Search for CNNs](papers/2017/metalearn17_elsken.pdf)   
-Thomas Elsken, Jan-Hendrik Metzen, Frank Hutter
+Thomas Elsken, Jan-Hendrik Metzen, Frank Hutter -->
 
 
-
+<!-- 
 ## Program Committee ##
 
 We thank the program committee for shaping the excellent technical program (in alphabetical order):   
 
-Parminder Bhatia, Andrew Brock, Bistra Dilkina, Rocky Duan, David Duvenaud, Thomas Elsken, Dumitru Erhan, Matthias Feurer, Chelsea Finn, Roman Garnett, Christophe Giraud-Carrier, Erin Grant, Klaus Greff, Roger Grosse, Abhishek Gupta, Matt Hoffman, Aaron Klein, Marius Lindauer, Jan-Hendrik Metzen, Igor Mordatch, Randy Olson, Sachin Ravi, Horst Samulowitz, Jürgen Schmidhuber, Matthias	Seeger, Jake Snell, Jasper Snoek, Alexander	Toshev, Eleni Triantafillou, Jan van Rijn, Joaquin Vanschoren.
+Parminder Bhatia, Andrew Brock, Bistra Dilkina, Rocky Duan, David Duvenaud, Thomas Elsken, Dumitru Erhan, Matthias Feurer, Chelsea Finn, Roman Garnett, Christophe Giraud-Carrier, Erin Grant, Klaus Greff, Roger Grosse, Abhishek Gupta, Matt Hoffman, Aaron Klein, Marius Lindauer, Jan-Hendrik Metzen, Igor Mordatch, Randy Olson, Sachin Ravi, Horst Samulowitz, Jürgen Schmidhuber, Matthias	Seeger, Jake Snell, Jasper Snoek, Alexander	Toshev, Eleni Triantafillou, Jan van Rijn, Joaquin Vanschoren. -->
 
 ## Contacts  ##
 
