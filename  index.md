@@ -32,7 +32,7 @@ The goal of this workshop is to bring together researchers from all the differen
 
 ## Organizers ##
 - [Frank Hutter](http://www2.informatik.uni-freiburg.de/~hutter/) (University of Freiburg)
-- [Joaquin Vanschoren]() ()
+- [Joaquin Vanschoren]() (Eindhoven University of Technology)
 - [Erin Grant]() (UC Berkeley)
 - [Jane Wang](http://www.janexwang.com) (DeepMind)
 - [Sachin Ravi]() (Princeton)
