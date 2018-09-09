@@ -32,36 +32,36 @@ The goal of this workshop is to bring together researchers from all the differen
 
 ## Organizers ##
 - [Frank Hutter](http://www2.informatik.uni-freiburg.de/~hutter/) (University of Freiburg)
-- [Joaquin Vanschoren]() (Eindhoven University of Technology)
-- [Erin Grant]() (UC Berkeley)
+- [Joaquin Vanschoren](http://www.win.tue.nl/~jvanscho/) (Eindhoven University of Technology)
+- [Erin Grant](https://people.eecs.berkeley.edu/~eringrant/) (UC Berkeley)
 - [Jane Wang](http://www.janexwang.com) (DeepMind)
-- [Sachin Ravi]() (Princeton)
+- [Sachin Ravi](http://www.cs.princeton.edu/~sachinr/) (Princeton)
 
 ## Important dates ##
-- Submission deadline: 17 October 2018 ([Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
+- Submission deadline: 19 October 2018 ([Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
 - Notification: 23 November 2018
 - Camera ready: 03 December 2018
 - Workshop: 08 December 2018
 
 ## Schedule ##
 
-TBD
-<!-- | --------:| ---------------------------------------------------
-| 08:30 | Introduction and opening remarks 
-| 08:40 | **Jitendra Malik** -- Learning to optimize with reinforcement learning
-| 09:10 | [**Christophe Giraud-Carrier** -- Informing the Use of Hyperparameter Optimization Through Metalearning](slides/2017/metalearn2017_giraud-carrier.pptx)
+| --------:| ---------------------------------------------------
+| 09:00 | Introduction and opening remarks 
+| 09:10 | **Invited Talk 1**
 | 09:40	| Poster spotlights
-| 10:00 | Poster session 1 ( + Coffee Break)
-| 11:00 | [**Jane Wang** -- Multiple scales of task and reward-based learning](slides/2017/metalearn2017_wang.pdf)
-| 11:30 | [**Chelsea Finn** -- Model-Agnostic Meta-Learning: Universality, Inductive Bias, and Weak Supervision](slides/2017/metalearn2017_finn.pdf)
+| 10:00 | Poster session 1
+| 10:30 | Coffee Break
+| 11:00 | **Invited Talk 2**
+| 11:30 | **Invited Talk 3**
 | 12:00 | *Lunch Break*
-| 13:30 | **Josh Tenenbaum** -- Learn to learn high-dimensional models from few examples
-| 14:00 | Contributed talk 1: Multiple Adaptive Bayesian Linear Regression for Scalable Bayesian Optimization with Warm Start
-| 14:15 | Contributed talk 2: Learning to Model the Tail 
-| 14:30 | Poster session 2 ( + Coffee Break)
-| 15:30 | **Oriol Vinyals** -- Meta Unsupervised Learning
+| 13:30 | **Invited Talk 4**
+| 14:00 | Contributed talk 1
+| 14:15 | Contributed talk 2
+| 14:30 | Poster session 2
+| 15:00 | Coffee Break
+| 15:30 | **Invited Talk 5**
 | 16:00 | Panel discussion
-| 17:00 | End  -->
+| 17:00 | End 
 
 
 ## Submission Instructions  ##
