@@ -50,18 +50,20 @@ The goal of this workshop is to bring together researchers from all the differen
 | 09:10 | **Invited Talk 1**
 | 09:40	| Poster spotlights
 | 10:00 | Poster session 1
-| 10:30 | Coffee Break
+| 10:30 | *Coffee Break*
 | 11:00 | **Invited Talk 2**
-| 11:30 | **Invited Talk 3**
+| 11:30 | Poster session 2
 | 12:00 | *Lunch Break*
-| 13:30 | **Invited Talk 4**
-| 14:00 | Contributed talk 1
-| 14:15 | Contributed talk 2
-| 14:30 | Poster session 2
-| 15:00 | Coffee Break
-| 15:30 | **Invited Talk 5**
-| 16:00 | Panel discussion
-| 17:00 | End 
+| 13:30 | **Invited Talk 3**
+| 14:00 | **Invited Talk 4**
+| 14:30 | Poster session 3
+| 15:00 | *Coffee Break*
+| 15:30 | Poster session 4
+| 16:00 | **Invited Talk 5**
+| 16:30 | Contributed talk 1
+| 16:45 | Contributed talk 2
+| 17:00 | Panel discussion
+| 18:00 | End 
 
 
 ## Submission Instructions  ##
