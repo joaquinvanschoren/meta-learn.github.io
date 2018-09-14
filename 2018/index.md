@@ -150,6 +150,10 @@ We thank the program committee for shaping the excellent technical program (in a
 
 Parminder Bhatia, Andrew Brock, Bistra Dilkina, Rocky Duan, David Duvenaud, Thomas Elsken, Dumitru Erhan, Matthias Feurer, Chelsea Finn, Roman Garnett, Christophe Giraud-Carrier, Erin Grant, Klaus Greff, Roger Grosse, Abhishek Gupta, Matt Hoffman, Aaron Klein, Marius Lindauer, Jan-Hendrik Metzen, Igor Mordatch, Randy Olson, Sachin Ravi, Horst Samulowitz, Jürgen Schmidhuber, Matthias	Seeger, Jake Snell, Jasper Snoek, Alexander	Toshev, Eleni Triantafillou, Jan van Rijn, Joaquin Vanschoren. -->
 
+## Past workshops
+
+[Workshop on Meta-Learning (MetaLearn 2017) @ NIPS 2017](2017)
+
 ## Contacts  ##
 
 For any question you can contact us at <info@metalearning.ml>
