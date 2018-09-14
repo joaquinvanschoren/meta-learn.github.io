@@ -3,8 +3,7 @@ title: Home
 permalink: /2018/index.html
 weight: -1
 redirect_from: 
-  - "/index.html"
-  - "/"
+  - "/index"
   - "/2018/"
 ---
 
