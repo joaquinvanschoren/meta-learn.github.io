@@ -2,5 +2,5 @@
 title: MetaLearn
 permalink: /index.html
 weight: -1
-redirect_from: "/"
+redirect_to: /2018/
 ---
