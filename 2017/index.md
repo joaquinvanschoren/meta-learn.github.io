@@ -1,5 +1,6 @@
 ---
-title: MetaLearn2017
+title: Workshop on Meta-Learning (MetaLearn 2017)
+description: "@NIPS 2017 <br> Saturday 09 December 2017 <br> Hyatt Regency Long Beach, Beacon Ballroom D+E+F+H"
 permalink: /2017/index.html
 weight: -1
 redirect_from: "/2017/"
