@@ -9,11 +9,12 @@ The original maintainer (Roberto Calandra) reserves the right to intervene to pr
 To make the website ready for the year `20XX`:
 
 1.  Create a folder `20XX`.
-2.  Create a Markdown file at `20XX/index.md` with the webpage content. Feel free to copy the template from the previous year `20XX - 1`, adding a link to `(20XX - 1)/index.md`. Ensure that the header of `20XX/index.md` includes 
+2.  Create a Markdown file at `20XX/index.md` with the webpage content. Feel free to copy the template from the previous year `20XX - 1`, adding a link to `(20XX - 1)/index.md` under `#Past Workshops`. Ensure that the header of `20XX/index.md` includes 
 
 ```
 ---
-title: MetaLearn20XX
+title: Workshop on Meta-Learning (MetaLearn 20XX)
+description: "@NIPS 20XX <br> DATE <br> LOCATION"
 permalink: /20XX/index.html
 weight: -1
 redirect_from: /201XX/
