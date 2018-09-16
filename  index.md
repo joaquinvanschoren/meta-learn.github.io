@@ -38,8 +38,8 @@ The goal of this workshop is to bring together researchers from all the differen
 - [Sachin Ravi](http://www.cs.princeton.edu/~sachinr/) (Princeton)
 
 ## Important dates ##
-- Submission deadline: 19 October 2018 ([Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
-- Notification: 23 November 2018
+- Submission deadline: 15 October 2018 ([Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
+- Notification: 9 November 2018
 - Camera ready: 03 December 2018
 - Workshop: 08 December 2018
 
@@ -68,7 +68,7 @@ The goal of this workshop is to bring together researchers from all the differen
 
 ## Submission Instructions  ##
 
-Papers must be in the latest NIPS format, but with a maximum of 4 pages (excluding references). Papers should include the authors (by using the \nipsfinalcopy) to your document prior to submitting). 
+Papers must be in the latest NIPS format, but with a maximum of 4 pages (excluding references). Papers should include the authors (by using the \nipsfinalcopy) to your document prior to submitting).
 
 Accepted papers and eventual supplementary material will be made available on the workshop website. However, this does not constitute an archival publication and no formal workshop proceedings will be made available, meaning contributors are free to publish their work in archival journals or conference.
 
