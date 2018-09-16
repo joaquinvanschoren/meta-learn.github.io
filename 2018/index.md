@@ -41,7 +41,7 @@ The goal of this workshop is to bring together researchers from all the differen
 - [Sachin Ravi](http://www.cs.princeton.edu/~sachinr/) (Princeton)
 
 ## Important dates ##
-- Submission deadline: 19 October 2018 ([Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
+- Submission deadline: 17 October 2018 ([Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
 - Notification: 09 November 2018
 - Camera ready: 03 December 2018
 - Workshop: 08 December 2018
