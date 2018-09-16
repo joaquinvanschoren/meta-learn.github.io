@@ -1,7 +1,10 @@
 ---
-title: Home
-permalink: /index.html
+title: Workshop on Meta-Learning (MetaLearn 2018)
+description: "@NIPS 2018 <br> Saturday 08 December 2018 <br> Palais des Congrès de Montréal, Montréal, Canada"
+
+permalink: /2018/index.html
 weight: -1
+redirect_from: /2018/
 ---
 
 Recent years have seen rapid progress in meta-learning methods, which learn (and optimize) the performance of learning methods based on data, generate new learning methods from scratch, and learn to transfer knowledge across tasks and domains. Meta-learning can be seen as the logical conclusion of the arc that machine learning has undergone in the last decade, from learning classifiers, to learning representations, and finally to learning algorithms that themselves acquire representations and classifiers. The ability to improve one’s own learning capabilities through experience can also be viewed as a hallmark of intelligent beings, and there are strong connections with work on human learning in neuroscience.
@@ -38,8 +41,8 @@ The goal of this workshop is to bring together researchers from all the differen
 - [Sachin Ravi](http://www.cs.princeton.edu/~sachinr/) (Princeton)
 
 ## Important dates ##
-- Submission deadline: 15 October 2018 ([Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
-- Notification: 9 November 2018
+- Submission deadline: 17 October 2018 ([Anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
+- Notification: 09 November 2018
 - Camera ready: 03 December 2018
 - Workshop: 08 December 2018
 
@@ -148,6 +151,10 @@ Thomas Elsken, Jan-Hendrik Metzen, Frank Hutter -->
 We thank the program committee for shaping the excellent technical program (in alphabetical order):   
 
 Parminder Bhatia, Andrew Brock, Bistra Dilkina, Rocky Duan, David Duvenaud, Thomas Elsken, Dumitru Erhan, Matthias Feurer, Chelsea Finn, Roman Garnett, Christophe Giraud-Carrier, Erin Grant, Klaus Greff, Roger Grosse, Abhishek Gupta, Matt Hoffman, Aaron Klein, Marius Lindauer, Jan-Hendrik Metzen, Igor Mordatch, Randy Olson, Sachin Ravi, Horst Samulowitz, Jürgen Schmidhuber, Matthias	Seeger, Jake Snell, Jasper Snoek, Alexander	Toshev, Eleni Triantafillou, Jan van Rijn, Joaquin Vanschoren. -->
+
+## Past workshops
+
+[Workshop on Meta-Learning (MetaLearn 2017) @ NIPS 2017](http://metalearning.ml/2017/)
 
 ## Contacts  ##
 
