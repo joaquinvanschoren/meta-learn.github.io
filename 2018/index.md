@@ -94,6 +94,10 @@ Submissions can be made at [https://cmt3.research.microsoft.com/metalearn2018](h
 
    We cannot confirm this yet but it is most likely that we will have at most one registration to offer per paper.
 
+4. Can a paper be submitted to the workshop that has already appeared at a previous conference with published proceedings?
+
+   We won't be accepting such submissions, unless they have been adapted to contain significantly new results (where novelty is one of the qualities reviewers will be asked to evaluate).
+
 <!-- ## Accepted Papers  ##
 
 -  [SMASH: One-Shot Model Architecture Search through HyperNetworks](papers/2017/metalearn17_brock.pdf)   
