@@ -9,7 +9,7 @@ redirect_from: /2018/
 
 Recent years have seen rapid progress in meta-learning methods, which learn (and optimize) the performance of learning methods based on data, generate new learning methods from scratch, or learn to transfer knowledge across tasks and domains. Meta-learning can be seen as the logical conclusion of the arc that machine learning has undergone in the last decade, from learning classifiers, to learning representations, and finally to learning algorithms that themselves acquire representations and classifiers. The ability to improve one’s own learning capabilities through experience can also be viewed as a hallmark of intelligent beings, and there are strong connections with work on human learning in neuroscience.
 
-Meta-learning methods are also of substantial practical interest, since they have, e.g., been shown to yield new state-of-the-art automated machine learning methods, novel deep learning architectures, and substantially improved one-shot learning systems. 
+Meta-learning methods are also of substantial practical interest, since they have, e.g., been shown to yield new state-of-the-art automated machine learning methods, novel deep learning architectures, and substantially improved one-shot learning systems.
 
 Some of the fundamental questions that this workshop aims to address are:
 - What are the fundamental differences in the learning “task” compared to traditional  “non-meta” learners?
@@ -18,7 +18,7 @@ Some of the fundamental questions that this workshop aims to address are:
 - How can we exploit our domain knowledge to effectively guide the meta-learning process?
 - What are the meta-learning processes in nature (e.g, in humans), and how can we take inspiration from them?
 - Which ML approaches are best suited for meta-learning, in which circumstances, and why?
-- What principles can we learn from meta-learning to help us design the next generation of learning systems? 
+- What principles can we learn from meta-learning to help us design the next generation of learning systems?
 
 The goal of this workshop is to bring together researchers from all the different communities and topics that fall under the umbrella of meta-learning. We expect that the presence of these different communities will result in a fruitful exchange of ideas and stimulate an open discussion about the current challenges in meta-learning, as well as possible solutions.
 
@@ -28,7 +28,7 @@ The goal of this workshop is to bring together researchers from all the differen
 - [Lise Getoor](https://getoor.soe.ucsc.edu/home) (UC Santa Cruz)
 - [Hugo Larochelle](https://ai.google/research/people/105144) (Google Brain)
 - [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/) (UC Berkeley)
-- [Michele Sebag]() (Paris-Saclay) 
+- [Michele Sebag]() (Paris-Saclay)
 
 <!-- ## Additional Panelists  ##
 - [Samy Bengio]() (Google) -->
@@ -49,7 +49,7 @@ The goal of this workshop is to bring together researchers from all the differen
 ## Schedule ##
 
 | --------:| ---------------------------------------------------
-| 09:00 | Introduction and opening remarks 
+| 09:00 | Introduction and opening remarks
 | 09:10 | **Invited Talk 1**
 | 09:40	| Poster spotlights
 | 10:00 | Poster session 1
@@ -66,7 +66,7 @@ The goal of this workshop is to bring together researchers from all the differen
 | 16:30 | Contributed talk 1
 | 16:45 | Contributed talk 2
 | 17:00 | Panel discussion
-| 18:00 | End 
+| 18:00 | End
 
 
 ## Submission Instructions  ##
@@ -81,6 +81,18 @@ Accepted papers and eventual supplementary material will be made available on th
 
 Submissions can be made at [https://cmt3.research.microsoft.com/metalearn2018](https://cmt3.research.microsoft.com/metalearn2018)
 
+## FAQ ##
+1. Can supplementary material be added beyond the 4 page limit and are there any restrictions on it?
+
+   Yes, you may include additional supplementary material but we ask that it be limited to a reasonable amount (~10 pages) and that it follow the same NIPS format as the paper.
+
+2. Can a submission to this workshop be submitted to another NIPS workshop in parallel?
+
+   We discourage this as it leads to more work for reviewers across  multiple workshops. Our suggestion is to pick one workshop to submit to.
+
+3. If a submission is accepted, is it possible for all authors of the accepted paper to receive a chance to register?
+
+   We cannot confirm this yet but it is most likely that we will have at most one registration to offer per paper.
 
 <!-- ## Accepted Papers  ##
 
@@ -145,7 +157,7 @@ Igor Mordatch
 Thomas Elsken, Jan-Hendrik Metzen, Frank Hutter -->
 
 
-<!-- 
+<!--
 ## Program Committee ##
 
 We thank the program committee for shaping the excellent technical program (in alphabetical order):   
@@ -162,5 +174,3 @@ For any question you can contact us at <info@metalearning.ml>
 
 ## Sponsors ##
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="googlelogo" title="google logo" height="100" />
-
- 
