@@ -175,4 +175,5 @@ Parminder Bhatia, Andrew Brock, Bistra Dilkina, Rocky Duan, David Duvenaud, Thom
 For any further questions, you can contact us at <info@metalearning.ml>.
 
 ## Sponsors ##
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="googlelogo" title="google logo" height="100" />
+
+**We are currently looking for sponsors for this workshop. For any such sponsorship inquiries, please contact the organizing committee at <info@metalearning.ml>.**
