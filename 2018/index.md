@@ -71,32 +71,30 @@ The goal of this workshop is to bring together researchers from all the differen
 
 ## Submission Instructions  ##
 
-Papers must be in the latest NIPS format, but with a maximum of 4 pages (excluding references). Papers should include the authors (by using the \nipsfinalcopy) to your document prior to submitting).
+Papers must be in the latest NIPS format, but with a maximum of 4 pages (excluding references). Papers should include the names of all authors (by uncommenting `\nipsfinalcopy` in the NIPS LaTeX template prior to submission).
 
-Accepted papers and eventual supplementary material will be made available on the workshop website. However, this does not constitute an archival publication and no formal workshop proceedings will be made available, meaning contributors are free to publish their work in archival journals or conference.
+Accepted papers and eventual supplementary material will be made available on the workshop website. However, this does not constitute an archival publication and no formal workshop proceedings will be made available, meaning contributors are free to publish their work in archival journals or conferences.
 
-*The two best papers submitted will be presented as 15-minutes contributed talks*
+*The two best papers submitted will be presented as 15-minute contributed talks*.
 
-**Accepted authors will be able to register to the NIPS workshops even if the registration for public is currently closed!**
-
-Submissions can be made at [https://cmt3.research.microsoft.com/metalearn2018](https://cmt3.research.microsoft.com/metalearn2018)
+Submissions can be made at [https://cmt3.research.microsoft.com/metalearn2018](https://cmt3.research.microsoft.com/metalearn2018) during the submission period.
 
 ### FAQ ###
-1. Can supplementary material be added beyond the 4 page limit and are there any restrictions on it?
+1. Can supplementary material be added beyond the 4-page limit and are there any restrictions on it?
 
-   Yes, you may include additional supplementary material but we ask that it be limited to a reasonable amount (~10 pages) and that it follow the same NIPS format as the paper.
+   Yes, you may include additional supplementary material, but we ask that it be limited to a reasonable amount (~10 pages in addition to the main submission) and that it follow the same NIPS format as the paper.
 
 2. Can a submission to this workshop be submitted to another NIPS workshop in parallel?
 
-   We discourage this as it leads to more work for reviewers across  multiple workshops. Our suggestion is to pick one workshop to submit to.
+   We discourage this, as it leads to more work for reviewers across multiple workshops. Our suggestion is to pick one workshop to submit to.
 
 3. If a submission is accepted, is it possible for all authors of the accepted paper to receive a chance to register?
 
-   We cannot confirm this yet but it is most likely that we will have at most one registration to offer per paper.
+   We cannot confirm this yet, but it is most likely that we will have at most one registration to offer per accepted paper.
 
 4. Can a paper be submitted to the workshop that has already appeared at a previous conference with published proceedings?
 
-   We won't be accepting such submissions, unless they have been adapted to contain significantly new results (where novelty is one of the qualities reviewers will be asked to evaluate).
+   We won't be accepting such submissions unless they have been adapted to contain significantly new results (where novelty is one of the qualities reviewers will be asked to evaluate).
 
 <!-- ## Accepted Papers  ##
 
