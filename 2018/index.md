@@ -81,7 +81,7 @@ Accepted papers and eventual supplementary material will be made available on th
 
 Submissions can be made at [https://cmt3.research.microsoft.com/metalearn2018](https://cmt3.research.microsoft.com/metalearn2018)
 
-## FAQ ##
+### FAQ ###
 1. Can supplementary material be added beyond the 4 page limit and are there any restrictions on it?
 
    Yes, you may include additional supplementary material but we ask that it be limited to a reasonable amount (~10 pages) and that it follow the same NIPS format as the paper.
