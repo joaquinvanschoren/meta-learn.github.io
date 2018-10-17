@@ -172,7 +172,7 @@ Parminder Bhatia, Andrew Brock, Bistra Dilkina, Rocky Duan, David Duvenaud, Thom
 
 ## Contacts  ##
 
-For any question you can contact us at <info@metalearning.ml>
+For any further questions, you can contact us at <info@metalearning.ml>.
 
 ## Sponsors ##
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg" alt="googlelogo" title="google logo" height="100" />
