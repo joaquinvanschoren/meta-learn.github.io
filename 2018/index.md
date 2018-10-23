@@ -165,52 +165,52 @@ Thomas Elsken, Jan-Hendrik Metzen, Frank Hutter -->
 
 We thank the program committee for shaping the excellent technical program (in alphabetical order):   
 
-Balazs Kegl
-Aaron Klein
-Abhishek Gupta
-Alexandre Lacoste
-Andre Carvalho
-Andrew Brock
-Anusha Nagabandi
-Aravind Srinivas
-Benjamin Letham
-Brandon Schoenfeld
-Chelsea Finn
-Daniel Hernandez-Lobato
-Dumitru Erhan
-Eleni Triantafillou
-Eytan Bakshy
-Ghassen Jerfel
-Hugo Larochelle
-Hugo Jair Escalante
-Ignasi Clavera
-Igor Mordatch
-Jake Snell
-Jan van Rijn
-Jasper Snoek
-Jürgen Schmidhuber
-Ke Li
-Lars Kotthoff
-Marius Lindauer
-Matt Hoffman
-Mengye Ren
-Misha Denil
-Parminder Bhatia
-Pavel Brazdil
-Pieter Gijsbers
-Rafael Mantovani
-Randal Olson
-Razvan Pascanu
-Ricardo Prudencio
-Roberto Calandra
-Rodolphe Jenatton
-Roger Grosse
-Roman Garnett
-Sayna Ebrahimi
-Sergio Escalera
-Stephen Roberts
-Thomas Elsken
-Tin Ho
+Aaron Klein,
+Abhishek Gupta,
+Alexandre Lacoste,
+Andre Carvalho,
+Andrew Brock,
+Anusha Nagabandi,
+Aravind Srinivas,
+Balazs Kegl,
+Benjamin Letham,
+Brandon Schoenfeld,
+Chelsea Finn,
+Daniel Hernandez-Lobato,
+Dumitru Erhan,
+Eleni Triantafillou,
+Eytan Bakshy,
+Ghassen Jerfel,
+Hugo Larochelle,
+Hugo Jair Escalante,
+Ignasi Clavera,
+Igor Mordatch,
+Jake Snell,
+Jan van Rijn,
+Jasper Snoek,
+Jürgen Schmidhuber,
+Ke Li,
+Lars Kotthoff,
+Marius Lindauer,
+Matt Hoffman,
+Mengye Ren,
+Misha Denil,
+Parminder Bhatia,
+Pavel Brazdil,
+Pieter Gijsbers,
+Rafael Mantovani,
+Randal Olson,
+Razvan Pascanu,
+Ricardo Prudencio,
+Roberto Calandra,
+Rodolphe Jenatton,
+Roger Grosse,
+Roman Garnett,
+Sayna Ebrahimi,
+Sergio Escalera,
+Stephen Roberts,
+Thomas Elsken,
+Tin Ho,
 Udayan Khurana
 
 
