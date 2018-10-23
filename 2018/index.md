@@ -160,12 +160,59 @@ Igor Mordatch
 Thomas Elsken, Jan-Hendrik Metzen, Frank Hutter -->
 
 
-<!--
+
 ## Program Committee ##
 
 We thank the program committee for shaping the excellent technical program (in alphabetical order):   
 
-Parminder Bhatia, Andrew Brock, Bistra Dilkina, Rocky Duan, David Duvenaud, Thomas Elsken, Dumitru Erhan, Matthias Feurer, Chelsea Finn, Roman Garnett, Christophe Giraud-Carrier, Erin Grant, Klaus Greff, Roger Grosse, Abhishek Gupta, Matt Hoffman, Aaron Klein, Marius Lindauer, Jan-Hendrik Metzen, Igor Mordatch, Randy Olson, Sachin Ravi, Horst Samulowitz, Jürgen Schmidhuber, Matthias	Seeger, Jake Snell, Jasper Snoek, Alexander	Toshev, Eleni Triantafillou, Jan van Rijn, Joaquin Vanschoren. -->
+Balazs Kegl
+Aaron Klein
+Abhishek Gupta
+Alexandre Lacoste
+Andre Carvalho
+Andrew Brock
+Anusha Nagabandi
+Aravind Srinivas
+Benjamin Letham
+Brandon Schoenfeld
+Chelsea Finn
+Daniel Hernandez-Lobato
+Dumitru Erhan
+Eleni Triantafillou
+Eytan Bakshy
+Ghassen Jerfel
+Hugo Larochelle
+Hugo Jair Escalante
+Ignasi Clavera
+Igor Mordatch
+Jake Snell
+Jan van Rijn
+Jasper Snoek
+Jürgen Schmidhuber
+Ke Li
+Lars Kotthoff
+Marius Lindauer
+Matt Hoffman
+Mengye Ren
+Misha Denil
+Parminder Bhatia
+Pavel Brazdil
+Pieter Gijsbers
+Rafael Mantovani
+Randal Olson
+Razvan Pascanu
+Ricardo Prudencio
+Roberto Calandra
+Rodolphe Jenatton
+Roger Grosse
+Roman Garnett
+Sayna Ebrahimi
+Sergio Escalera
+Stephen Roberts
+Thomas Elsken
+Tin Ho
+Udayan Khurana
+
 
 ## Past workshops
 
