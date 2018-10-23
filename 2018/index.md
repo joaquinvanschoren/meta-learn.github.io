@@ -41,7 +41,7 @@ The goal of this workshop is to bring together researchers from all the differen
 - [Sachin Ravi](http://www.cs.princeton.edu/~sachinr/) (Princeton)
 
 ## Important dates ##
-- Submission deadline: 17 October 2018 ([11:59 PM anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
+- ~~Submission deadline: 17 October 2018 ([11:59 PM anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))~~
 - Notification: 09 November 2018
 - Camera ready: 03 December 2018
 - Workshop: 08 December 2018
@@ -71,13 +71,14 @@ The goal of this workshop is to bring together researchers from all the differen
 
 ## Submission Instructions  ##
 
-Papers must be in the latest NIPS format, but with a maximum of 4 pages (excluding references). Papers should include the names of all authors (by uncommenting `\nipsfinalcopy` in the NIPS LaTeX template prior to submission).
+<!-- Papers must be in the latest NIPS format, but with a maximum of 4 pages (excluding references). Papers should include the names of all authors (by uncommenting `\nipsfinalcopy` in the NIPS LaTeX template prior to submission). -->
+The submission window for this workshop is now closed. Decision notifications will be sent out November 9, 2018. Thank you to all who submitted!
 
 Accepted papers and eventual supplementary material will be made available on the workshop website. However, this does not constitute an archival publication and no formal workshop proceedings will be made available, meaning contributors are free to publish their work in archival journals or conferences.
 
 *The two best papers submitted will be presented as 15-minute contributed talks*.
 
-Submissions can be made at [https://cmt3.research.microsoft.com/metalearn2018](https://cmt3.research.microsoft.com/metalearn2018) during the submission period.
+<!-- Submissions can be made at [https://cmt3.research.microsoft.com/metalearn2018](https://cmt3.research.microsoft.com/metalearn2018) during the submission period. -->
 
 ### FAQ ###
 1. Can supplementary material be added beyond the 4-page limit and are there any restrictions on it?
