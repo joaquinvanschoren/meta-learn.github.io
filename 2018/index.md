@@ -224,4 +224,12 @@ For any further questions, you can contact us at <info@metalearning.ml>.
 
 ## Sponsors ##
 
-**We are currently looking for sponsors for this workshop. For any such sponsorship inquiries, please contact the organizing committee at <info@metalearning.ml>.**
+We are very thankful to our corporate sponsors!
+
+### Gold
+
+<img src="https://www.bosch-ai.com/media/en/tech/tech_images/bosch_logo_res_340x111.png" alt="Bosch" class="inline"  width="390"/>
+
+### Silver
+
+<img src="https://deepmind.com/static/v0.0.0/images/deepmind_logo.png" alt="DeepMind" class="inline" width="400"/>
