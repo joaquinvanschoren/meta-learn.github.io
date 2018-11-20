@@ -62,7 +62,7 @@ The goal of this workshop is to bring together researchers from all the differen
 | 14:30 | Poster session 3
 | 15:00 | *Coffee Break*
 | 15:30 | Poster session 4
-| 16:00 | **Nando de Freitas (Google DeepMind)**
+| 16:00 | **Nando de Freitas (DeepMind)**
 | 16:30 | Contributed talk 1
 | 16:45 | Contributed talk 2
 | 17:00 | Panel discussion
