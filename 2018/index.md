@@ -42,7 +42,7 @@ The goal of this workshop is to bring together researchers from all the differen
 
 ## Important dates ##
 - ~~Submission deadline: 17 October 2018 ([11:59 PM anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))~~
-- Notification: 09 November 2018
+- ~~Notification: 09 November 2018~~
 - Camera ready: 03 December 2018
 - Workshop: 08 December 2018
 
@@ -50,19 +50,19 @@ The goal of this workshop is to bring together researchers from all the differen
 
 | --------:| ---------------------------------------------------
 | 09:00 | Introduction and opening remarks
-| 09:10 | **Invited Talk 1**
+| 09:10 | **Lise Getoor (UC Santa Cruz)**
 | 09:40	| Poster spotlights
 | 10:00 | Poster session 1
 | 10:30 | *Coffee Break*
-| 11:00 | **Invited Talk 2**
+| 11:00 | **Sergey Levine (UC Berkeley)**
 | 11:30 | Poster session 2
 | 12:00 | *Lunch Break*
-| 13:30 | **Invited Talk 3**
-| 14:00 | **Invited Talk 4**
+| 13:30 | **Hugo Larochelle (Google Brain)**
+| 14:00 | **Michele Sebag (Paris-Saclay)**
 | 14:30 | Poster session 3
 | 15:00 | *Coffee Break*
 | 15:30 | Poster session 4
-| 16:00 | **Invited Talk 5**
+| 16:00 | **Nando de Freitas (Google DeepMind)**
 | 16:30 | Contributed talk 1
 | 16:45 | Contributed talk 2
 | 17:00 | Panel discussion
