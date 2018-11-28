@@ -51,7 +51,7 @@ The goal of this workshop is to bring together researchers from all the differen
 | --------:| ---------------------------------------------------
 | 09:00 | Introduction and opening remarks
 | 09:10 | **Lise Getoor (UC Santa Cruz)**
-| 09:40	| Poster spotlights
+| 09:40 | Poster spotlights 1
 | 10:00 | Poster session 1
 | 10:30 | *Coffee Break*
 | 11:00 | **Sergey Levine (UC Berkeley)**
@@ -59,7 +59,8 @@ The goal of this workshop is to bring together researchers from all the differen
 | 12:00 | *Lunch Break*
 | 13:30 | **Hugo Larochelle (Google Brain)**
 | 14:00 | **Michele Sebag (Paris-Saclay)**
-| 14:30 | Poster session 3
+| 14:30 | Poster spotlights 2
+| 14:50 | Poster session 3
 | 15:00 | *Coffee Break*
 | 15:30 | Poster session 4
 | 16:00 | **Nando de Freitas (DeepMind)**
