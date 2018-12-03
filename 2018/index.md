@@ -130,8 +130,9 @@ Will S Grathwohl; Xuechen Li; Eleni Triantafillou; Richard Zemel; David Duvenaud
 -  From Nodes to Networks: Evolving Recurrent Neural Networks	
 Aditya Rawal; Risto Miikkulainen
 -  Gradient Agreement as an Optimization Objective for Meta-Learning	
-Amir Erfan Eshratifar; David Eigen; Massoud Pedram
-Graph HyperNetworks for Neural Architecture Search	Chris Zhang; Mengye Ren; Raquel Urtasun
+Amir Erfan Eshratifar; David Eigen; Massoud Pedram [[arXiv]](https://arxiv.org/abs/1810.08178)
+-  Graph HyperNetworks for Neural Architecture Search
+Chris Zhang; Mengye Ren; Raquel Urtasun
 -  Hyperparameter Learning via Distributional Transfer	
 Ho Chung Leon Law; Peilin Zhao; Junzhou Huang; Dino Sejdinovic
 -  Incremental Few-Shot Learning with Attention Attractor Networks	
