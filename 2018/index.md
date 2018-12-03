@@ -1,6 +1,6 @@
 ---
 title: Workshop on Meta-Learning (MetaLearn 2018)
-description: "@NIPS 2018 <br> Saturday 08 December 2018 <br> Palais des Congrès de Montréal, Montréal, Canada"
+description: "@NeurIPS 2018 <br> Saturday 08 December 2018 <br> Palais des Congrès de Montréal, Montréal, Canada"
 
 permalink: /2018/index.html
 weight: -1
