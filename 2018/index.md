@@ -84,7 +84,7 @@ Accepted papers and eventual supplementary material will be made available on th
 ### FAQ ###
 1. Can supplementary material be added beyond the 4-page limit and are there any restrictions on it?
 
-   Yes, you may include additional supplementary material, but we ask that it be limited to a reasonable amount (~10 pages in addition to the main submission) and that it follow the same NIPS format as the paper.
+   Yes, you may include additional supplementary material, but we ask that it be limited to a reasonable amount (max 10 pages in addition to the main submission) and that it follow the same NIPS format as the paper.
 
 2. Can a submission to this workshop be submitted to another NIPS workshop in parallel?
 
@@ -98,67 +98,88 @@ Accepted papers and eventual supplementary material will be made available on th
 
    We won't be accepting such submissions unless they have been adapted to contain significantly new results (where novelty is one of the qualities reviewers will be asked to evaluate).
 
-<!-- ## Accepted Papers  ##
 
--  [SMASH: One-Shot Model Architecture Search through HyperNetworks](papers/2017/metalearn17_brock.pdf)   
-Andrew Brock, Theodore Lim, J.M. Ritchie, Nick Weston
-- [Meta Inverse Reinforcement Learning via Maximum Reward Sharing](papers/2017/metalearn17_li.pdf)   
-Kun Li,  Joel W. Burdick
-- [Learning to Learn from Weak Supervision by Full Supervision](papers/2017/metalearn17_dehghani.pdf)   
-Mostafa Dehghani, Aliaksei Severyn, Sascha Rothe, Jaap Kamps
-- Meta-Learning and Universality: Deep Representations and Gradient Descent can Approximate any Learning Algorithm   
-Chelsea Finn, Sergey Levine -->
-<!--[[Extended version](https://arxiv.org/pdf/1710.11622)]-->
-<!-- - [Bayesian model ensembling using meta-trained recurrent neural networks](papers/2017/metalearn17_ambrogioni.pdf)   
-Luca Ambrogioni, Julia Berezutskaya, Umut Güçlü, Eva W. P. van den Borne, Yağmur Güçlütürk, Marcel A. J. van Gerven
-- [Accelerating Neural Architecture Search using Performance Prediction](papers/2017/metalearn17_baker.pdf)   
-Bowen Baker, Otkrist Gupta, Ramesh Raskar, Nikhil Naik
-- [Meta-Learning for Semi-Supervised Few-Shot Classification](papers/2017/metalearn17_ren.pdf) [[Appendix](papers/2017/metalearn17_ren_appendix.pdf)]   
-Mengye Ren, Eleni Triantafillou, Sachin Ravi, Jake Snell, Kevin Swersky, Joshua B. Tenenbaum, Hugo Larochelle, Richard S. Zemel
-- [Connectivity Learning in Multi-Branch Networks](papers/2017/metalearn17_ahmed.pdf)   
-Karim Ahmed, Lorenzo Torresani
-- [A Simple Neural Attentive Meta-Learner](papers/2017/metalearn17_mishra.pdf)   
-Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel
-- [Semi-Supervised Few-Shot Learning with Prototypical Networks](papers/2017/metalearn17_boney.pdf)   
-Rinu Boney, Alexander Ilin
-- [Language Learning as Meta-Learning](papers/2017/metalearn17_andreas.pdf) [[Appendix](papers/2017/metalearn17_andreas_appendix.pdf)]    
-Jacob Andreas, Dan Klein, Sergey Levine
-- [Hyperparameter Optimization with Hypernets](papers/2017/metalearn17_lorraine.pdf)      
-Jonathan Lorraine, David Duvenaud
-- [Few-Shot Learning with Meta Metric Learners](papers/2017/metalearn17_cheng.pdf)   
-Yu Cheng, Mo Yu, Xiaoxiao Guo, Bowen Zhou
-- [Gated Fast Weights for On-The-Fly Neural Program Generation](papers/2017/metalearn17_schlag.pdf)   
-Imanol Schlag, Jürgen Schmidhuber
-- [A bridge between hyperparameter optimization and learning-to-learn](papers/2017/metalearn17_franceschi.pdf)   
-Luca Franceschi, Paolo Frasconi, Michele Donini, Massimiliano Pontil
-- [Understanding Short-Horizon Bias in Stochastic Meta-Optimization](papers/2017/metalearn17_wu.pdf) [[Appendix](papers/2017/metalearn17_wu_appendix.pdf)]   
-Yuhuai Wu, Mengye Ren, Renjie Liao, Roger B. Grosse
-- [Routing Networks: Adaptive Selection of Non-linear Functions for Multi-Task Learning](papers/2017/metalearn17_rosenbaum.pdf) [[Extended version](https://arxiv.org/abs/1711.01239)]   
-Clemens Rosenbaum, Tim Klinger, Matthew Riemer
-- [Learning Decision Trees with Reinforcement Learning](papers/2017/metalearn17_xiong.pdf) [[Appendix](papers/2017/metalearn17_xiong_appendix.pdf)]   
-Zheng Xiong, Wenpeng Zhang, Wenwu Zhu
-- [Multiple Adaptive Bayesian Linear Regression for Scalable Bayesian Optimization with Warm Start](papers/2017/metalearn17_perrone.pdf)   
-Valerio Perrone, Rodolphe Jenatton, Matthias Seeger, Cédric Archambeau
-- [Backpropagated plasticity: learning to learn with gradient descent in large plastic networks](papers/2017/metalearn17_miconi.pdf)
-Thomas Miconi, Jeff Clune, Kenneth O. Stanley
-- [Learning to Learn while Learning](papers/2017/metalearn17_kappler.pdf)   
-Daniel Kappler, Stefan Schaal, Franziska Meier
-- [Meta-Learning for Instance-Level Data Association](papers/2017/metalearn17_clark.pdf)   
-Ronald Clark, John McCormac, Stefan Leutenegger, Andrew J. Davison
-- [Supervised Learning of Unsupervised Learning Rules](papers/2017/metalearn17_metz.pdf)   
-Luke Metz, Brian Cheung, Jascha Sohl-dickstein
-- [Learning word embeddings from dictionary definitions only](papers/2017/metalearn17_bosc.pdf)   
-Tom Bosc, Pascal Vincent
-- [Learning to Model the Tail](papers/2017/metalearn17_wang.pdf) [[Extended version](https://papers.nips.cc/paper/7278-learning-to-model-the-tail)]   
-Yu-Xiong Wang, Deva Ramanan, Martial Hebert
-- [Born Again Neural Networks](papers/2017/metalearn17_furlanello.pdf)   
-Tommaso Furlanello, Zachary C. Lipton, Laurent Itti, Anima Anandkumar
-- [Hyperactivations for Activation Function Exploration](papers/2017/metalearn17_vercellino.pdf)   
-Conner Joseph Vercellino, William Yang Wang
-- [Concept Learning via Meta-Optimization with Energy Models](papers/2017/metalearn17_mordatch.pdf)   
-Igor Mordatch
-- [Simple and Efficient Architecture Search for CNNs](papers/2017/metalearn17_elsken.pdf)   
-Thomas Elsken, Jan-Hendrik Metzen, Frank Hutter -->
+## Accepted Papers  ##
+
+-  A simple transfer-learning extension of Hyperband
+Lazar Valkov; Rodolphe Jenatton; Fela Winkelmolen; Cedric Archambeau
+-  Amortized Bayesian Meta-Learning	
+Sachin Ravi; Alex Beatson
+-  Attentive Task-Agnostic Meta-Learning for Few-Shot Text Classification	
+Xiang Jiang; Mohammad Havaei; Gabriel Chartrand; Hassan CHOUAIB; Thomas Vincent; Andrew D Jesson; Nicolas Chapados; Stan Matwin
+-  Auto-Meta: Automated Gradient Based Meta Learner Search	
+Sangyeul Lee; Jaehong Kim; Sungwan Kim; Moonsu Cha; Jung Kwon Lee; Yongseok Choi; Dong-Yeon Cho; Jiwon Kim; Youngduck Choi
+-  AutoDL challenge design and beta tests	
+Zhengying Liu; Isabelle Guyon; Olivier Bousquet; Andre Elisseeff; Sergio Escalera; Sebastien Treger; Julio C. S. Jacques Junior & Computer Vision Center); Danny Silver; Adrien Pavao; Wei Wei Tu; Lisheng Sun; Jingsong Wang; Quanming Yao
+-  Backpropamine: meta-training self-modifying neural networks with gradient descent	
+Thomas Miconi; Kenneth O Stanley; Jeff Clune
+-  Consolidating the Meta-Learning Zoo: A Unifying Perspective as Posterior Predictive Inference	
+Jonathan Gordon; John Bronskill; Matthias Bauer; Richard Turner; Sebastian Nowozin
+-  Control Adaptation via Meta-Learning Dynamics	
+James Harrison; Apoorva Sharma; Roberto Calandra; Marco Pavone
+-  Cross-Modulation Networks For Few-Shot Learning	
+Hugo Prol Pereira; Vincent Dumoulin; Luis Herranz
+-  Deep Online Learning via Meta-Learning: Continual Adaptation for Model-Based RL	
+Anusha Nagabandi; Sergey Levine; Chelsea Finn
+-  Evolvability ES: Scalable Evolutionary Meta-Learning	
+Alexander Gajewski; Jeff Clune; Kenneth O Stanley; Joel Lehman
+-  Fast Neural Architecture Construction using EnvelopeNets	
+Purushotham Kamath; Abhishek Singh; Debo Dutta
+-  Few-shot Learning For Free by Modeling Global Class Structure	
+Will S Grathwohl; Xuechen Li; Eleni Triantafillou; Richard Zemel; David Duvenaud
+-  From Nodes to Networks: Evolving Recurrent Neural Networks	
+Aditya Rawal; Risto Miikkulainen
+-  Gradient Agreement as an Optimization Objective for Meta-Learning	
+Amir Erfan Eshratifar; David Eigen; Massoud Pedram
+Graph HyperNetworks for Neural Architecture Search	Chris Zhang; Mengye Ren; Raquel Urtasun
+-  Hyperparameter Learning via Distributional Transfer	
+Ho Chung Leon Law; Peilin Zhao; Junzhou Huang; Dino Sejdinovic
+-  Incremental Few-Shot Learning with Attention Attractor Networks	
+Mengye Ren; Renjie Liao; Ethan Fetaya; Richard Zemel
+-  Large Margin Meta-Learning for Few-Shot Classification	
+Yong Wang; Xiao-Ming Wu; Qimai LI; Jiatao Gu; Wangmeng Xiang; Lei Zhang; Victor OK Li
+-  Learned optimizers that outperform SGD on wall-clock and validation loss	
+Luke Metz; Niru Maheswaranathan; Jeremy Nixon; Daniel Freeman; Jascha Sohl-Dickstein
+-  Learning to Adapt in Dynamic, Real-World Environments via Meta-Reinforcement Learning	
+Anusha Nagabandi; Ignasi Clavera; Sergey Levine; Ronald Fearing; Chelsea Finn; Simin Liu; Pieter Abbeel
+-  Learning to Design RNA	
+Frederic Runge; Danny Stoll; Stefan Falkner; Frank Hutter
+-  Learning to Learn with Conditional Class Dependencies	
+Xiang Jiang; Mohammad Havaei; Farshid Varno; Gabriel Chartrand; Nicolas Chapados; Stan Matwin
+-  Make Macro Architecture Search Relevant Again	
+Hanzhang Hu; John Langford; Rich Caruana; Eric Horvitz; Martial Hebert; J. Andrew Bagnell; Debadeepta Dey
+-  Meta Learning for Defaults - Symbolic Defaults	
+Jan N. van Rijn; Florian Pfisterer; Janek Thomas; Bernd Bischl; Andreas Mueller; Joaquin Vanschoren
+-  Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples	
+Eleni Triantafillou; Tyler Zhu; Vincent Dumoulin; Pascal Lamblin; Kelvin Xu; Ross Goroshin; Carles Gelada; Kevin Swersky; Pierre-Antoine Manzagol; Hugo Larochelle
+-  Meta-Learner with Linear Nulling	
+Sung Whan Yoon); Jun Seo; Jaekyun Moon
+-  Meta-Learning Language-Guided Policy Learning	
+John Co-Reyes; Abhishek Gupta; Suvansh Sanjeev; Nick Altieri; John DeNero; Pieter Abbeel; Sergey Levine
+-  Meta-Learning with Latent Embedding Optimization	
+Andrei A. Rusu; Dushyant Rao; Jakub Sygnowski; Oriol Vinyals; Razvan Pascanu; Simon Osindero; Raia Hadsell
+-  Mitigating Architectural Mismatch During the Evolutionary Synthesis of Deep Neural Networks	
+Audrey Chung; Paul Fieguth; Alexander Wong
+-  Modular meta-learning in abstract graph networks for combinatorial generalization	
+Ferran Alet; Maria Bauza Villalonga; Alberto Rodriguez; Tomas Lozano-Perez; Leslie Kaelbling
+-  OBOE: Collaborative Filtering for AutoML Initialization	
+Chengrun Yang; Yuji Akimoto; Dae Won Kim; Madeleine Udell
+-  ProMP: Proximal Meta-Policy Search	
+Ignasi Clavera; Jonas Rothfuss; Dennis Lee; Tamim Asfour; Pieter Abbeel
+-  Recurrent machines for likelihood-free inference	
+Arthur Pesah; Antoine Wehenkel; Gilles Louppe
+-  TAEML: Task-Adaptive Ensemble of Meta-Learners	
+Minseop Park; Jungtaek Kim; Saehoon Kim; Yanbin Liu; Seungjin Choi
+-  The effects of negative adaptation in Model-Agnostic Meta-Learning	
+Tristan Deleu; Yoshua Bengio
+-  Toward Multimodal Model-Agnostic Meta-Learning	
+Shao-Hua Sun; Risto Vuorio; Hexiang Hu; Joseph Lim
+-  Transferring Knowledge across Learning Processes	
+Sebastian Flennerhag; Andreas Damianou; Pablo Moreno; Neil Lawrence
+-  Unsupervised Learning via Meta-Learning	
+Kyle Hsu; Sergey Levine; Chelsea Finn
+-  Variadic Learning by Bayesian Nonparametric Deep Embedding	
+Kelsey Allen; Hanul Shin; Evan Shelhamer; Joshua Tenenbaum
 
 
 

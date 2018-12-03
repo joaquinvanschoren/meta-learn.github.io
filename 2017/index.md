@@ -24,7 +24,7 @@ The goal of this workshop is to bring together researchers from all the differen
 
 ## Speakers ##
 - [Josh Tenenbaum](http://web.mit.edu/cocosci/josh.html) (MIT)
-- [Jane Wang]() (DeepMind)
+- [Jane Wang](http://www.janexwang.com) (DeepMind)
 - [Jitendra Malik](https://people.eecs.berkeley.edu/~malik/) (UC Berkeley)
 - [Oriol Vinyals]() (DeepMind)
 - [Chelsea Finn](https://people.eecs.berkeley.edu/~cbfinn/) (UC Berkeley) 
