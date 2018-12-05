@@ -43,7 +43,7 @@ The goal of this workshop is to bring together researchers from all the differen
 ## Important dates ##
 - ~~Submission deadline: 17 October 2018 ([11:59 PM anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))~~
 - ~~Notification: 09 November 2018~~
-- Camera ready: 03 December 2018
+- ~~Camera ready: 03 December 2018~~
 - Workshop: 08 December 2018
 
 ## Schedule ##
@@ -73,11 +73,11 @@ The goal of this workshop is to bring together researchers from all the differen
 ## Submission Instructions  ##
 
 <!-- Papers must be in the latest NIPS format, but with a maximum of 4 pages (excluding references). Papers should include the names of all authors (by uncommenting `\nipsfinalcopy` in the NIPS LaTeX template prior to submission). -->
-The submission window for this workshop is now closed. Decision notifications will be sent out November 9, 2018. Thank you to all who submitted!
+The submission window for this workshop is now closed. Decision notifications were sent out November 9, 2018. Thank you to all who submitted!
 
-Accepted papers and eventual supplementary material will be made available on the workshop website. However, this does not constitute an archival publication and no formal workshop proceedings will be made available, meaning contributors are free to publish their work in archival journals or conferences.
+Accepted papers and supplementary material will be made available on the workshop website. However, this does not constitute an archival publication and no formal workshop proceedings will be made available, meaning contributors are free to publish their work in archival journals or conferences.
 
-*The two best papers submitted will be presented as 15-minute contributed talks*.
+<!-- *The two best papers submitted will be presented as 15-minute contributed talks*. -->
 
 <!-- Submissions can be made at [https://cmt3.research.microsoft.com/metalearn2018](https://cmt3.research.microsoft.com/metalearn2018) during the submission period. -->
 
@@ -110,7 +110,7 @@ Xiang Jiang; Mohammad Havaei; Gabriel Chartrand; Hassan CHOUAIB; Thomas Vincent;
 -  [Auto-Meta: Automated Gradient Based Meta Learner Search](papers/metalearn2018_paper68.pdf)
 Sangyeul Lee; Jaehong Kim; Sungwan Kim; Moonsu Cha; Jung Kwon Lee; Yongseok Choi; Dong-Yeon Cho; Jiwon Kim; Youngduck Choi
 -  [AutoDL challenge design and beta tests](papers/metalearn2018_paper43.pdf)
-Zhengying Liu; Isabelle Guyon; Olivier Bousquet; Andre Elisseeff; Sergio Escalera; Sebastien Treger; Julio C. S. Jacques Junior & Computer Vision Center); Danny Silver; Adrien Pavao; Wei Wei Tu; Lisheng Sun; Jingsong Wang; Quanming Yao
+Zhengying Liu; Isabelle Guyon; Olivier Bousquet; Andre Elisseeff; Sergio Escalera; Sebastien Treger; Julio C. S. Jacques Junior; Danny Silver; Adrien Pavao; Wei Wei Tu; Lisheng Sun; Jingsong Wang; Quanming Yao
 -  [Backpropamine: meta-training self-modifying neural networks with gradient descent](papers/metalearn2018_paper10.pdf)
 Thomas Miconi; Kenneth O Stanley; Jeff Clune
 -  [Consolidating the Meta-Learning Zoo: A Unifying Perspective as Posterior Predictive Inference](papers/metalearn2018_paper26.pdf)
@@ -154,7 +154,7 @@ Jan N. van Rijn; Florian Pfisterer; Janek Thomas; Bernd Bischl; Andreas Mueller;
 -  [Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples](papers/metalearn2018_paper42.pdf)
 Eleni Triantafillou; Tyler Zhu; Vincent Dumoulin; Pascal Lamblin; Kelvin Xu; Ross Goroshin; Carles Gelada; Kevin Swersky; Pierre-Antoine Manzagol; Hugo Larochelle  [[Supp]](papers/metalearn2018_paper42_supp.pdf)
 -  [Meta-Learner with Linear Nulling](papers/metalearn2018_paper21.pdf) 
-Sung Whan Yoon); Jun Seo; Jaekyun Moon  [[Supp]](papers/metalearn2018_paper21_supp.pdf)
+Sung Whan Yoon; Jun Seo; Jaekyun Moon  [[Supp]](papers/metalearn2018_paper21_supp.pdf)
 -  [Meta-Learning Language-Guided Policy Learning](papers/metalearn2018_paper35.pdf)
 John Co-Reyes; Abhishek Gupta; Suvansh Sanjeev; Nick Altieri; John DeNero; Pieter Abbeel; Sergey Levine
 -  [Meta-Learning with Latent Embedding Optimization](papers/metalearn2018_paper34.pdf)
