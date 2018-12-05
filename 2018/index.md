@@ -199,6 +199,7 @@ Minseop Park; Jungtaek Kim; Saehoon Kim; Yanbin Liu; Seungjin Choi
 Tristan Deleu; Yoshua Bengio
 -  [Toward Multimodal Model-Agnostic Meta-Learning](papers/metalearn2018_paper4.pdf)
 Risto Vuorio; Shao-Hua Sun; Hexiang Hu; Joseph Lim
+[[supp]](papers/metalearn2018_paper4_supp.pdf)
 -  [Transferring Knowledge across Learning Processes](papers/metalearn2018_paper24.pdf)
 Sebastian Flennerhag; Andreas Damianou; Pablo Moreno; Neil Lawrence
 [[supp]](papers/metalearn2018_paper24_supp.pdf)
