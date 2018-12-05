@@ -1,6 +1,6 @@
 ---
 title: Workshop on Meta-Learning (MetaLearn 2018)
-description: "@NIPS 2018 <br> Saturday 08 December 2018 <br> Palais des Congrès de Montréal, Montréal, Canada"
+description: "@NeurIPS 2018 <br> Saturday 08 December 2018 <br> Palais des Congrès de Montréal, Montréal, Canada"
 
 permalink: /2018/index.html
 weight: -1
@@ -50,22 +50,22 @@ The goal of this workshop is to bring together researchers from all the differen
 
 | --------:| ---------------------------------------------------
 | 09:00 | Introduction and opening remarks
-| 09:10 | **Lise Getoor (UC Santa Cruz)**
+| 09:10 | Invited talk 1: **Lise Getoor** (UC Santa Cruz)
 | 09:40 | Poster spotlights 1
 | 10:00 | Poster session 1
-| 10:30 | *Coffee Break*
-| 11:00 | **Sergey Levine (UC Berkeley)**
+| 10:30 | *Coffee break*
+| 11:00 | Invited talk 2: **Sergey Levine** (UC Berkeley)
 | 11:30 | Poster session 2
-| 12:00 | *Lunch Break*
-| 13:30 | **Hugo Larochelle (Google Brain)**
-| 14:00 | **Michele Sebag (Paris-Saclay)**
+| 12:00 | *Lunch break*
+| 13:30 | Invited talk 3: **Hugo Larochelle** (Google Brain)
+| 14:00 | Invited talk 4: **Michele Sebag** (Paris-Saclay)
 | 14:30 | Poster spotlights 2
 | 14:50 | Poster session 3
-| 15:00 | *Coffee Break*
+| 15:00 | *Coffee break*
 | 15:30 | Poster session 4
-| 16:00 | **Nando de Freitas (DeepMind)**
-| 16:30 | Contributed talk 1
-| 16:45 | Contributed talk 2
+| 16:00 | Invited talk 5: **Nando de Freitas** (Google DeepMind)
+| 16:30 | Contributed talk 1: **JD Co-Reyes**, "Guiding policies with language via meta-learning"
+| 16:45 | Contributed talk 2: **Arthur Pesah**, "Recurrent machines for likelihood-free inference"
 | 17:00 | Panel discussion
 | 18:00 | End
 
@@ -130,7 +130,7 @@ Will S Grathwohl; Xuechen Li; Eleni Triantafillou; Richard Zemel; David Duvenaud
 -  [From Nodes to Networks: Evolving Recurrent Neural Networks](papers/metalearn2018_paper60.pdf)
 Aditya Rawal; Risto Miikkulainen
 -  [Gradient Agreement as an Optimization Objective for Meta-Learning](papers/metalearn2018_paper57.pdf)
-Amir Erfan Eshratifar; David Eigen; Massoud Pedram
+Amir Erfan Eshratifar; David Eigen; Massoud Pedram [[arXiv]](https://arxiv.org/abs/1810.08178)
 -  [Graph HyperNetworks for Neural Architecture Search](papers/metalearn2018_paper41.pdf)
  Chris Zhang; Mengye Ren; Raquel Urtasun
 -  [Hyperparameter Learning via Distributional Transfer](papers/metalearn2018_paper14.pdf)
