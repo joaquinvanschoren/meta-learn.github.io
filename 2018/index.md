@@ -102,7 +102,7 @@ Accepted papers and eventual supplementary material will be made available on th
 ## Accepted Papers  ##
 
 -  [A simple transfer-learning extension of Hyperband](papers/metalearn2018_paper32.pdf)
-Lazar Valkov; Rodolphe Jenatton; Fela Winkelmolen; Cedric Archambeau
+Lazar Valkov; Rodolphe Jenatton; Fela Winkelmolen; Cedric Archambeau  [[Supp]](papers/metalearn2018_paper32_supp.pdf)
 -  [Amortized Bayesian Meta-Learning](papers/metalearn2018_paper63.pdf)
 Sachin Ravi; Alex Beatson
 -  [Attentive Task-Agnostic Meta-Learning for Few-Shot Text Classification](papers/metalearn2018_paper23.pdf)
@@ -148,13 +148,13 @@ Frederic Runge; Danny Stoll; Stefan Falkner; Frank Hutter
 -  [Learning to Learn with Conditional Class Dependencies](papers/metalearn2018_paper12.pdf)
 Xiang Jiang; Mohammad Havaei; Farshid Varno; Gabriel Chartrand; Nicolas Chapados; Stan Matwin
 -  [Make Macro Architecture Search Relevant Again](papers/metalearn2018_paper16.pdf)
-Hanzhang Hu; John Langford; Rich Caruana; Eric Horvitz; Martial Hebert; J. Andrew Bagnell; Debadeepta Dey
+Hanzhang Hu; John Langford; Rich Caruana; Eric Horvitz; Martial Hebert; J. Andrew Bagnell; Debadeepta Dey  [[Supp]](papers/metalearn2018_paper16_supp.pdf)
 -  [Meta Learning for Defaults - Symbolic Defaults](papers/metalearn2018_paper70.pdf)
 Jan N. van Rijn; Florian Pfisterer; Janek Thomas; Bernd Bischl; Andreas Mueller; Joaquin Vanschoren
 -  [Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples](papers/metalearn2018_paper42.pdf)
-Eleni Triantafillou; Tyler Zhu; Vincent Dumoulin; Pascal Lamblin; Kelvin Xu; Ross Goroshin; Carles Gelada; Kevin Swersky; Pierre-Antoine Manzagol; Hugo Larochelle
--  [Meta-Learner with Linear Nulling](papers/metalearn2018_paper21.pdf)
-Sung Whan Yoon); Jun Seo; Jaekyun Moon
+Eleni Triantafillou; Tyler Zhu; Vincent Dumoulin; Pascal Lamblin; Kelvin Xu; Ross Goroshin; Carles Gelada; Kevin Swersky; Pierre-Antoine Manzagol; Hugo Larochelle  [[Supp]](papers/metalearn2018_paper42_supp.pdf)
+-  [Meta-Learner with Linear Nulling](papers/metalearn2018_paper21.pdf) 
+Sung Whan Yoon); Jun Seo; Jaekyun Moon  [[Supp]](papers/metalearn2018_paper21_supp.pdf)
 -  [Meta-Learning Language-Guided Policy Learning](papers/metalearn2018_paper35.pdf)
 John Co-Reyes; Abhishek Gupta; Suvansh Sanjeev; Nick Altieri; John DeNero; Pieter Abbeel; Sergey Levine
 -  [Meta-Learning with Latent Embedding Optimization](papers/metalearn2018_paper34.pdf)
@@ -176,7 +176,7 @@ Tristan Deleu; Yoshua Bengio
 -  [Toward Multimodal Model-Agnostic Meta-Learning](papers/metalearn2018_paper4.pdf)
 Shao-Hua Sun; Risto Vuorio; Hexiang Hu; Joseph Lim
 -  [Transferring Knowledge across Learning Processes](papers/metalearn2018_paper24.pdf)
-Sebastian Flennerhag; Andreas Damianou; Pablo Moreno; Neil Lawrence
+Sebastian Flennerhag; Andreas Damianou; Pablo Moreno; Neil Lawrence  [[Supp]](papers/metalearn2018_paper24_supp.pdf)
 -  [Unsupervised Learning via Meta-Learning](papers/metalearn2018_paper15.pdf)
 Kyle Hsu; Sergey Levine; Chelsea Finn
 -  [Variadic Learning by Bayesian Nonparametric Deep Embedding](papers/metalearn2018_paper37.pdf)
