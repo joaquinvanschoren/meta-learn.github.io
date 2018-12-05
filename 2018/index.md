@@ -198,7 +198,7 @@ Minseop Park; Jungtaek Kim; Saehoon Kim; Yanbin Liu; Seungjin Choi
 -  [The effects of negative adaptation in Model-Agnostic Meta-Learning](papers/metalearn2018_paper76.pdf)
 Tristan Deleu; Yoshua Bengio
 -  [Toward Multimodal Model-Agnostic Meta-Learning](papers/metalearn2018_paper4.pdf)
-Shao-Hua Sun; Risto Vuorio; Hexiang Hu; Joseph Lim
+Risto Vuorio; Shao-Hua Sun; Hexiang Hu; Joseph Lim
 -  [Transferring Knowledge across Learning Processes](papers/metalearn2018_paper24.pdf)
 Sebastian Flennerhag; Andreas Damianou; Pablo Moreno; Neil Lawrence
 [[supp]](papers/metalearn2018_paper24_supp.pdf)
