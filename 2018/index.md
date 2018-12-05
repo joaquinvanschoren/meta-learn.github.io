@@ -204,6 +204,7 @@ Sebastian Flennerhag; Andreas Damianou; Pablo Moreno; Neil Lawrence
 [[supp]](papers/metalearn2018_paper24_supp.pdf)
 -  [Unsupervised Learning via Meta-Learning](papers/metalearn2018_paper15.pdf)
 Kyle Hsu; Sergey Levine; Chelsea Finn
+[[arXiv]](https://arxiv.org/abs/1810.02334)
 -  [Variadic Learning by Bayesian Nonparametric Deep Embedding](papers/metalearn2018_paper37.pdf)
 Kelsey Allen; Hanul Shin; Evan Shelhamer; Joshua Tenenbaum
 
