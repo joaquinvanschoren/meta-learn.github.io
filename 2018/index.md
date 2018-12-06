@@ -150,7 +150,7 @@ Accepted papers and supplementary material will be made available on the worksho
 *James Harrison, Apoorva Sharma, Roberto Calandra, Marco Pavone*
 -  [Cross-Modulation Networks for Few-Shot Learning](papers/metalearn2018_paper27.pdf)
 *Hugo Prol Pereira, Vincent Dumoulin, Luis Herranz*
--  [Deep Online Learning via Meta-Learning: Continual Adaptation for Model-Based Rl](papers/metalearn2018_paper46.pdf)
+-  [Deep Online Learning via Meta-Learning: Continual Adaptation for Model-Based RL](papers/metalearn2018_paper46.pdf)
 *Anusha Nagabandi, Sergey Levine, Chelsea Finn*
 -  [Evolvability ES: Scalable Evolutionary Meta-Learning](papers/metalearn2018_paper62.pdf)
 *Alexander Gajewski, Jeff Clune, Kenneth O. Stanley, Joel Lehman*
