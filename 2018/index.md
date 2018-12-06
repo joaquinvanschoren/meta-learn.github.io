@@ -171,7 +171,7 @@ Accepted papers and supplementary material will be made available on the worksho
 *Frederic Runge, Danny Stoll, Stefan Falkner, Frank Hutter*
 -  [Learning to Learn with Conditional Class Dependencies](papers/metalearn2018_paper12.pdf)
 *Xiang Jiang, Mohammad Havaei, Farshid Varno, Gabriel Chartrand, Nicolas Chapados, Stan Matwin*
--  [Make Macro Architecture Search Relevant Again](papers/metalearn2018_paper16_main.pdf)
+-  [Macro Neural Architecture Search Revisited](papers/metalearn2018_paper16_main.pdf)
 *Hanzhang Hu, John Langford, Rich Caruana, Eric Horvitz, Martial Hebert, J. Andrew Bagnell, Debadeepta Dey*
 [[supp]](papers/metalearn2018_paper16_supp.pdf)
 -  [Meta Learning for Defaults: Symbolic Defaults](papers/metalearn2018_paper70.pdf)
@@ -182,18 +182,18 @@ Accepted papers and supplementary material will be made available on the worksho
 -  [Meta-Learner with Linear Nulling](papers/metalearn2018_paper21.pdf)
 *Sung Whan Yoon, Jun Seo, Jaekyun Moon*
 [[supp]](papers/metalearn2018_paper21_supp.pdf)
--  [Meta-Learning Language-Guided Policy Learning](papers/metalearn2018_paper35.pdf)
+-  [Guiding Policies with Language via Meta-Learning](papers/metalearn2018_paper35.pdf)
 *John Co-Reyes, Abhishek Gupta, Suvansh Sanjeev, Nick Altieri, John DeNero, Pieter Abbeel, Sergey Levine*
 -  [Meta-Learning with Latent Embedding Optimization](papers/metalearn2018_paper34.pdf)
 *Andrei A. Rusu, Dushyant Rao, Jakub Sygnowski, Oriol Vinyals, Razvan Pascanu, Simon Osindero, Raia Hadsell*
 -  [Mitigating Architectural Mismatch During the Evolutionary Synthesis of Deep Neural Networks](papers/metalearn2018_paper13.pdf)
 *Audrey Chung, Paul Fieguth, Alexander Wong*
--  [Modular Meta-Learning in abstract Graph Networks for Combinatorial Generalization](papers/metalearn2018_paper54.pdf)
+-  [Modular Meta-Learning in Abstract Graph Networks for Combinatorial Generalization](papers/metalearn2018_paper54.pdf)
 *Ferran Alet, Maria Bauza Villalonga, Alberto Rodriguez, Tomas Lozano-Perez, Leslie Kaelbling*
 -  [OBOE: Collaborative Filtering for AutoML Initialization](papers/metalearn2018_paper39.pdf)
 *Chengrun Yang, Yuji Akimoto, Dae Won Kim, Madeleine Udell*
 -  [ProMP: Proximal Meta-Policy Search](papers/metalearn2018_paper59.pdf)
-Ignasi Clavera, Jonas Rothfuss, Dennis Lee, Tamim Asfour, Pieter Abbeel*
+*Ignasi Clavera, Jonas Rothfuss, Dennis Lee, Tamim Asfour, Pieter Abbeel*
 -  [Recurrent Machines for Likelihood-Free Inference](papers/metalearn2018_paper77.pdf)
 *Arthur Pesah, Antoine Wehenkel, Gilles Louppe*
 -  [TAEML: Task-Adaptive Ensemble of Meta-Learners](papers/metalearn2018_paper22.pdf)
