@@ -32,7 +32,7 @@ The goal of this workshop is to bring together researchers from all the differen
 - [Michèle Sebag](https://www.lri.fr/~sebag/) (Paris-Saclay)
 
 ## Additional Panelists  ##
-- [Roberto Calandra](https://www.robertocalandra.com/) (Google)
+- [Roberto Calandra](https://www.robertocalandra.com/) (Facebook AI Research)
 
 ## Organizers ##
 - [Frank Hutter](http://www2.informatik.uni-freiburg.de/~hutter/) (University of Freiburg)
@@ -55,7 +55,7 @@ The goal of this workshop is to bring together researchers from all the differen
 | 09:40 | Poster spotlights 1
 | 10:00 | Poster session 1
 | 10:30 | *Coffee break*
-| 11:00 | Invited talk 2: **Sergey Levine**, *to be announced*
+| 11:00 | Invited talk 2: **Sergey Levine**, "What's wrong with meta-learning (and how we can fix it)"
 | 11:30 | Poster session 2
 | 12:00 | *Lunch break*
 | 13:30 | Invited talk 3: **Hugo Larochelle**, *to be announced*
