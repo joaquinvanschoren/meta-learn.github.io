@@ -25,7 +25,7 @@ Some of the fundamental questions that this workshop aims to address are:
 The goal of this workshop is to bring together researchers from all the different communities and topics that fall under the umbrella of meta-learning. We expect that the presence of these different communities will result in a fruitful exchange of ideas and stimulate an open discussion about the current challenges in meta-learning, as well as possible solutions.
 
 ## Speakers ##
-- [Nando de Freitas](https://scholar.google.com/citations?user=nzEluBwAAAAJ&hl=en) (Google DeepMind)
+- [Nando de Freitas](https://scholar.google.com/citations?user=nzEluBwAAAAJ&hl=en) (DeepMind)
 - [Lise Getoor](https://getoor.soe.ucsc.edu/home) (UC Santa Cruz)
 - [Hugo Larochelle](https://ai.google/research/people/105144) (Google Brain)
 - [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/) (UC Berkeley)
@@ -38,7 +38,7 @@ The goal of this workshop is to bring together researchers from all the differen
 - [Frank Hutter](http://www2.informatik.uni-freiburg.de/~hutter/) (University of Freiburg)
 - [Joaquin Vanschoren](http://www.win.tue.nl/~jvanscho/) (Eindhoven University of Technology)
 - [Erin Grant](https://people.eecs.berkeley.edu/~eringrant/) (UC Berkeley)
-- [Jane Wang](http://www.janexwang.com) (Google DeepMind)
+- [Jane Wang](http://www.janexwang.com) (DeepMind)
 - [Sachin Ravi](http://www.cs.princeton.edu/~sachinr/) (Princeton)
 
 ## Important dates ##
