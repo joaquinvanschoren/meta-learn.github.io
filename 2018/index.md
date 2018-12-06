@@ -113,11 +113,11 @@ The second challenge is that meta-learning trades off the challenge of algorithm
 1. Mitigating Architectural Mismatch During the Evolutionary Synthesis of Deep Neural Networks
 1. Evolvability ES: Scalable Evolutionary Meta-Learning
 1. Consolidating the Meta-Learning Zoo: A Unifying Perspective as Posterior Predictive Inference
-1. Incremental Few-Shot Learning with Attention Attractor Networks
+1. Deep Online Learning via Meta-Learning: Continual Adaptation for Model-Based RL
 
 ### Spotlights 2
 
-1. Deep Online Learning via Meta-Learning: Continual Adaptation for Model-Based RL
+1. Incremental Few-Shot Learning with Attention Attractor Networks
 1. Auto-Meta: Automated Gradient-Based Meta-Learner Search
 1.  Transferring Knowledge Across Learning Processes
 1. Few-Shot Learning for Free by Modeling Global Class Structure
