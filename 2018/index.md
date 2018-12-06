@@ -201,15 +201,15 @@ Accepted papers and supplementary material will be made available on the worksho
 -  [Recurrent Machines for Likelihood-Free Inference](papers/metalearn2018_paper77.pdf)
 *Arthur Pesah, Antoine Wehenkel, Gilles Louppe*
 -  [TAEML: Task-Adaptive Ensemble of Meta-Learners](papers/metalearn2018_paper22.pdf)
-Minseop Park, Jungtaek Kim, Saehoon Kim, Yanbin Liu, Seungjin Choi*
+*Minseop Park, Jungtaek Kim, Saehoon Kim, Yanbin Liu, Seungjin Choi*
 -  [The Effects of Negative Adaptation in Model-Agnostic Meta-Learning](papers/metalearn2018_paper76.pdf)
 *Tristan Deleu, Yoshua Bengio*
 -  [Toward Multimodal Model-Agnostic Meta-Learning](papers/metalearn2018_paper4.pdf)
-Risto Vuorio, Shao-Hua Sun, Hexiang Hu, Joseph Lim*
 [[supp]](papers/metalearn2018_paper4_supp.pdf)
+Risto Vuorio, Shao-Hua Sun, Hexiang Hu, Joseph Lim*
 -  [Transferring Knowledge Across Learning Processes](papers/metalearn2018_paper24.pdf)
-*Sebastian Flennerhag, Andreas Damianou, Pablo Moreno, Neil Lawrence*
 [[supp]](papers/metalearn2018_paper24_supp.pdf)
+*Sebastian Flennerhag, Andreas Damianou, Pablo Moreno, Neil Lawrence*
 -  [Unsupervised Learning via Meta-Learning](papers/metalearn2018_paper15.pdf)
 [[arXiv]](https://arxiv.org/abs/1810.02334)
 *Kyle Hsu, Sergey Levine, Chelsea Finn*
