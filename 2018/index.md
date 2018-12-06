@@ -31,8 +31,11 @@ The goal of this workshop is to bring together researchers from all the differen
 - [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/) (UC Berkeley)
 - [Michèle Sebag](https://www.lri.fr/~sebag/) (Paris-Saclay)
 
-## Additional Panelists  ##
+## Panelists  ##
 - [Roberto Calandra](https://www.robertocalandra.com/) (Facebook AI Research)
+- [Nando de Freitas](https://scholar.google.com/citations?user=nzEluBwAAAAJ&hl=en) (DeepMind)
+- [Hugo Larochelle](https://ai.google/research/people/105144) (Google Brain)
+- [Michèle Sebag](https://www.lri.fr/~sebag/) (Paris-Saclay)
 
 ## Organizers ##
 - [Frank Hutter](http://www2.informatik.uni-freiburg.de/~hutter/) (University of Freiburg)
