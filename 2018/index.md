@@ -51,7 +51,7 @@ The goal of this workshop is to bring together researchers from all the differen
 
 | --------:| ---------------------------------------------------
 | 09:00 | Introduction and opening remarks
-| 09:10 | Invited talk 1: **Lise Getoor**, *to be announced*
+| 09:10 | Invited talk 1: **Lise Getoor**, "Exploiting structure for meta-learning"
 | 09:40 | Poster spotlights 1
 | 10:00 | Poster session 1
 | 10:30 | *Coffee break*
