@@ -66,7 +66,7 @@ The goal of this workshop is to bring together researchers from all the differen
 | 15:30 | Poster session 4
 | 16:00 | Invited talk 5: **Nando de Freitas**, *to be announced*
 | 16:30 | Contributed talk 1: **JD Co-Reyes**, "Guiding policies with language via meta-learning"
-| 16:45 | Contributed talk 2: **Arthur Pesah**, "Recurrent machines for likelihood-free inference"
+| 16:45 | Contributed talk 2: **Arthur Pesah & Antoine Wehenkel**, "Recurrent machines for likelihood-free inference"
 | 17:00 | Panel discussion
 | 18:00 | End
 
