@@ -95,11 +95,47 @@ The second challenge is that meta-learning trades off the challenge of algorithm
 
 ### Spotlights 1
 
-*to be announced*
+##### 21 Meta-Learner with Linear Nulling 
+##### 39 OBOE: Collaborative Filtering for AutoML Initialization
+##### 10 Backpropamine: Meta-Training Self-Modifying Neural Networks with Gradient Descent 
+##### 14 Hyperparameter Learning via Distributional Transfer
+##### 04 Toward Multimodal Model-Agnostic Meta-Learning 
+##### 28 Fast Neural Architecture Construction Using Envelopenets
+##### 42 Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples
+##### 16 Macro Neural Architecture Search Revisited 
+##### 43 AutoDL Challenge Design and Beta Tests 
+##### 70 Meta Learning for Defaults: Symbolic Defaults 
+##### 54 Modular Meta-Learning in Abstract Graph Networks for Combinatorial Generalization 
+##### 27 Cross-Modulation Networks for Few-Shot Learning 
+##### 11 Large Margin Meta-Learning for Few-Shot Classification 
+##### 63 Amortized Bayesian Meta-Learning 
+##### 76 The Effects of Negative Adaptation in Model-Agnostic Meta-Learning 
+##### 13 Mitigating Architectural Mismatch During the Evolutionary Synthesis of Deep Neural Networks 
+##### 62 Evolvability ES: Scalable Evolutionary Meta-Learning
+##### 26 Consolidating the Meta-Learning Zoo: A Unifying Perspective as Posterior Predictive Inference
+##### 56 Incremental Few-Shot Learning with Attention Attractor Networks
 
 ### Spotlights 2
 
-*to be announced*
+##### 46	Deep Online Learning via Meta-Learning: Continual Adaptation for Model-Based RL
+##### 68	Auto-Meta: Automated Gradient-Based Meta-Learner Search
+##### 24	Transferring Knowledge Across Learning Processes
+##### 29	Few-Shot Learning for Free by Modeling Global Class Structure
+##### 22	TAEML: Task-Adaptive Ensemble of Meta-Learners
+##### 32	A Simple Transfer-Learning Extension of Hyperband
+##### 38	Learned Optimizers That Outperform Sgd on Wall-Clock and Validation Loss
+##### 12	Learning to Learn with Conditional Class Dependencies
+##### 15	Unsupervised Learning via Meta-Learning
+##### 58	Control Adaptation via Meta-Learning Dynamics
+##### 45	Learning to Adapt in Dynamic, Real-World Environments via Meta-Reinforcement Learning
+##### 74	Learning to Design RNA
+##### 41	Graph Hypernetworks for Neural Architecture Search
+##### 34	Meta-Learning with Latent Embedding Optimization
+##### 59	ProMP: Proximal Meta-Policy Search
+##### 57	Gradient Agreement as an Optimization Objective for Meta-Learning
+##### 23	Attentive Task-Agnostic Meta-Learning for Few-Shot Text Classification
+##### 37	Variadic Learning by Bayesian Nonparametric Deep Embedding
+##### 60	from Nodes to Networks: Evolving Recurrent Neural Networks
 
 ## Submission Instructions  ##
 
