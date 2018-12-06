@@ -24,14 +24,14 @@ Some of the fundamental questions that this workshop aims to address are:
 
 The goal of this workshop is to bring together researchers from all the different communities and topics that fall under the umbrella of meta-learning. We expect that the presence of these different communities will result in a fruitful exchange of ideas and stimulate an open discussion about the current challenges in meta-learning, as well as possible solutions.
 
-## Speakers ##
+## Invited Speakers ##
 - [Nando de Freitas](https://scholar.google.com/citations?user=nzEluBwAAAAJ&hl=en) (DeepMind)
 - [Lise Getoor](https://getoor.soe.ucsc.edu/home) (UC Santa Cruz)
 - [Hugo Larochelle](https://ai.google/research/people/105144) (Google Brain)
 - [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/) (UC Berkeley)
 - [Michèle Sebag](https://www.lri.fr/~sebag/) (Paris-Saclay)
 
-## Panelists  ##
+## Invited Panelists  ##
 - [Roberto Calandra](https://www.robertocalandra.com/) (Facebook AI Research)
 - [Nando de Freitas](https://scholar.google.com/citations?user=nzEluBwAAAAJ&hl=en) (DeepMind)
 - [Hugo Larochelle](https://ai.google/research/people/105144) (Google Brain)
