@@ -62,7 +62,7 @@ The goal of this workshop is to bring together researchers from all the differen
 | 11:00 | Invited talk 2: **Sergey Levine**, "What's wrong with meta-learning (and how we can fix it)"
 | 11:30 | Poster session 2
 | 12:00 | *Lunch break*
-| 13:30 | Invited talk 3: **Hugo Larochelle**, *to be announced*
+| 13:30 | Invited talk 3: **Hugo Larochelle**, "Thoughts on progress made and challenges ahead in few-shot learning"
 | 14:00 | Invited talk 4: **Michèle Sebag**, *to be announced*
 | 14:30 | Poster spotlights 2
 | 14:50 | Poster session 3
@@ -82,9 +82,9 @@ Many machine learning problems exhibit rich structural dependencies.  We need me
 
 #### Sergey Levine (UC Berkeley), "What's wrong with meta-learning (and how we can fix it)"
 
-Meta-learning, or learning to learn, offers an appealing framework for training deep neural networks to adapt quickly and efficiently to new tasks. Indeed, the framework of meta-learning holds the promise of resolving the long-standing challenge of sample complexity in deep learning: by learning to learn efficiently, deep models can be meta-trained to adapt quickly to classify new image classes from a couple of examples, or learn new skills with reinforcement learning from just a few trials. 
+Meta-learning, or learning to learn, offers an appealing framework for training deep neural networks to adapt quickly and efficiently to new tasks. Indeed, the framework of meta-learning holds the promise of resolving the long-standing challenge of sample complexity in deep learning: by learning to learn efficiently, deep models can be meta-trained to adapt quickly to classify new image classes from a couple of examples, or learn new skills with reinforcement learning from just a few trials.
 
-However, although the framework of meta-learning and few-shot learning is exceedingly appealing, it carries with it a number of major challenges. First, designing neural network models for meta-learning is quite difficult, since meta-learning models must be able to ingest entire datasets to adapt effectively. I will discuss how this challenge can be addressed by describing a model-agnostic meta-learning algorithm: a meta-learning algorithm that can use any model architecture, training that architecture to adapt efficiently via simple finetuning. 
+However, although the framework of meta-learning and few-shot learning is exceedingly appealing, it carries with it a number of major challenges. First, designing neural network models for meta-learning is quite difficult, since meta-learning models must be able to ingest entire datasets to adapt effectively. I will discuss how this challenge can be addressed by describing a model-agnostic meta-learning algorithm: a meta-learning algorithm that can use any model architecture, training that architecture to adapt efficiently via simple finetuning.
 
 The second challenge is that meta-learning trades off the challenge of algorithm design (by learning the algorithm) for the challenge of task design: the performance of meta-learning algorithms depends critically on the ability of the user to manually design large sets of diverse meta-training tasks. In practice, this often ends up being an enormous barrier to widespread adoption of meta-learning methods. I will describe our recent work on unsupervised meta-learning, where tasks are proposed automatically from unlabeled data, and discuss how unsupervised meta-learning can exceed the performance of standard unsupervised learning methods while removing the manual task design requirement inherent in standard meta-learning methods.
 
@@ -96,7 +96,7 @@ A lot of the recent progress on many AI tasks were enabled in part by the availa
 
 The sensitivity of algorithms (related to machine learning, combinatorial optimization, constraint satisfaction) w.r.t. their  hyperparameters, and the difficulty of finding the algorithm and its hyperparameter setting best suited to the problem instance at hand, has led to the rapidly developing field of algorithm selection and calibration, and, focusing on machine learning, to AutoML.
 
-Several international AutoML challenges have been organized since 2013, motivating the development of the Bayesian optimization-based approach Auto-sklearn, the randomized search approach Hyperband, and others. This talk will present a new approach, called *Monte Carlo Tree Search for Algorithm Configuration* (MOSAIC), fully exploiting the tree structure 
+Several international AutoML challenges have been organized since 2013, motivating the development of the Bayesian optimization-based approach Auto-sklearn, the randomized search approach Hyperband, and others. This talk will present a new approach, called *Monte Carlo Tree Search for Algorithm Configuration* (MOSAIC), fully exploiting the tree structure
 of the algorithm portfolio-hyperparameter search space.
 
 It is shown that MOSAIC outperforms the current AutoML winner Auto-Sklearn on both the AutoML challenge 2015, and the MNIST dataset.
