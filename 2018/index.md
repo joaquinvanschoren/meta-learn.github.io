@@ -35,6 +35,7 @@ The goal of this workshop is to bring together researchers from all the differen
 - [Roberto Calandra](https://www.robertocalandra.com/) (Facebook AI Research)
 - [Nando de Freitas](https://scholar.google.com/citations?user=nzEluBwAAAAJ&hl=en) (DeepMind)
 - [Hugo Larochelle](https://ai.google/research/people/105144) (Google Brain)
+- [Jürgen Schmidhuber](http://people.idsia.ch/~juergen/) (IDSIA)
 - [Michèle Sebag](https://www.lri.fr/~sebag/) (Paris-Saclay)
 
 ## Organizers ##
