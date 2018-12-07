@@ -24,15 +24,19 @@ Some of the fundamental questions that this workshop aims to address are:
 
 The goal of this workshop is to bring together researchers from all the different communities and topics that fall under the umbrella of meta-learning. We expect that the presence of these different communities will result in a fruitful exchange of ideas and stimulate an open discussion about the current challenges in meta-learning, as well as possible solutions.
 
-## Speakers ##
+## Invited Speakers ##
 - [Nando de Freitas](https://scholar.google.com/citations?user=nzEluBwAAAAJ&hl=en) (DeepMind)
 - [Lise Getoor](https://getoor.soe.ucsc.edu/home) (UC Santa Cruz)
 - [Hugo Larochelle](https://ai.google/research/people/105144) (Google Brain)
 - [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/) (UC Berkeley)
 - [Michèle Sebag](https://www.lri.fr/~sebag/) (Paris-Saclay)
 
-## Additional Panelists  ##
+## Invited Panelists  ##
 - [Roberto Calandra](https://www.robertocalandra.com/) (Facebook AI Research)
+- [Nando de Freitas](https://scholar.google.com/citations?user=nzEluBwAAAAJ&hl=en) (DeepMind)
+- [Hugo Larochelle](https://ai.google/research/people/105144) (Google Brain)
+- [Jürgen Schmidhuber](http://people.idsia.ch/~juergen/) (IDSIA)
+- [Michèle Sebag](https://www.lri.fr/~sebag/) (Paris-Saclay)
 
 ## Organizers ##
 - [Frank Hutter](http://www2.informatik.uni-freiburg.de/~hutter/) (University of Freiburg)
@@ -51,7 +55,7 @@ The goal of this workshop is to bring together researchers from all the differen
 
 | --------:| ---------------------------------------------------
 | 09:00 | Introduction and opening remarks
-| 09:10 | Invited talk 1: **Lise Getoor**, *to be announced*
+| 09:10 | Invited talk 1: **Lise Getoor**, "Exploiting structure for meta-learning"
 | 09:40 | Poster spotlights 1
 | 10:00 | Poster session 1
 | 10:30 | *Coffee break*
@@ -84,19 +88,66 @@ However, although the framework of meta-learning and few-shot learning is exceed
 
 The second challenge is that meta-learning trades off the challenge of algorithm design (by learning the algorithm) for the challenge of task design: the performance of meta-learning algorithms depends critically on the ability of the user to manually design large sets of diverse meta-training tasks. In practice, this often ends up being an enormous barrier to widespread adoption of meta-learning methods. I will describe our recent work on unsupervised meta-learning, where tasks are proposed automatically from unlabeled data, and discuss how unsupervised meta-learning can exceed the performance of standard unsupervised learning methods while removing the manual task design requirement inherent in standard meta-learning methods.
 
-#### Hugo Larochelle (Google Brain), *to be announced*
+#### Hugo Larochelle (Google Brain), "Thoughts on progress made and challenges ahead in few-shot learning"
 
-#### Michèle Sebag (Paris-Saclay), *to be announced*
+A lot of the recent progress on many AI tasks were enabled in part by the availability of large quantities of labeled data. Yet, humans are able to learn concepts from as little as a handful of examples. Meta-learning has been a very promising framework for addressing the problem of generalizing from small amounts of data, known as few-shot learning. In this talk, I'll present an overview of the recent research that has made exciting progress on this topic. I will also share my thoughts on the challenges and research opportunities that remain in few-shot learning, including a proposal for a new benchmark.
+
+#### Michèle Sebag (Paris-Saclay), "Monte Carlo tree search for algorithm configuration: MOSAIC"
+
+The sensitivity of algorithms (related to machine learning, combinatorial optimization, constraint satisfaction) w.r.t. their  hyperparameters, and the difficulty of finding the algorithm and its hyperparameter setting best suited to the problem instance at hand, has led to the rapidly developing field of algorithm selection and calibration, and, focusing on machine learning, to AutoML.
+
+Several international AutoML challenges have been organized since 2013, motivating the development of the Bayesian optimization-based approach Auto-sklearn, the randomized search approach Hyperband, and others. This talk will present a new approach, called *Monte Carlo Tree Search for Algorithm Configuration* (MOSAIC), fully exploiting the tree structure 
+of the algorithm portfolio-hyperparameter search space.
+
+It is shown that MOSAIC outperforms the current AutoML winner Auto-Sklearn on both the AutoML challenge 2015, and the MNIST dataset.
+
+Joint work: Heri Rakotoarison
 
 #### Nando de Freitas (DeepMind), *to be announced*
 
 ### Spotlights 1
 
-*to be announced*
+1. Meta-Learner with Linear Nulling
+1. OBOE: Collaborative Filtering for AutoML Initialization
+1. Backpropamine: Meta-Training Self-Modifying Neural Networks with Gradient Descent
+1. Hyperparameter Learning via Distributional Transfer
+1. Toward Multimodal Model-Agnostic Meta-Learning
+1. Fast Neural Architecture Construction Using Envelopenets
+1. Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples
+1. Macro Neural Architecture Search Revisited
+1. AutoDL Challenge Design and Beta Tests
+1. Meta Learning for Defaults: Symbolic Defaults
+1. Modular Meta-Learning in Abstract Graph Networks for Combinatorial Generalization
+1. Cross-Modulation Networks for Few-Shot Learning
+1. Large Margin Meta-Learning for Few-Shot Classification
+1. Amortized Bayesian Meta-Learning
+1. The Effects of Negative Adaptation in Model-Agnostic Meta-Learning
+1. Mitigating Architectural Mismatch During the Evolutionary Synthesis of Deep Neural Networks
+1. Evolvability ES: Scalable Evolutionary Meta-Learning
+1. Consolidating the Meta-Learning Zoo: A Unifying Perspective as Posterior Predictive Inference
+1. Deep Online Learning via Meta-Learning: Continual Adaptation for Model-Based RL
 
 ### Spotlights 2
 
-*to be announced*
+1. Incremental Few-Shot Learning with Attention Attractor Networks
+1. Auto-Meta: Automated Gradient-Based Meta-Learner Search
+1.  Transferring Knowledge Across Learning Processes
+1. Few-Shot Learning for Free by Modeling Global Class Structure
+1. TAEML: Task-Adaptive Ensemble of Meta-Learners
+1. A Simple Transfer-Learning Extension of Hyperband
+1. Learned Optimizers That Outperform Sgd on Wall-Clock and Validation Loss
+1. Learning to Learn with Conditional Class Dependencies
+1. Unsupervised Learning via Meta-Learning
+1. Control Adaptation via Meta-Learning Dynamics
+1. Learning to Adapt in Dynamic, Real-World Environments via Meta-Reinforcement Learning
+1. Learning to Design RNA
+1. Graph Hypernetworks for Neural Architecture Search
+1. Meta-Learning with Latent Embedding Optimization
+1. ProMP: Proximal Meta-Policy Search
+1. Gradient Agreement as an Optimization Objective for Meta-Learning
+1. Attentive Task-Agnostic Meta-Learning for Few-Shot Text Classification
+1. Variadic Learning by Bayesian Nonparametric Deep Embedding
+1. from Nodes to Networks: Evolving Recurrent Neural Networks
 
 ## Submission Instructions  ##
 
@@ -147,7 +198,7 @@ Accepted papers and supplementary material will be made available on the worksho
 *James Harrison, Apoorva Sharma, Roberto Calandra, Marco Pavone*
 -  [Cross-Modulation Networks for Few-Shot Learning](papers/metalearn2018_paper27.pdf)
 *Hugo Prol Pereira, Vincent Dumoulin, Luis Herranz*
--  [Deep Online Learning via Meta-Learning: Continual Adaptation for Model-Based Rl](papers/metalearn2018_paper46.pdf)
+-  [Deep Online Learning via Meta-Learning: Continual Adaptation for Model-Based RL](papers/metalearn2018_paper46.pdf)
 *Anusha Nagabandi, Sergey Levine, Chelsea Finn*
 -  [Evolvability ES: Scalable Evolutionary Meta-Learning](papers/metalearn2018_paper62.pdf)
 *Alexander Gajewski, Jeff Clune, Kenneth O. Stanley, Joel Lehman*
@@ -205,6 +256,7 @@ Accepted papers and supplementary material will be made available on the worksho
 -  [TAEML: Task-Adaptive Ensemble of Meta-Learners](papers/metalearn2018_paper22.pdf)
 *Minseop Park, Jungtaek Kim, Saehoon Kim, Yanbin Liu, Seungjin Choi*
 -  [The Effects of Negative Adaptation in Model-Agnostic Meta-Learning](papers/metalearn2018_paper76.pdf)
+[[arXiv]](https://arxiv.org/abs/1812.02159)
 *Tristan Deleu, Yoshua Bengio*
 -  [Toward Multimodal Model-Agnostic Meta-Learning](papers/metalearn2018_paper4.pdf)
 [[supp]](papers/metalearn2018_paper4_supp.pdf)
