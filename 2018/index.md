@@ -256,6 +256,7 @@ Accepted papers and supplementary material will be made available on the worksho
 -  [TAEML: Task-Adaptive Ensemble of Meta-Learners](papers/metalearn2018_paper22.pdf)
 *Minseop Park, Jungtaek Kim, Saehoon Kim, Yanbin Liu, Seungjin Choi*
 -  [The Effects of Negative Adaptation in Model-Agnostic Meta-Learning](papers/metalearn2018_paper76.pdf)
+[[arXiv]](https://arxiv.org/abs/1812.02159)
 *Tristan Deleu, Yoshua Bengio*
 -  [Toward Multimodal Model-Agnostic Meta-Learning](papers/metalearn2018_paper4.pdf)
 [[supp]](papers/metalearn2018_paper4_supp.pdf)
