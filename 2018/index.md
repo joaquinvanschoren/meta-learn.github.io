@@ -87,9 +87,20 @@ However, although the framework of meta-learning and few-shot learning is exceed
 
 The second challenge is that meta-learning trades off the challenge of algorithm design (by learning the algorithm) for the challenge of task design: the performance of meta-learning algorithms depends critically on the ability of the user to manually design large sets of diverse meta-training tasks. In practice, this often ends up being an enormous barrier to widespread adoption of meta-learning methods. I will describe our recent work on unsupervised meta-learning, where tasks are proposed automatically from unlabeled data, and discuss how unsupervised meta-learning can exceed the performance of standard unsupervised learning methods while removing the manual task design requirement inherent in standard meta-learning methods.
 
-#### Hugo Larochelle (Google Brain), *to be announced*
+#### Hugo Larochelle (Google Brain), "Thoughts on progress made and challenges ahead in few-shot learning"
 
-#### Michèle Sebag (Paris-Saclay), *to be announced*
+A lot of the recent progress on many AI tasks were enabled in part by the availability of large quantities of labeled data. Yet, humans are able to learn concepts from as little as a handful of examples. Meta-learning has been a very promising framework for addressing the problem of generalizing from small amounts of data, known as few-shot learning. In this talk, I'll present an overview of the recent research that has made exciting progress on this topic. I will also share my thoughts on the challenges and research opportunities that remain in few-shot learning, including a proposal for a new benchmark.
+
+#### Michèle Sebag (Paris-Saclay), "Monte Carlo tree search for algorithm configuration: MOSAIC"
+
+The sensitivity of algorithms (related to machine learning, combinatorial optimization, constraint satisfaction) w.r.t. their  hyperparameters, and the difficulty of finding the algorithm and its hyperparameter setting best suited to the problem instance at hand, has led to the rapidly developing field of algorithm selection and calibration, and, focusing on machine learning, to AutoML.
+
+Several international AutoML challenges have been organized since 2013, motivating the development of the Bayesian optimization-based approach Auto-sklearn, the randomized search approach Hyperband, and others. This talk will present a new approach, called *Monte Carlo Tree Search for Algorithm Configuration* (MOSAIC), fully exploiting the tree structure 
+of the algorithm portfolio-hyperparameter search space.
+
+It is shown that MOSAIC outperforms the current AutoML winner Auto-Sklearn on both the AutoML challenge 2015, and the MNIST dataset.
+
+Joint work: Heri Rakotoarison
 
 #### Nando de Freitas (DeepMind), *to be announced*
 
