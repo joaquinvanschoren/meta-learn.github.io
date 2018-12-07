@@ -105,7 +105,7 @@ Joint work: Heri Rakotoarison
 
 #### Nando de Freitas (DeepMind), *to be announced*
 
-### [Spotlights 1](slides/spotlights/spotlights1.pdf)
+### [Spotlights 1](slides/spotlights/spotlights1.pdf) (and Poster Session 1)
 
 1. Meta-Learner with Linear Nulling
 1. OBOE: Collaborative Filtering for AutoML Initialization
@@ -127,7 +127,7 @@ Joint work: Heri Rakotoarison
 1. Consolidating the Meta-Learning Zoo: A Unifying Perspective as Posterior Predictive Inference
 1. Deep Online Learning via Meta-Learning: Continual Adaptation for Model-Based RL
 
-### [Spotlights 2](slides/spotlights/spotlights2.pdf)
+### [Spotlights 2](slides/spotlights/spotlights2.pdf) (and Poster Session 2)
 
 1. Incremental Few-Shot Learning with Attention Attractor Networks
 1. Auto-Meta: Automated Gradient-Based Meta-Learner Search
