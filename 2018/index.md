@@ -68,7 +68,7 @@ The goal of this workshop is to bring together researchers from all the differen
 | 14:50 | Poster session 3
 | 15:00 | *Coffee break*
 | 15:30 | Poster session 4
-| 16:00 | Invited talk 5: **Nando de Freitas**, *to be announced*
+| 16:00 | Invited talk 5: **Nando de Freitas**, "Tools that learn"
 | 16:30 | Contributed talk 1: **JD Co-Reyes**, "Guiding policies with language via meta-learning"
 | 16:45 | Contributed talk 2: **Arthur Pesah & Antoine Wehenkel**, "Recurrent machines for likelihood-free inference"
 | 17:00 | Panel discussion
@@ -103,7 +103,7 @@ It is shown that MOSAIC outperforms the current AutoML winner Auto-Sklearn on bo
 
 Joint work: Heri Rakotoarison
 
-#### Nando de Freitas (DeepMind), *to be announced*
+#### Nando de Freitas (DeepMind), "Tools that learn"
 
 ### [Spotlights 1](slides/spotlights/spotlight1.pdf) (and Poster Sessions 1 & 2)
 
