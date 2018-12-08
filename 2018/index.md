@@ -112,7 +112,7 @@ Joint work: Heri Rakotoarison
 1. Backpropamine: Meta-Training Self-Modifying Neural Networks with Gradient Descent
 1. Hyperparameter Learning via Distributional Transfer
 1. Toward Multimodal Model-Agnostic Meta-Learning
-1. Fast Neural Architecture Construction Using Envelopenets
+1. Fast Neural Architecture Construction Using EnvelopeNets
 1. Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples
 1. Macro Neural Architecture Search Revisited
 1. AutoDL Challenge Design and Beta Tests
@@ -134,7 +134,7 @@ Joint work: Heri Rakotoarison
 1. Few-Shot Learning for Free by Modeling Global Class Structure
 1. TAEML: Task-Adaptive Ensemble of Meta-Learners
 1. A Simple Transfer-Learning Extension of Hyperband
-1. Learned Optimizers That Outperform Sgd on Wall-Clock and Validation Loss
+1. Learned Optimizers That Outperform SGD on Wall-Clock and Validation Loss
 1. Learning to Learn with Conditional Class Dependencies
 1. Unsupervised Learning via Meta-Learning
 1. Control Adaptation via Meta-Learning Dynamics
