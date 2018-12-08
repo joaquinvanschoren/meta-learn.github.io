@@ -116,7 +116,6 @@ Joint work: Heri Rakotoarison
 1. Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples
 1. Macro Neural Architecture Search Revisited
 1. AutoDL Challenge Design and Beta Tests
-1. Meta Learning for Defaults: Symbolic Defaults
 1. Modular Meta-Learning in Abstract Graph Networks for Combinatorial Generalization
 1. Cross-Modulation Networks for Few-Shot Learning
 1. Large Margin Meta-Learning for Few-Shot Classification
@@ -131,7 +130,7 @@ Joint work: Heri Rakotoarison
 
 1. Incremental Few-Shot Learning with Attention Attractor Networks
 1. Auto-Meta: Automated Gradient-Based Meta-Learner Search
-1.  Transferring Knowledge Across Learning Processes
+1. Transferring Knowledge Across Learning Processes
 1. Few-Shot Learning for Free by Modeling Global Class Structure
 1. TAEML: Task-Adaptive Ensemble of Meta-Learners
 1. A Simple Transfer-Learning Extension of Hyperband
@@ -147,6 +146,7 @@ Joint work: Heri Rakotoarison
 1. Attentive Task-Agnostic Meta-Learning for Few-Shot Text Classification
 1. Variadic Learning by Bayesian Nonparametric Deep Embedding
 1. from Nodes to Networks: Evolving Recurrent Neural Networks
+1. Meta Learning for Defaults: Symbolic Defaults
 
 ## Submission Instructions  ##
 
