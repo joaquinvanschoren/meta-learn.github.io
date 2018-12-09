@@ -76,11 +76,11 @@ The goal of this workshop is to bring together researchers from all the differen
 
 ### Invited Talks
 
-#### Lise Getoor (UC Santa Cruz), "Exploiting structure for meta-learning"
+#### Lise Getoor (UC Santa Cruz), ["Exploiting structure for meta-learning"](slides/meta_learning_2018_Getoor.pdf)
 
 Many machine learning problems exhibit rich structural dependencies.  We need meta-learning algorithms which can represent, discover and exploit them,  and we can use structured models to express the dependencies inherent in meta-learning. In this talk, I’ll introduce some common structural dependencies, show their power and how they can be represented, and discuss how we can make use of them for meta-learning.
 
-#### Sergey Levine (UC Berkeley), "What's wrong with meta-learning (and how we can fix it)"
+#### Sergey Levine (UC Berkeley), ["What's wrong with meta-learning (and how we can fix it)"](slides/meta_learning_2018_Levine.pdf)
 
 Meta-learning, or learning to learn, offers an appealing framework for training deep neural networks to adapt quickly and efficiently to new tasks. Indeed, the framework of meta-learning holds the promise of resolving the long-standing challenge of sample complexity in deep learning: by learning to learn efficiently, deep models can be meta-trained to adapt quickly to classify new image classes from a couple of examples, or learn new skills with reinforcement learning from just a few trials.
 
