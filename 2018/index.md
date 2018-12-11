@@ -55,22 +55,22 @@ The goal of this workshop is to bring together researchers from all the differen
 
 | --------:| ---------------------------------------------------
 | 09:00 | Introduction and opening remarks
-| 09:10 | Invited talk 1: **Lise Getoor**, "Exploiting structure for meta-learning"
+| 09:10 | Invited talk 1: **Lise Getoor**, ["Exploiting structure for meta-learning"](slides/meta_learning_2018_Getoor.pdf)
 | 09:40 | Poster spotlights 1
 | 10:00 | Poster session 1
 | 10:30 | *Coffee break*
-| 11:00 | Invited talk 2: **Sergey Levine**, "What's wrong with meta-learning (and how we can fix it)"
+| 11:00 | Invited talk 2: **Sergey Levine**, ["What's wrong with meta-learning (and how we can fix it)"](slides/meta_learning_2018_Levine.pdf)
 | 11:30 | Poster session 2
 | 12:00 | *Lunch break*
-| 13:30 | Invited talk 3: **Hugo Larochelle**, "Thoughts on progress made and challenges ahead in few-shot learning"
+| 13:30 | Invited talk 3: **Hugo Larochelle**, ["Thoughts on progress made and challenges ahead in few-shot learning"](slides/meta_learning_2018_Larochelle.pdf)
 | 14:00 | Invited talk 4: **Michèle Sebag**, "Monte Carlo tree search for algorithm configuration: MOSAIC"
 | 14:30 | Poster spotlights 2
 | 14:50 | Poster session 3
 | 15:00 | *Coffee break*
 | 15:30 | Poster session 4
 | 16:00 | Invited talk 5: **Nando de Freitas**, "Tools that learn"
-| 16:30 | Contributed talk 1: **JD Co-Reyes**, "Guiding policies with language via meta-learning"
-| 16:45 | Contributed talk 2: **Arthur Pesah & Antoine Wehenkel**, "Recurrent machines for likelihood-free inference"
+| 16:30 | Contributed talk 1: **JD Co-Reyes**, ["Guiding policies with language via meta-learning"](slides/meta_learning_2018_CoReyes.pdf)
+| 16:45 | Contributed talk 2: **Arthur Pesah & Antoine Wehenkel**, ["Recurrent machines for likelihood-free inference"](slides/meta_learning_2018_Pesah.pdf)
 | 17:00 | Panel discussion
 | 18:00 | End
 
@@ -88,7 +88,7 @@ However, although the framework of meta-learning and few-shot learning is exceed
 
 The second challenge is that meta-learning trades off the challenge of algorithm design (by learning the algorithm) for the challenge of task design: the performance of meta-learning algorithms depends critically on the ability of the user to manually design large sets of diverse meta-training tasks. In practice, this often ends up being an enormous barrier to widespread adoption of meta-learning methods. I will describe our recent work on unsupervised meta-learning, where tasks are proposed automatically from unlabeled data, and discuss how unsupervised meta-learning can exceed the performance of standard unsupervised learning methods while removing the manual task design requirement inherent in standard meta-learning methods.
 
-#### Hugo Larochelle (Google Brain), "Thoughts on progress made and challenges ahead in few-shot learning"
+#### Hugo Larochelle (Google Brain), ["Thoughts on progress made and challenges ahead in few-shot learning"](slides/meta_learning_2018_Larochelle.pdf)
 
 A lot of the recent progress on many AI tasks were enabled in part by the availability of large quantities of labeled data. Yet, humans are able to learn concepts from as little as a handful of examples. Meta-learning has been a very promising framework for addressing the problem of generalizing from small amounts of data, known as few-shot learning. In this talk, I'll present an overview of the recent research that has made exciting progress on this topic. I will also share my thoughts on the challenges and research opportunities that remain in few-shot learning, including a proposal for a new benchmark.
 
