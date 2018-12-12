@@ -7,7 +7,7 @@ weight: -1
 redirect_from: /2018/
 ---
 
-[Click here to enter your questions for the panel discussion.](http://www.tricider.com/brainstorming/2WW8MHMNuTR)
+[The list of questions from the panel discussion are here.](http://www.tricider.com/brainstorming/2WW8MHMNuTR)
 
 Recent years have seen rapid progress in meta-learning methods, which learn (and optimize) the performance of learning methods based on data, generate new learning methods from scratch, or learn to transfer knowledge across tasks and domains. Meta-learning can be seen as the logical conclusion of the arc that machine learning has undergone in the last decade, from learning classifiers, to learning representations, and finally to learning algorithms that themselves acquire representations and classifiers. The ability to improve one’s own learning capabilities through experience can also be viewed as a hallmark of intelligent beings, and there are strong connections with work on human learning in neuroscience.
 
@@ -150,10 +150,12 @@ Joint work: Heri Rakotoarison
 
 ## Submission Instructions  ##
 
-<!-- Papers must be in the latest NIPS format, but with a maximum of 4 pages (excluding references). Papers should include the names of all authors (by uncommenting `\nipsfinalcopy` in the NIPS LaTeX template prior to submission). -->
+<!-- Papers must be in the latest NeurIPS format, but with a maximum of 4 pages (excluding references). Papers should include the names of all authors (by uncommenting `\neuripsfinal` in the NeurIPS LaTeX template prior to submission). -->
 The submission window for this workshop is now closed. Decision notifications were sent out November 9, 2018. Thank you to all who submitted!
 
-Accepted papers and supplementary material will be made available on the workshop website. However, this does not constitute an archival publication and no formal workshop proceedings will be made available, meaning contributors are free to publish their work in archival journals or conferences.
+We have provided a modified `.sty` file [here](neurips_2018.sty) that appropriately lists the name of the workshop when `\neuripsfinal` is enabled. Please use this style files in conjunction with corresponding LaTeX `.tex` template from the [NeurIPS website](https://neurips.cc/Conferences/2018/PaperInformation/StyleFiles) to submit a final camera-ready copy.
+
+Accepted papers and supplementary material are available on the workshop website. However, these do not constitute archival publications and no formal workshop proceedings will be made available, meaning contributors are free to publish their work in archival journals or conferences.
 
 <!-- *The two best papers submitted will be presented as 15-minute contributed talks*. -->
 
@@ -162,9 +164,9 @@ Accepted papers and supplementary material will be made available on the worksho
 ### FAQ ###
 1. Can supplementary material be added beyond the 4-page limit and are there any restrictions on it?
 
-   Yes, you may include additional supplementary material, but we ask that it be limited to a reasonable amount (max 10 pages in addition to the main submission) and that it follow the same NIPS format as the paper.
+   Yes, you may include additional supplementary material, but we ask that it be limited to a reasonable amount (max 10 pages in addition to the main submission) and that it follow the same NeurIPS format as the paper.
 
-2. Can a submission to this workshop be submitted to another NIPS workshop in parallel?
+2. Can a submission to this workshop be submitted to another NeurIPS workshop in parallel?
 
    We discourage this, as it leads to more work for reviewers across multiple workshops. Our suggestion is to pick one workshop to submit to.
 
@@ -326,7 +328,7 @@ Udayan Khurana
 
 ## Past workshops
 
-[Workshop on Meta-Learning (MetaLearn 2017) @ NIPS 2017](http://metalearning.ml/2017/)
+[Workshop on Meta-Learning (MetaLearn 2017) @ NeurIPS 2017](http://metalearning.ml/2017/)
 
 ## Contacts  ##
 
