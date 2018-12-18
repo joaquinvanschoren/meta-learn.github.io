@@ -63,7 +63,7 @@ The goal of this workshop is to bring together researchers from all the differen
 | 11:30 | Poster session 2
 | 12:00 | *Lunch break*
 | 13:30 | Invited talk 3: **Hugo Larochelle**, ["Thoughts on progress made and challenges ahead in few-shot learning"](slides/meta_learning_2018_Larochelle.pdf)
-| 14:00 | Invited talk 4: **Michèle Sebag**, "Monte Carlo tree search for algorithm configuration: MOSAIC"
+| 14:00 | Invited talk 4: **Michèle Sebag**, ["Monte Carlo tree search for algorithm configuration: MOSAIC"](slides/meta_learning_2018_Sebag.pdf)
 | 14:30 | Poster spotlights 2
 | 14:50 | Poster session 3
 | 15:00 | *Coffee break*
