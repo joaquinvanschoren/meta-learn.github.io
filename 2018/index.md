@@ -92,7 +92,7 @@ The second challenge is that meta-learning trades off the challenge of algorithm
 
 A lot of the recent progress on many AI tasks were enabled in part by the availability of large quantities of labeled data. Yet, humans are able to learn concepts from as little as a handful of examples. Meta-learning has been a very promising framework for addressing the problem of generalizing from small amounts of data, known as few-shot learning. In this talk, I'll present an overview of the recent research that has made exciting progress on this topic. I will also share my thoughts on the challenges and research opportunities that remain in few-shot learning, including a proposal for a new benchmark.
 
-#### Michèle Sebag (Paris-Saclay), "Monte Carlo tree search for algorithm configuration: MOSAIC"
+#### Michèle Sebag (Paris-Saclay), ["Monte Carlo tree search for algorithm configuration: MOSAIC"](slides/meta_learning_2018_Sebag.pdf)
 
 The sensitivity of algorithms (related to machine learning, combinatorial optimization, constraint satisfaction) w.r.t. their  hyperparameters, and the difficulty of finding the algorithm and its hyperparameter setting best suited to the problem instance at hand, has led to the rapidly developing field of algorithm selection and calibration, and, focusing on machine learning, to AutoML.
 
