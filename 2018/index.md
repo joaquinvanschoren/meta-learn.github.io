@@ -182,7 +182,7 @@ Accepted papers and supplementary material are available on the workshop website
 
 ## Accepted Abstracts  ##
 
--  [A Simple Transfer-Learning Extension of Hyperband](papers/metalearn2018_paper32_main.pdf)
+-  [A Simple Transfer-Learning Extension of Hyperband](papers/metalearn2018_paper32.pdf)
 [[supp]](papers/metalearn2018_paper32_supp.pdf)
 *Lazar Valkov, Rodolphe Jenatton, Fela Winkelmolen, Cedric Archambeau*
 -  [Amortized Bayesian Meta-Learning](papers/metalearn2018_paper63.pdf)
@@ -231,7 +231,7 @@ Accepted papers and supplementary material are available on the workshop website
 *Frederic Runge, Danny Stoll, Stefan Falkner, Frank Hutter*
 -  [Learning to Learn with Conditional Class Dependencies](papers/metalearn2018_paper12.pdf)
 *Xiang Jiang, Mohammad Havaei, Farshid Varno, Gabriel Chartrand, Nicolas Chapados, Stan Matwin*
--  [Macro Neural Architecture Search Revisited](papers/metalearn2018_paper16_main.pdf)
+-  [Macro Neural Architecture Search Revisited](papers/metalearn2018_paper16.pdf)
 [[supp]](papers/metalearn2018_paper16_supp.pdf)
 *Hanzhang Hu, John Langford, Rich Caruana, Eric Horvitz, Martial Hebert, J. Andrew Bagnell, Debadeepta Dey*
 -  [Meta Learning for Defaults: Symbolic Defaults](papers/metalearn2018_paper70.pdf)
