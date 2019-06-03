@@ -1,6 +1,6 @@
 ---
 title: Workshop on Meta-Learning (MetaLearn 2019)
-description: "@NeurIPS 2019" <!-- <br> Saturday 08 December 2018 <br> Palais des Congrès de Montréal, Montréal, Canada" -->
+description: "@NeurIPS 2019 <br> December 2019 <br> Vancouver Convention Center, Vancouver, Canada"
 
 permalink: /2019/index.html
 weight: -1
