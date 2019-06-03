@@ -1,5 +1,5 @@
 ---
-title: Workshop on Meta-Learning (MetaLearn 2018)
+title: Workshop on Meta-Learning (MetaLearn 2019)
 description: "@NeurIPS 2019" <!-- <br> Saturday 08 December 2018 <br> Palais des Congrès de Montréal, Montréal, Canada" -->
 
 permalink: /2019/index.html
@@ -72,17 +72,11 @@ TBA
 ### Invited Talks
 
 #### Pieter Abbeel (UC Berkeley, Covariant)
-TBA
 #### David Abel (Brown University)
-TBA
 #### Jeff Clune (/University of Wyoming, Uber AI)
-TBA
 #### Erin Grant (UC Berkeley)
-TBA
 #### Raia Hadsell (DeepMind)
-TBA
 #### Brenden Lake (NYU, Facebook)
-TBA
 
 ### Spotlights 1 (and Poster Sessions 1 & 2)
 
@@ -117,6 +111,7 @@ TBA
 ## Past workshops
 
 [Workshop on Meta-Learning (MetaLearn 2017) @ NeurIPS 2017](http://metalearning.ml/2017/)
+
 [Workshop on Meta-Learning (MetaLearn 2018) @ NeurIPS 2018](http://metalearning.ml/2018/)
 
 ## Contacts  ##
