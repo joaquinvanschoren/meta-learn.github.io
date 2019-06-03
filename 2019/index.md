@@ -26,18 +26,18 @@ In terms of prospective participants, our main targets are machine learning rese
 
 
 ## Invited Speakers ##
-- [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/) (UC Berkeley, Covariant)
+- [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/) (UC Berkeley, Covariant.ai)
 - [David Abel](https://david-abel.github.io/) (Brown University)
-- [Jeff Clune](http://jeffclune.com/) (/University of Wyoming, Uber AI)
+- [Jeff Clune](http://jeffclune.com/) (University of Wyoming, Uber AI)
 - [Erin Grant](https://people.eecs.berkeley.edu/~eringrant/) (UC Berkeley)
 - [Raia Hadsell](http://raiahadsell.com/index.html) (DeepMind)
-- [Brenden Lake](https://cims.nyu.edu/~brenden/)(NYU, Facebook)
+- [Brenden Lake](https://cims.nyu.edu/~brenden/)(NYU, Facebook AI Research)
 
 ## Invited Panelists  ##
 TBA
 
 ## Organizers ##
-- [Roberto Calandra](https://www.robertocalandra.com/)(Facebook)
+- [Roberto Calandra](https://www.robertocalandra.com/)(Facebook AI Research)
 - [Ignasi Clavera](https://iclavera.github.io/) (UC Berkeley)
 - [Frank Hutter](http://www2.informatik.uni-freiburg.de/~hutter/) (University of Freiburg)
 - [Joaquin Vanschoren](http://www.win.tue.nl/~jvanscho/) (Eindhoven University of Technology)
