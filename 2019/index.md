@@ -31,20 +31,20 @@ In terms of prospective participants, our main targets are machine learning rese
 - [Jeff Clune](http://jeffclune.com/) (University of Wyoming, Uber AI)
 - [Erin Grant](https://people.eecs.berkeley.edu/~eringrant/) (UC Berkeley)
 - [Raia Hadsell](http://raiahadsell.com/index.html) (DeepMind)
-- [Brenden Lake](https://cims.nyu.edu/~brenden/)(NYU, Facebook AI Research)
-
-## Invited Panelists  ##
-TBA
+- [Brenden Lake](https://cims.nyu.edu/~brenden/) (NYU, Facebook AI Research)
 
 ## Organizers ##
-- [Roberto Calandra](https://www.robertocalandra.com/)(Facebook AI Research)
+- [Roberto Calandra](https://www.robertocalandra.com/) (Facebook AI Research)
 - [Ignasi Clavera](https://iclavera.github.io/) (UC Berkeley)
 - [Frank Hutter](http://www2.informatik.uni-freiburg.de/~hutter/) (University of Freiburg)
 - [Joaquin Vanschoren](http://www.win.tue.nl/~jvanscho/) (Eindhoven University of Technology)
 - [Jane Wang](http://www.janexwang.com) (DeepMind)
 
-## Important dates ##
-TBA 
+## Important Dates ##
+- Submission deadline: 10 September 2019 ([11:59 PM anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
+- Notification: 1 October 2019
+- Camera ready: 02 December 2019
+- Workshop: 13 December 2019
 
 ## Schedule ##
 
@@ -78,12 +78,17 @@ TBA
 #### Raia Hadsell (DeepMind)
 #### Brenden Lake (NYU, Facebook)
 
-### Spotlights 1 (and Poster Sessions 1 & 2)
-
-### Spotlights 2 (and Poster Sessions 3 & 4)
-
 ## Submission Instructions  ##
-TBA
+Papers must be in the latest [NeurIPS format](https://neurips.cc/Conferences/2018/PaperInformation/StyleFiles), but with a maximum of 4 pages (excluding references). 
+Papers should include the names of all authors (by uncommenting `\neuripsfinalcopy` in the NIPS LaTeX template prior to submission).
+
+Accepted papers and eventual supplementary material will be made available on the workshop website. However, this does not constitute an archival publication and no formal workshop proceedings will be made available, meaning contributors are free to publish their work in archival journals or conferences.
+
+The two best papers submitted will be presented as 15-minute contributed talks.
+
+Submissions can be made at https://cmt3.research.microsoft.com/METALEARN2019/Submission/ during the submission period.
+
+
 
 ### FAQ ###
 1. Can supplementary material be added beyond the 4-page limit and are there any restrictions on it?
@@ -102,13 +107,7 @@ TBA
 
    We won't be accepting such submissions unless they have been adapted to contain significantly new results (where novelty is one of the qualities reviewers will be asked to evaluate).
 
-## Accepted Abstracts  ##
-
-
-## Program Committee ##
-
-
-## Past workshops
+## Past Workshops
 
 [Workshop on Meta-Learning (MetaLearn 2017) @ NeurIPS 2017](http://metalearning.ml/2017/)
 
@@ -117,12 +116,4 @@ TBA
 ## Contacts  ##
 
 For any further questions, you can contact us at <info@metalearning.ml>.
-
-## Sponsors ##
-
-We are very thankful to our corporate sponsors!
-
-### Gold
-
-### Silver
 
