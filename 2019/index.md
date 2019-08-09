@@ -43,7 +43,7 @@ In terms of prospective participants, our main targets are machine learning rese
 ## Important Dates ##
 - Submission deadline: 10 September 2019 ([11:59 PM anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
 - Notification: 1 October 2019
-- Camera ready: 02 December 2019
+- Camera ready: 2 December 2019
 - Workshop: 13 December 2019
 
 ## Schedule ##
