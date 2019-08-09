@@ -69,15 +69,6 @@ In terms of prospective participants, our main targets are machine learning rese
 | 17:00 | Panel discussion
 | 18:00 | End
 
-### Invited Talks
-
-#### Pieter Abbeel (UC Berkeley, Covariant)
-#### David Abel (Brown University)
-#### Jeff Clune (/University of Wyoming, Uber AI)
-#### Erin Grant (UC Berkeley)
-#### Raia Hadsell (DeepMind)
-#### Brenden Lake (NYU, Facebook)
-
 ## Submission Instructions  ##
 Papers must be in the latest [NeurIPS format](https://neurips.cc/Conferences/2018/PaperInformation/StyleFiles), but with a maximum of 4 pages (excluding references). 
 Papers should include the names of all authors (by uncommenting `\neuripsfinalcopy` in the NIPS LaTeX template prior to submission).
