@@ -77,8 +77,7 @@ Accepted papers and eventual supplementary material will be made available on th
 
 The two best papers submitted will be presented as 15-minute contributed talks.
 
-Submissions can be made at 
-[https://cmt3.research.microsoft.com/METALEARN2019/Submission/](https://cmt3.research.microsoft.com/METALEARN2019/Submission/)
+Submissions can be made at [https://cmt3.research.microsoft.com/METALEARN2019/Submission/Index](https://cmt3.research.microsoft.com/METALEARN2019/Submission/Index)
 during the submission period.
 
 
