@@ -71,13 +71,15 @@ In terms of prospective participants, our main targets are machine learning rese
 
 ## Submission Instructions  ##
 Papers must be in the latest [NeurIPS format](https://neurips.cc/Conferences/2018/PaperInformation/StyleFiles), but with a maximum of 4 pages (excluding references). 
-Papers should include the names of all authors (by uncommenting `\neuripsfinalcopy` in the NIPS LaTeX template prior to submission).
+Papers should include the names of all authors (by uncommenting `\neuripsfinalcopy` in the NeurIPS LaTeX template prior to submission).
 
 Accepted papers and eventual supplementary material will be made available on the workshop website. However, this does not constitute an archival publication and no formal workshop proceedings will be made available, meaning contributors are free to publish their work in archival journals or conferences.
 
 The two best papers submitted will be presented as 15-minute contributed talks.
 
-Submissions can be made at https://cmt3.research.microsoft.com/METALEARN2019/Submission/ during the submission period.
+Submissions can be made at 
+(https://cmt3.research.microsoft.com/METALEARN2019/Submission/)[https://cmt3.research.microsoft.com/METALEARN2019/Submission/] 
+during the submission period.
 
 
 
