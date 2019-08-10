@@ -102,7 +102,7 @@ during the submission period.
 
 5. Can a paper be submitted to the workshop that is currently under review or will be under review at a conference during the review phase? 
 
-	MetaLearn submissions are 4 pages, i.e., much shorter than standard conference submissions. But from our side it is perfectly fine to submit a condensed version of a parallel conference submission, if it also fine for the conference in question. Our workshop does not have archival proceedings, and therefore parallel submissions of extended versions to ICLR are a common case.
+	MetaLearn submissions are 4 pages, i.e., much shorter than standard conference submissions. But from our side it is perfectly fine to submit a condensed version of a parallel conference submission, if it also fine for the conference in question. Our workshop does not have archival proceedings, and therefore parallel submissions of extended versions to other conferences are acceptable.
 
 ## Past Workshops
 
