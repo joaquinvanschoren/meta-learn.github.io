@@ -1,11 +1,13 @@
 ---
 title: Workshop on Meta-Learning (MetaLearn 2019)
-description: "@NeurIPS 2019 <br> December 2019 <br> Vancouver Convention Center, Vancouver, Canada"
+description: "@NeurIPS 2019 <br> Friday 13 December 2019 <br> Vancouver Convention Center, Vancouver, Canada"
 
 permalink: /2019/index.html
 weight: -1
 redirect_from: /2019/
 ---
+
+<span style="color:red; font-size: 4em;">**Extended deadline: Thursday 12, 10am PST**</span>
 
 Recent years have seen rapid progress in meta-learning methods, which learn (and optimize) the performance of learning methods based on data, generate new learning methods from scratch, and learn to transfer knowledge across tasks and domains. Meta-learning can be seen as the logical conclusion of the arc that machine learning has undergone in the last decade, from learning classifiers, to learning representations, and finally to learning algorithms that themselves acquire representations and classifiers. The ability to improve one’s own learning capabilities through experience can also be viewed as a hallmark of intelligent beings, and there are strong connections with work on human learning in neuroscience.
 
