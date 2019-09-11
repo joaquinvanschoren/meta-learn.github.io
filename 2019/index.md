@@ -7,7 +7,7 @@ weight: -1
 redirect_from: /2019/
 ---
 
-<span style="color:red; font-size: 4em;">**Extended deadline: Thursday 12, 10am PST**</span>
+<span style="color:red; font-size: 1em;">**Extended deadline: Thursday 12, 10am PST**</span>
 
 Recent years have seen rapid progress in meta-learning methods, which learn (and optimize) the performance of learning methods based on data, generate new learning methods from scratch, and learn to transfer knowledge across tasks and domains. Meta-learning can be seen as the logical conclusion of the arc that machine learning has undergone in the last decade, from learning classifiers, to learning representations, and finally to learning algorithms that themselves acquire representations and classifiers. The ability to improve one’s own learning capabilities through experience can also be viewed as a hallmark of intelligent beings, and there are strong connections with work on human learning in neuroscience.
 
@@ -46,7 +46,7 @@ In terms of prospective participants, our main targets are machine learning rese
 - Submission deadline: 10 September 2019 ([11:59 PM anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
 - Notification: 1 October 2019
 - Camera ready: 2 December 2019
-- Workshop: 13 or 14 (TBD) December 2019
+- Workshop: 13 December 2019
 
 ## Schedule ##
 
