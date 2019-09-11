@@ -73,7 +73,8 @@ In terms of prospective participants, our main targets are machine learning rese
 
 ## Submission Instructions  ##
 Papers must be in the latest [NeurIPS format](https://neurips.cc/Conferences/2019/PaperInformation/StyleFiles), but with a maximum of 4 pages (excluding references). 
-Papers should include the names of all authors (by adding the `[final]` option in the NeurIPS LaTeX template prior to submission).
+
+Papers should be anonymized upon submission. 
 
 Accepted papers and eventual supplementary material will be made available on the workshop website. However, this does not constitute an archival publication and no formal workshop proceedings will be made available, meaning contributors are free to publish their work in archival journals or conferences.
 
@@ -87,7 +88,7 @@ during the submission period.
 ### FAQ ###
 1. Can supplementary material be added beyond the 4-page limit and are there any restrictions on it?
 
-   Yes, you may include additional supplementary material, but we ask that it be limited to a reasonable amount (max 10 pages in addition to the main submission) and that it follow the same NeurIPS format as the paper.
+   Yes, you may include additional supplementary material, but you should ensure that the main paper is self-contained, since looking at supplementary material is at the discretion of the reviewers. The supplementary material should also follow the same NeurIPS format as the paper and be limited to a reasonable amount (max 10 pages in addition to the main submission).
 
 2. Can a submission to this workshop be submitted to another NeurIPS workshop in parallel?
 
@@ -100,6 +101,10 @@ during the submission period.
 4. Can a paper be submitted to the workshop that has already appeared at a previous conference with published proceedings?
 
    We won't be accepting such submissions unless they have been adapted to contain significantly new results (where novelty is one of the qualities reviewers will be asked to evaluate).
+
+5. Can a paper be submitted to the workshop that is currently under review or will be under review at a conference during the review phase? 
+
+	MetaLearn submissions are 4 pages, i.e., much shorter than standard conference submissions. But from our side it is perfectly fine to submit a condensed version of a parallel conference submission, if it also fine for the conference in question. Our workshop does not have archival proceedings, and therefore parallel submissions of extended versions to other conferences are acceptable.
 
 ## Past Workshops
 
