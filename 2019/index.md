@@ -41,8 +41,8 @@ In terms of prospective participants, our main targets are machine learning rese
 - [Jane Wang](http://www.janexwang.com) (DeepMind)
 
 ## Important Dates ##
-- Submission deadline: 10 September 2019 ([11:59 PM anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
-- Notification: 1 October 2019
+- ~~Submission deadline: 10 September 2019 ([11:59 PM anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))~~
+- ~~Notification: 1 October 2019~~
 - Camera ready: 2 December 2019
 - Workshop: 13 December 2019
 
@@ -51,22 +51,20 @@ In terms of prospective participants, our main targets are machine learning rese
 | --------:| ---------------------------------------------------
 | 09:00 | Introduction and opening remarks
 | 09:10 | Invited talk 1
-| 09:40 | Poster spotlights 1
-| 10:00 | Poster session 1
-| 10:30 | *Coffee break*
-| 11:00 | Invited talk 2
-| 11:30 | Poster session 2
-| 12:00 | *Lunch break*
-| 13:30 | Invited talk 3
+| 09:40 | Invited talk 2
+| 10:00 | Poster spotlights 1
+| 10:30 | *Coffee & posters*
+| 11:30 | Invited talk 3
+| 12:00 | Discussion 1
+| 12:30 | *Lunch break*
 | 14:00 | Invited talk 4
-| 14:30 | Poster spotlights 2
-| 14:50 | Poster session 3
-| 15:00 | *Coffee break*
-| 15:30 | Poster session 4
-| 16:00 | Invited talk 5
+| 14:30 | Invited talk 5
+| 15:00 | Poster spotlights 2
+| 15:20 | *Coffee & posters* 
 | 16:30 | Contributed talk 1
 | 16:45 | Contributed talk 2
-| 17:00 | Panel discussion
+| 17:00 | Invited talk 6
+| 17:30 | Discussion 2
 | 18:00 | End
 
 ## Submission Instructions  ##
@@ -103,6 +101,204 @@ during the submission period.
 5. Can a paper be submitted to the workshop that is currently under review or will be under review at a conference during the review phase? 
 
 	MetaLearn submissions are 4 pages, i.e., much shorter than standard conference submissions. But from our side it is perfectly fine to submit a condensed version of a parallel conference submission, if it also fine for the conference in question. Our workshop does not have archival proceedings, and therefore parallel submissions of extended versions to other conferences are acceptable.
+	
+## Accepted Abstracts  ##
+- Deep Subspace Networks For Few-Shot Learning
+*Christian Simon, Piotr Koniusz, Richard Nock, Mehrtash Harandi*
+- On the conditions of MAML convergence
+*Shiro Takagi*
+- Constrained Bayesian Optimization with Max-Value Entropy Search
+*Valerio Perrone, Iaroslav Shcherbatyi, Rodolphe Jenatton, Cedric Archambeau, Matthias Seeger*
+- Is Fast Adaptation All You Need?
+*Khurram Javed, Hengshuai Yao, Martha White*
+- Learning to tune XGBoost with XGBoost
+*Johanna Sommer, Thomas Parnell, Dimitrios Sarigiannis*
+- Texture Bias Of CNNs Limits Few-Shot Classification Performance
+*Sam Ringer, WilliamJW Williams*
+- Meta-Learning Contextual Bandit Exploration
+*Amr Sharaf, Hal Daume*
+- Gradient-Aware Model-based Policy Search
+*Pierluca D'Oro, AlbertoMaria Metelli, Andrea Tirinzoni, Matteo Papini, Marcello Restelli*
+- Transferable Neural Processes for Hyperparameter Optimization
+*Ying WEI, Peilin Zhao, Huaxiu Yao, Junzhou Huang*
+- SEGA: Searching efficiently for new generator architectures
+*Sivan Doveh, Raja Giryes*
+- Niseko: a Large-Scale Meta-Learning Dataset
+*Zeyuan Shang, Emanuel Zgraggen, Philipp Eichmann, Tim Kraska*
+- AutoML using Metadata Language Embeddings
+*Iddo Drori, Lu Liu, Yi Nian, Sharath Koorathota, Jie Li, AntonioK Moretti, Juliana Freire, Madeleine Udell*
+- Neural Architecture Search via Bayesian Optimization with a Neural Network Prior
+*Colin White, Willie Neiswanger, Yash Savani*
+- Improved Training Speed, Accuracy, and Data Utilization Through Loss Function Optimization
+*Santiago Gonzalez, Risto Miikkulainen*
+- Domain-Agnostic Few-Shot Classification by Learning Disparate Modulators
+*Yongseok Choi, Junyoung Park, Subin Yi, Dong-Yeon Cho*
+- Meta-analysis of Continual Learning
+*CuongV Nguyen*
+- Meta-Learning of Structured Representation by Proximal Mapping
+*Mao Li, Yingyi Ma, Hongwei Jin, Zhan Shi, Xinhua Zhang*
+- Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning
+*Tianhe Yu, Deirdre Quillen, Zhanpeng He, Ryan Julian, Karol Hausman, Sergey Levine, Chelsea Finn*
+- An empirical study of pretrained representations for few-shot classification
+*Tiago Ramalho, Thierry Sousbie, Stefano Peluchetti*
+- Warm Starting Method for CMA-ES
+*Masahiro Nomura, Shuhei Watanabe, Yoshihiko Ozaki, Masaki Onishi*
+- Bayesian Optimisation over Multiple Continuous and Categorical Inputs
+*Binxin Ru, Ahsan Alvi, Vu Nguyen, MichaelA. Osborne, Stephen Roberts*
+- Noise Contrastive Meta-Learning for Conditional Density Estimation using Kernel Mean Embeddings
+*Jean-Francois Ton, Leung Chan, YeeWhye Teh, Dino Sejdinovic*
+- MetaPoison: Learning to Craft Adversarial Poisoning Examples via Meta-Learning
+*W.Ronny Huang, Jonas Geiping, Liam Fowl, Tom Goldstein*
+- MetaPix: Few-shot video retargeting
+*Jessica Lee, Rohit Girdhar, Deva Ramanan*
+- Meta-Learning with Warped Gradient Descent
+*Sebastian Flennerhag, AndreiA. Rusu, Razvan Pascanu, Hujun Yin, Raia Hadsell*
+- Characterizing Policy Divergence for Personalized Meta-Reinforcement Learning
+*Michael Zhang*
+- Modular Meta-Learning with Shrinkage
+*Yutian Chen, Abram Friesen, Feryal Behbahani, David Budden, Matt Hoffman, Arnaud Doucet, Nando deFreitas*
+- Meta-analysis of Bayesian analyses
+*Paul Blomstedt, Diego Mesquita, Samuel Kaski*
+- Ranking architectures using meta-learning
+*Alina Dubatovka, Effrosyni Kokiopoulou, Luciano Sbaiz, Andrea Gesmundo, Gabor Bartok, Jesse Berent*
+- Meta-Learning Deep Energy-Based Memory Models
+*Sergey Bartunov, Jack Rae, Simon Osindero, Timothy Lillicrap*
+- ES-MAML: Learning to Adapt with Evolution Strategies
+*Xingyou Song, Krzysztof Choromanski, Wenbo Gao, Yuxiang Yang, Yunhao Tang, Aldo Pacchiano*
+- Charting the Right Manifold: Manifold Mixup for Few-shot Learning
+*Puneet Mangla, Mayank Singh, Nupur Kumari, Abhishek Sinha, Balaji Krishnamurthy, Vineeth NBalasubramanian*
+- A quantile-based approach to hyperparameter transfer learning
+*David Salinas, Huibin Shen, Valerio Perrone*
+- Learning an Adaptive Learning Rate Schedule
+*Zhen Xu, AndrewM Dai, Jonas Kemp, Luke Metz*
+- VIABLE: Fast Adaptation via Backpropagating Learned Loss
+*Leo Feng, Luisa Zintgraf, Bei Peng, Shimon Whiteson*
+- Empirical Bayes Meta-Learning with Synthetic Gradients
+*Xu Hu, Pablo Moreno, Xi Shen, Yang Xiao, Neil Lawrence, Guillaume Obozinski, Andreas Damianou*
+- Zero-Shot Text Classification With Generative Language Models
+*Raul Puri, Bryan Catanzaro*
+- On Transfer Learning via Linearized Neural Networks
+*WesleyJ Maddox, Shuai Tang, Pablo Moreno, AndrewGordonGordon Wilson, Andreas Damianou*
+- Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML
+*Aniruddh Raghu, Maithra Raghu, Oriol Vinyals, Samy Bengio*
+- Learning Compositional Rules via Neural Program Synthesis
+*Maxwell Nye, Armando Solar-Lezama, Joshua Tenenbaum, Brenden Lake*
+- Assay modelling with adaptive deep kernel learning
+*Prudencio Tossou, Basile Dura, Alexandre Lacoste*
+- Meta-Learning without Memorization
+*MingzhangMichael Yin, Chelsea Finn, George Tucker, Sergey Levine*
+- Meta-reinforcement learning of causal strategies
+*Ishita Dasgupta, Zeb Kurth-Nelson, Silvia Chiappa, Jovana Mitrovic, Edward Hughes, Matthew Botvinick, Jane Wang*
+- Improving Model Robustness via Automatically Incorporating Self-supervision Tasks
+*Donghwa Kim, Kangwook Lee, Changho Suh*
+- Meta-learning curiosity algorithms
+*Ferran Alet, Martin Schneider, Tomas Lozano-Perez, Leslie Kaelbling*
+- Differentially Private Meta-Learning
+*Jeffrey Li, Mikhail Khodak, Sebastian Caldas, Ameet Talwalkar*
+- Neural Architecture Evolution in Deep Reinforcement Learning for Continuous Control
+*JörgK.H. Franke, Gregor Koehler, Noor Awad, Frank Hutter*
+- Continuous Meta-Learning without Task Supervision
+*James Harrison, Apoorva Sharma, Chelsea Finn, Marco Pavone*
+- Online Meta-Learning on Non-convex Setting
+*Zhenxun Zhuang, Kezi Yu, Songtao Lu, Yunlong Wang*
+- PAC-Bayes Objectives for Meta-Learning using Deep Probabilistic Programs
+*Jonathan Warrell*
+- A Baseline for Few-Shot Image Classification
+*GuneetS Dhillon, Pratik Chaudhari, Avinash Ravichandran, Stefano Soatto*
+- NASIB: Neural Architecture Search withIn Budget
+*Abhishek Singh, Anubhav Garg, Debo Dutta*
+- Understanding and Robustifying Differentiable Architecture Search
+*Arber Zela, Thomas Elsken, Yassine Marrakchi, Tonmoy Saikia, Thomas Brox, Frank Hutter*
+- Learning to Estimate Point-Prediction Uncertainty and Correct Output in Neural Networks
+*Xin Qiu, Elliot Meyerson, Risto Miikkulainen*
+- Towards Benchmarking and Dissecting One-shot Neural Architecture Search
+*Arber Zela, Julien Siems, Frank Hutter*
+- Decoupled Meta Learning with Structured Latents
+*Russell Mendonca, Sergey Levine, Chelsea Finn*
+- Automated Model Search Using Bayesian Optimization and Genetic Programming
+*LouisB Schlessinger, Gustavo Malkomes, Roman Garnett*
+- Meta-Learning for Algorithm and Hyperparameter Optimization with Surrogate Model Ensembles
+*Georgiana Manolache, Joaquin Vanschoren*
+	
+## Program Committee ##
+
+We thank the program committee for shaping the excellent technical program (in alphabetical order):
+
+Aaron Klein,
+Abhishek Gupta,
+Alexander Toshev,
+Alexandre 	Galashov,
+Andre Carvalho,
+Andrei A. Rusu,
+Ang Li,
+Ashvin V. Nair,
+Avi Singh,
+Aviral Kumar,
+Ben Eysenbach,
+Benjamin Letham,
+Bradly C,
+Brandon Schoenfeld,
+Brian Cheung,
+Carlos Soares,
+Daniel Hernandez,
+Deirdre Quillen,
+Devendra ingh,
+Dumitru Erhan,
+Dushyant Rao,
+Eleni Triantafillou,
+Erin Grant,
+Esteban 	Real,
+Eytan Bakshy,
+Frank Hutter,
+Haoran Tang,
+Hugo air,
+Igor Mordatch,
+Jakub Sygnowski,
+Jan Humplik,
+Jan N. van Rijn,
+Jan endrik,
+Jiajun Wu,
+Jonas Rothfuss,
+Jonathan 	Schwarz,
+Jürgen 	Schmidhuber,
+Kate Rakelly,
+Katharina 	Eggensperger,
+Kevin Swersky,
+Kyle Hsu,
+Lars Kotthoff,
+Leonard 	Hasenclever,
+Lerrel Pinto,
+Luisa Zintgraf,
+Marc Pickett,
+Marta 	Garnelo,
+Marvin Zhang,
+Matthias Seeger,
+Maximilian 	Igl,
+Misha 	Denil,
+Parminder Bhatia,
+Parsa Mahmoudieh,
+Pavel Brazdil,
+Pieter Gijsbers,
+Piotr Mirowski,
+Rachit Dubey,
+Rafael Gomes,
+Razvan Pascanu,
+Ricardo B. Prudencio,
+Roger B. Grosse,
+Rowan McAllister,
+Sayna Ebrahimi,
+Sebastien 	Racaniere,
+Sergio Escalera,
+Siddharth Reddy,
+Stephen Roberts,
+Sungryull 	Sohn,
+Surya 	Bhupatiraju,
+Thomas Elsken,
+Tin K. Ho,
+Udayan Khurana,
+Vincent Dumoulin,
+Vitchyr H. Pong,
+Zeyu Zheng
 
 ## Past Workshops
 
