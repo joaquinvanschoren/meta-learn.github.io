@@ -103,123 +103,237 @@ during the submission period.
 	MetaLearn submissions are 4 pages, i.e., much shorter than standard conference submissions. But from our side it is perfectly fine to submit a condensed version of a parallel conference submission, if it also fine for the conference in question. Our workshop does not have archival proceedings, and therefore parallel submissions of extended versions to other conferences are acceptable.
 	
 ## Accepted Abstracts  ##
-- Deep Subspace Networks For Few-Shot Learning
+- **Deep Subspace Networks For Few-Shot Learning**
+
 *Christian Simon, Piotr Koniusz, Richard Nock, Mehrtash Harandi*
-- On the conditions of MAML convergence
+
+- **On the conditions of MAML convergence**
+
 *Shiro Takagi*
-- Constrained Bayesian Optimization with Max-Value Entropy Search
+
+- **Constrained Bayesian Optimization with Max-Value Entropy Search**
+
 *Valerio Perrone, Iaroslav Shcherbatyi, Rodolphe Jenatton, Cedric Archambeau, Matthias Seeger*
-- Is Fast Adaptation All You Need?
+
+- **Is Fast Adaptation All You Need?**
+
 *Khurram Javed, Hengshuai Yao, Martha White*
-- Learning to tune XGBoost with XGBoost
+
+- **Learning to tune XGBoost with XGBoost**
+
 *Johanna Sommer, Thomas Parnell, Dimitrios Sarigiannis*
-- Texture Bias Of CNNs Limits Few-Shot Classification Performance
+
+- **Texture Bias Of CNNs Limits Few-Shot Classification Performance**
+
 *Sam Ringer, WilliamJW Williams*
-- Meta-Learning Contextual Bandit Exploration
+
+- **Meta-Learning Contextual Bandit Exploration**
+
 *Amr Sharaf, Hal Daume*
-- Gradient-Aware Model-based Policy Search
+
+- **Gradient-Aware Model-based Policy Search**
+
 *Pierluca D'Oro, AlbertoMaria Metelli, Andrea Tirinzoni, Matteo Papini, Marcello Restelli*
-- Transferable Neural Processes for Hyperparameter Optimization
+
+- **Transferable Neural Processes for Hyperparameter Optimization**
+
 *Ying WEI, Peilin Zhao, Huaxiu Yao, Junzhou Huang*
-- SEGA: Searching efficiently for new generator architectures
+
+- **SEGA: Searching efficiently for new generator architectures**
+
 *Sivan Doveh, Raja Giryes*
-- Niseko: a Large-Scale Meta-Learning Dataset
+
+- **Niseko: a Large-Scale Meta-Learning Dataset**
+
 *Zeyuan Shang, Emanuel Zgraggen, Philipp Eichmann, Tim Kraska*
-- AutoML using Metadata Language Embeddings
+
+- **AutoML using Metadata Language Embeddings**
+
 *Iddo Drori, Lu Liu, Yi Nian, Sharath Koorathota, Jie Li, AntonioK Moretti, Juliana Freire, Madeleine Udell*
-- Neural Architecture Search via Bayesian Optimization with a Neural Network Prior
+
+- **Neural Architecture Search via Bayesian Optimization with a Neural Network Prior**
+
 *Colin White, Willie Neiswanger, Yash Savani*
-- Improved Training Speed, Accuracy, and Data Utilization Through Loss Function Optimization
+
+- **Improved Training Speed, Accuracy, and Data Utilization Through Loss Function Optimization**
+
 *Santiago Gonzalez, Risto Miikkulainen*
-- Domain-Agnostic Few-Shot Classification by Learning Disparate Modulators
+
+- **Domain-Agnostic Few-Shot Classification by Learning Disparate Modulators**
+
 *Yongseok Choi, Junyoung Park, Subin Yi, Dong-Yeon Cho*
-- Meta-analysis of Continual Learning
+
+- **Meta-analysis of Continual Learning**
+
 *CuongV Nguyen*
-- Meta-Learning of Structured Representation by Proximal Mapping
+
+- **Meta-Learning of Structured Representation by Proximal Mapping**
+
 *Mao Li, Yingyi Ma, Hongwei Jin, Zhan Shi, Xinhua Zhang*
-- Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning
+
+- **Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning**
+
 *Tianhe Yu, Deirdre Quillen, Zhanpeng He, Ryan Julian, Karol Hausman, Sergey Levine, Chelsea Finn*
-- An empirical study of pretrained representations for few-shot classification
+
+- **An empirical study of pretrained representations for few-shot classification**
+
 *Tiago Ramalho, Thierry Sousbie, Stefano Peluchetti*
-- Warm Starting Method for CMA-ES
+
+- **Warm Starting Method for CMA-ES**
+
 *Masahiro Nomura, Shuhei Watanabe, Yoshihiko Ozaki, Masaki Onishi*
-- Bayesian Optimisation over Multiple Continuous and Categorical Inputs
+
+- **Bayesian Optimisation over Multiple Continuous and Categorical Inputs**
+
 *Binxin Ru, Ahsan Alvi, Vu Nguyen, MichaelA. Osborne, Stephen Roberts*
-- Noise Contrastive Meta-Learning for Conditional Density Estimation using Kernel Mean Embeddings
+
+- **Noise Contrastive Meta-Learning for Conditional Density Estimation using Kernel Mean Embeddings**
+
 *Jean-Francois Ton, Leung Chan, YeeWhye Teh, Dino Sejdinovic*
-- MetaPoison: Learning to Craft Adversarial Poisoning Examples via Meta-Learning
+
+- **MetaPoison: Learning to Craft Adversarial Poisoning Examples via Meta-Learning**
+
 *W.Ronny Huang, Jonas Geiping, Liam Fowl, Tom Goldstein*
-- MetaPix: Few-shot video retargeting
+
+- **MetaPix: Few-shot video retargeting**
+
 *Jessica Lee, Rohit Girdhar, Deva Ramanan*
-- Meta-Learning with Warped Gradient Descent
+
+- **Meta-Learning with Warped Gradient Descent**
+
 *Sebastian Flennerhag, AndreiA. Rusu, Razvan Pascanu, Hujun Yin, Raia Hadsell*
-- Characterizing Policy Divergence for Personalized Meta-Reinforcement Learning
+
+- **Characterizing Policy Divergence for Personalized Meta-Reinforcement Learning**
+
 *Michael Zhang*
-- Modular Meta-Learning with Shrinkage
+
+- **Modular Meta-Learning with Shrinkage**
+
 *Yutian Chen, Abram Friesen, Feryal Behbahani, David Budden, Matt Hoffman, Arnaud Doucet, Nando deFreitas*
-- Meta-analysis of Bayesian analyses
+
+- **Meta-analysis of Bayesian analyses**
+
 *Paul Blomstedt, Diego Mesquita, Samuel Kaski*
-- Ranking architectures using meta-learning
+
+- **Ranking architectures using meta-learning**
+
 *Alina Dubatovka, Effrosyni Kokiopoulou, Luciano Sbaiz, Andrea Gesmundo, Gabor Bartok, Jesse Berent*
-- Meta-Learning Deep Energy-Based Memory Models
+
+- **Meta-Learning Deep Energy-Based Memory Models**
+
 *Sergey Bartunov, Jack Rae, Simon Osindero, Timothy Lillicrap*
-- ES-MAML: Learning to Adapt with Evolution Strategies
+
+- **ES-MAML: Learning to Adapt with Evolution Strategies**
+
 *Xingyou Song, Krzysztof Choromanski, Wenbo Gao, Yuxiang Yang, Yunhao Tang, Aldo Pacchiano*
-- Charting the Right Manifold: Manifold Mixup for Few-shot Learning
+
+- **Charting the Right Manifold: Manifold Mixup for Few-shot Learning**
+
 *Puneet Mangla, Mayank Singh, Nupur Kumari, Abhishek Sinha, Balaji Krishnamurthy, Vineeth NBalasubramanian*
-- A quantile-based approach to hyperparameter transfer learning
+
+- **A quantile-based approach to hyperparameter transfer learning**
+
 *David Salinas, Huibin Shen, Valerio Perrone*
-- Learning an Adaptive Learning Rate Schedule
+
+- **Learning an Adaptive Learning Rate Schedule**
+
 *Zhen Xu, AndrewM Dai, Jonas Kemp, Luke Metz*
-- VIABLE: Fast Adaptation via Backpropagating Learned Loss
+
+- **VIABLE: Fast Adaptation via Backpropagating Learned Loss**
+
 *Leo Feng, Luisa Zintgraf, Bei Peng, Shimon Whiteson*
-- Empirical Bayes Meta-Learning with Synthetic Gradients
+
+- **Empirical Bayes Meta-Learning with Synthetic Gradients**
+
 *Xu Hu, Pablo Moreno, Xi Shen, Yang Xiao, Neil Lawrence, Guillaume Obozinski, Andreas Damianou*
-- Zero-Shot Text Classification With Generative Language Models
+
+- **Zero-Shot Text Classification With Generative Language Models**
+
 *Raul Puri, Bryan Catanzaro*
-- On Transfer Learning via Linearized Neural Networks
+
+- **On Transfer Learning via Linearized Neural Networks**
+
 *WesleyJ Maddox, Shuai Tang, Pablo Moreno, AndrewGordonGordon Wilson, Andreas Damianou*
-- Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML
+
+- **Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML**
+
 *Aniruddh Raghu, Maithra Raghu, Oriol Vinyals, Samy Bengio*
-- Learning Compositional Rules via Neural Program Synthesis
+
+- **Learning Compositional Rules via Neural Program Synthesis**
+
 *Maxwell Nye, Armando Solar-Lezama, Joshua Tenenbaum, Brenden Lake*
-- Assay modelling with adaptive deep kernel learning
+
+- **Assay modelling with adaptive deep kernel learning**
+
 *Prudencio Tossou, Basile Dura, Alexandre Lacoste*
-- Meta-Learning without Memorization
+
+- **Meta-Learning without Memorization**
+
 *MingzhangMichael Yin, Chelsea Finn, George Tucker, Sergey Levine*
-- Meta-reinforcement learning of causal strategies
+
+- **Meta-reinforcement learning of causal strategies**
+
 *Ishita Dasgupta, Zeb Kurth-Nelson, Silvia Chiappa, Jovana Mitrovic, Edward Hughes, Matthew Botvinick, Jane Wang*
-- Improving Model Robustness via Automatically Incorporating Self-supervision Tasks
+
+- **Improving Model Robustness via Automatically Incorporating Self-supervision Tasks**
+
 *Donghwa Kim, Kangwook Lee, Changho Suh*
-- Meta-learning curiosity algorithms
+
+- **Meta-learning curiosity algorithms**
+
 *Ferran Alet, Martin Schneider, Tomas Lozano-Perez, Leslie Kaelbling*
-- Differentially Private Meta-Learning
+
+- **Differentially Private Meta-Learning**
+
 *Jeffrey Li, Mikhail Khodak, Sebastian Caldas, Ameet Talwalkar*
-- Neural Architecture Evolution in Deep Reinforcement Learning for Continuous Control
+
+- **Neural Architecture Evolution in Deep Reinforcement Learning for Continuous Control**
+
 *JörgK.H. Franke, Gregor Koehler, Noor Awad, Frank Hutter*
-- Continuous Meta-Learning without Task Supervision
+
+- **Continuous Meta-Learning without Task Supervision**
+
 *James Harrison, Apoorva Sharma, Chelsea Finn, Marco Pavone*
-- Online Meta-Learning on Non-convex Setting
+
+- **Online Meta-Learning on Non-convex Setting**
+
 *Zhenxun Zhuang, Kezi Yu, Songtao Lu, Yunlong Wang*
-- PAC-Bayes Objectives for Meta-Learning using Deep Probabilistic Programs
+
+- **PAC-Bayes Objectives for Meta-Learning using Deep Probabilistic Programs**
+
 *Jonathan Warrell*
-- A Baseline for Few-Shot Image Classification
+
+- **A Baseline for Few-Shot Image Classification**
+
 *GuneetS Dhillon, Pratik Chaudhari, Avinash Ravichandran, Stefano Soatto*
-- NASIB: Neural Architecture Search withIn Budget
+
+- **NASIB: Neural Architecture Search withIn Budget**
+
 *Abhishek Singh, Anubhav Garg, Debo Dutta*
-- Understanding and Robustifying Differentiable Architecture Search
+
+- **Understanding and Robustifying Differentiable Architecture Search**
+
 *Arber Zela, Thomas Elsken, Yassine Marrakchi, Tonmoy Saikia, Thomas Brox, Frank Hutter*
-- Learning to Estimate Point-Prediction Uncertainty and Correct Output in Neural Networks
+
+- **Learning to Estimate Point-Prediction Uncertainty and Correct Output in Neural Networks**
+
 *Xin Qiu, Elliot Meyerson, Risto Miikkulainen*
-- Towards Benchmarking and Dissecting One-shot Neural Architecture Search
+
+- **Towards Benchmarking and Dissecting One-shot Neural Architecture Search**
+
 *Arber Zela, Julien Siems, Frank Hutter*
-- Decoupled Meta Learning with Structured Latents
+
+- **Decoupled Meta Learning with Structured Latents**
+
 *Russell Mendonca, Sergey Levine, Chelsea Finn*
-- Automated Model Search Using Bayesian Optimization and Genetic Programming
+
+- **Automated Model Search Using Bayesian Optimization and Genetic Programming**
+
 *LouisB Schlessinger, Gustavo Malkomes, Roman Garnett*
-- Meta-Learning for Algorithm and Hyperparameter Optimization with Surrogate Model Ensembles
+
+- **Meta-Learning for Algorithm and Hyperparameter Optimization with Surrogate Model Ensembles**
+
 *Georgiana Manolache, Joaquin Vanschoren*
-	
 ## Program Committee ##
 
 We thank the program committee for shaping the excellent technical program (in alphabetical order):
