@@ -114,7 +114,7 @@ during the submission period.
 - **Learning to tune XGBoost with XGBoost**.
  *Johanna Sommer, Thomas  Parnell, Dimitrios  Sarigiannis*
 - **Texture Bias Of CNNs Limits Few-Shot Classification Performance**.
- *Sam Ringer, William JW  Williams*
+ *David Macleod, Sam Ringer, William JW  Williams*
 - **Meta-Learning Contextual Bandit Exploration**.
  *Amr Sharaf, Hal  Daume*
 - **Gradient-Aware Model-based Policy Search**.
