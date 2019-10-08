@@ -112,7 +112,7 @@ during the submission period.
 - **Is Fast Adaptation All You Need?**.
  *Khurram Javed, Hengshuai  Yao, Martha  White*
 - **Learning to tune XGBoost with XGBoost**.
- *Johanna Sommer, Thomas  Parnell, Dimitrios  Sarigiannis*
+ *Johanna Sommer, Dimitrios  Sarigiannis, Thomas  Parnell*
 - **Texture Bias Of CNNs Limits Few-Shot Classification Performance**.
  *David Macleod, Sam Ringer, William JW  Williams*
 - **Meta-Learning Contextual Bandit Exploration**.
@@ -200,7 +200,7 @@ during the submission period.
 - **Continuous Meta-Learning without Task Supervision**.
  *James Harrison, Apoorva  Sharma, Chelsea  Finn, Marco  Pavone*
 - **Online Meta-Learning on Non-convex Setting**.
- *Zhenxun Zhuang, Kezi  Yu, Songtao  Lu, Yunlong  Wang*
+ *Zhenxun Zhuang, Lucas Glass, Kezi  Yu, Songtao  Lu, Yunlong  Wang*
 - **PAC-Bayes Objectives for Meta-Learning using Deep Probabilistic Programs**.
  *Jonathan Warrell*
 - **A Baseline for Few-Shot Image Classification**.
