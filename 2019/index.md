@@ -188,7 +188,7 @@ during the submission period.
 - **Meta-Learning without Memorization**.
  *Mingzhang Michael Yin, Chelsea  Finn, George  Tucker, Sergey  Levine*
 - **Meta-reinforcement learning of causal strategies**.
- *Ishita Dasgupta, Zeb  Kurth-Nelson, Silvia  Chiappa, Jovana  Mitrovic, Edward  Hughes, Matthew  Botvinick, Jane  Wang*
+ *Ishita Dasgupta, Zeb  Kurth-Nelson, Silvia  Chiappa, Jovana  Mitrovic, Edward  Hughes, Pedro Ortega, Matthew  Botvinick, Jane  Wang*
 - **Improving Model Robustness via Automatically Incorporating Self-supervision Tasks**.
  *Donghwa Kim, Kangwook  Lee, Changho  Suh*
 - **Meta-learning curiosity algorithms**.
@@ -200,7 +200,7 @@ during the submission period.
 - **Continuous Meta-Learning without Task Supervision**.
  *James Harrison, Apoorva  Sharma, Chelsea  Finn, Marco  Pavone*
 - **Online Meta-Learning on Non-convex Setting**.
- *Zhenxun Zhuang, Lucas Glass, Kezi  Yu, Songtao  Lu, Yunlong  Wang*
+ *Zhenxun Zhuang, Kezi  Yu, Songtao  Lu, Lucas Glass, Yunlong  Wang*
 - **PAC-Bayes Objectives for Meta-Learning using Deep Probabilistic Programs**.
  *Jonathan Warrell*
 - **A Baseline for Few-Shot Image Classification**.
