@@ -106,7 +106,7 @@ during the submission period.
 - **Deep Subspace Networks For Few-Shot Learning**.
  *Christian Simon, Piotr  Koniusz, Richard  Nock, Mehrtash  Harandi*
 - **On the conditions of MAML convergence**.
- *Shiro Takagi*
+ *Shiro Takagi, Yoshihiro Nagano, Yuki Yoshida, and Masato Okada*
 - **Constrained Bayesian Optimization with Max-Value Entropy Search**.
  *Valerio Perrone, Iaroslav  Shcherbatyi, Rodolphe  Jenatton, Cedric  Archambeau, Matthias  Seeger*
 - **Is Fast Adaptation All You Need?**.
