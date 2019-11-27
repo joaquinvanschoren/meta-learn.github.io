@@ -122,7 +122,7 @@ during the submission period. -->
  *Pierluca D'Oro, Alberto Maria  Metelli, Andrea  Tirinzoni, Matteo  Papini, Marcello  Restelli*
 - **Transferable Neural Processes for Hyperparameter Optimization**.
  *Ying WEI, Peilin  Zhao, Huaxiu  Yao, Junzhou  Huang*
-- **SEGA: Searching efficiently for new generator architectures**.
+- **DEGAS: Differentiable Efficient Generator Search**.
  *Sivan Doveh, Raja  Giryes*
 - **Niseko: a Large-Scale Meta-Learning Dataset**.
  *Zeyuan Shang, Emanuel   Zgraggen, Philipp  Eichmann, Tim  Kraska*
