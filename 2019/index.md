@@ -52,7 +52,7 @@ In terms of prospective participants, our main targets are machine learning rese
 | 09:00 | Introduction and opening remarks
 | 09:10 | Invited talk 1
 | 09:40 | Invited talk 2
-| 10:00 | Poster spotlights 1
+| 10:10 | Poster spotlights 1
 | 10:30 | *Coffee & posters*
 | 11:30 | Invited talk 3
 | 12:00 | Discussion 1
