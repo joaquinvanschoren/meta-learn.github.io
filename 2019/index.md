@@ -43,7 +43,7 @@ In terms of prospective participants, our main targets are machine learning rese
 ## Important Dates ##
 - ~~Submission deadline: 10 September 2019 ([11:59 PM anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))~~
 - ~~Notification: 1 October 2019~~
-- Camera ready: 2 December 2019
+- Camera ready: 4 December 2019
 - Workshop: 13 December 2019
 
 ## Schedule ##
@@ -67,6 +67,7 @@ In terms of prospective participants, our main targets are machine learning rese
 | 17:30 | Discussion 2
 | 18:00 | End
 
+<!-- 
 ## Submission Instructions  ##
 Papers must be in the latest [NeurIPS format](https://neurips.cc/Conferences/2019/PaperInformation/StyleFiles), but with a maximum of 4 pages (excluding references). 
 
@@ -77,7 +78,7 @@ Accepted papers and eventual supplementary material will be made available on th
 The two best papers submitted will be presented as 15-minute contributed talks.
 
 Submissions can be made at [https://cmt3.research.microsoft.com/METALEARN2019/Submission/Index](https://cmt3.research.microsoft.com/METALEARN2019/Submission/Index)
-during the submission period.
+during the submission period. -->
 
 
 
@@ -102,26 +103,26 @@ during the submission period.
 
 	MetaLearn submissions are 4 pages, i.e., much shorter than standard conference submissions. But from our side it is perfectly fine to submit a condensed version of a parallel conference submission, if it also fine for the conference in question. Our workshop does not have archival proceedings, and therefore parallel submissions of extended versions to other conferences are acceptable.
 	
-## Accepted Abstracts  ##
+## Accepted Papers ##
 - **Deep Subspace Networks For Few-Shot Learning**.
  *Christian Simon, Piotr  Koniusz, Richard  Nock, Mehrtash  Harandi*
 - **On the conditions of MAML convergence**.
- *Shiro Takagi*
+ *Shiro Takagi, Yoshihiro Nagano, Yuki Yoshida, and Masato Okada*
 - **Constrained Bayesian Optimization with Max-Value Entropy Search**.
  *Valerio Perrone, Iaroslav  Shcherbatyi, Rodolphe  Jenatton, Cedric  Archambeau, Matthias  Seeger*
 - **Is Fast Adaptation All You Need?**.
  *Khurram Javed, Hengshuai  Yao, Martha  White*
 - **Learning to tune XGBoost with XGBoost**.
- *Johanna Sommer, Thomas  Parnell, Dimitrios  Sarigiannis*
+ *Johanna Sommer, Dimitrios  Sarigiannis, Thomas  Parnell*
 - **Texture Bias Of CNNs Limits Few-Shot Classification Performance**.
- *David Macleod, Sam Ringer, William JW  Williams*
+ *David Macleod, Sam Ringer, William JW Williams, Tom Ash, Remi Francis*
 - **Meta-Learning Contextual Bandit Exploration**.
  *Amr Sharaf, Hal  Daume*
 - **Gradient-Aware Model-based Policy Search**.
  *Pierluca D'Oro, Alberto Maria  Metelli, Andrea  Tirinzoni, Matteo  Papini, Marcello  Restelli*
 - **Transferable Neural Processes for Hyperparameter Optimization**.
  *Ying WEI, Peilin  Zhao, Huaxiu  Yao, Junzhou  Huang*
-- **SEGA: Searching efficiently for new generator architectures**.
+- **DEGAS: Differentiable Efficient Generator Search**.
  *Sivan Doveh, Raja  Giryes*
 - **Niseko: a Large-Scale Meta-Learning Dataset**.
  *Zeyuan Shang, Emanuel   Zgraggen, Philipp  Eichmann, Tim  Kraska*
@@ -134,7 +135,7 @@ during the submission period.
 - **Domain-Agnostic Few-Shot Classification by Learning Disparate Modulators**.
  *Yongseok Choi, Junyoung  Park, Subin  Yi, Dong-Yeon  Cho*
 - **Meta-analysis of Continual Learning**.
- *Cuong  V Nguyen*
+ *Cuong V. Nguyen, Alessandro Achille, Michael Lam, Tal Hassner, Vijay Mahadevan, Stefano Soatto*
 - **Meta-Learning of Structured Representation by Proximal Mapping**.
  *Mao Li, Yingyi  Ma, Hongwei  Jin, Zhan  Shi, Xinhua  Zhang*
 - **Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning**.
@@ -188,7 +189,7 @@ during the submission period.
 - **Meta-Learning without Memorization**.
  *Mingzhang Michael Yin, Chelsea  Finn, George  Tucker, Sergey  Levine*
 - **Meta-reinforcement learning of causal strategies**.
- *Ishita Dasgupta, Zeb  Kurth-Nelson, Silvia  Chiappa, Jovana  Mitrovic, Edward  Hughes, Matthew  Botvinick, Jane  Wang*
+ *Ishita Dasgupta, Zeb  Kurth-Nelson, Silvia  Chiappa, Jovana  Mitrovic, Edward  Hughes, Pedro Ortega, Matthew  Botvinick, Jane  Wang*
 - **Improving Model Robustness via Automatically Incorporating Self-supervision Tasks**.
  *Donghwa Kim, Kangwook  Lee, Changho  Suh*
 - **Meta-learning curiosity algorithms**.
@@ -200,7 +201,7 @@ during the submission period.
 - **Continuous Meta-Learning without Task Supervision**.
  *James Harrison, Apoorva  Sharma, Chelsea  Finn, Marco  Pavone*
 - **Online Meta-Learning on Non-convex Setting**.
- *Zhenxun Zhuang, Kezi  Yu, Songtao  Lu, Yunlong  Wang*
+ *Zhenxun Zhuang, Kezi  Yu, Songtao  Lu, Lucas Glass, Yunlong  Wang*
 - **PAC-Bayes Objectives for Meta-Learning using Deep Probabilistic Programs**.
  *Jonathan Warrell*
 - **A Baseline for Few-Shot Image Classification**.
