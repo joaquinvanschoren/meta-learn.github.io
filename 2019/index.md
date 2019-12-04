@@ -67,7 +67,7 @@ In terms of prospective participants, our main targets are machine learning rese
 | 09:00 | Introduction and opening remarks
 | 09:10 | **Erin Grant**
 | 09:40 | **Jeff Clune**
-| 10:00 | Poster spotlights 1
+| 10:10 | Poster spotlights 1
 | 10:30 | *Coffee & posters*
 | 11:30 | **Pieter Abbeel**
 | 12:00 | Discussion 1
