@@ -27,11 +27,26 @@ In terms of prospective participants, our main targets are machine learning rese
 
 ## Invited Speakers ##
 - [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/) (UC Berkeley, Covariant.ai)
+    **Interaction of Model-based RL and Meta-RL**
+
 - [David Abel](https://david-abel.github.io/) (Brown University)
+    **Abstraction & Meta-Reinforcement Learning**
+    Reinforcement learning is hard in a fundamental sense: even in finite and deterministic environments, it can take a large number of samples to find a near-optimal policy. In this talk, I discuss the role that abstraction can play in achieving reliable yet efficient learning and planning. I first introduce classes of state abstraction that induce a trade-off between optimality and the size of an agent's resulting abstract model, yielding a practical algorithm for learning useful and compact representations from a demonstrator. Moreover, I show how these learned, simple representations can underlie efficient learning in complex environments. Second, I analyze the problem of searching for options that make planning more efficient. I present new computational complexity results that illustrate it is NP-hard to find the optimal options that minimize planning time, but show this set can be approximated in polynomial time. Collectively, these results provide a partial path toward abstractions that minimize the difficulty of high quality learning and decision making.
+
 - [Jeff Clune](http://jeffclune.com/) (University of Wyoming, Uber AI)
+    **How Meta-Learning Could Help Us Accomplish Our Grandest AI Ambitions, and Early, Exotic Steps in that Direction**
+    A dominant trend in machine learning is that hand-designed pipelines are replaced by higher-performing learned pipelines once sufficient compute and data are available. I argue that trend will apply to machine learning itself, and thus that the fastest path to truly powerful AI is to create AI-generating algorithms (AI-GAs) that on their own *learn* to solve the hardest AI problems. This paradigm is an all-in bet on meta-learning. To produce AI-GAs, we need work on Three Pillars: meta-learning architectures, meta-learning learning algorithms, and automatically generating environments. In this talk I will present recent work from our team in each of the three pillars: Pillar 1: Generative Teaching Networks (GTNs); Pillar 2: Differential plasticity, differentiable neuromodulated plasticity (“backpropamine”), and a Neuromodulated Meta-Learning algorithm (ANML); Pillar 3: the Paired Open-Ended Trailblazer (POET). My goal is to motivate future research into each of the three pillars and their combination.
+
 - [Erin Grant](https://people.eecs.berkeley.edu/~eringrant/) (UC Berkeley)
+    **Meta-learning as hierarchical modelling**
+
 - [Raia Hadsell](http://raiahadsell.com/index.html) (DeepMind)
+    TBA
+
 - [Brenden Lake](https://cims.nyu.edu/~brenden/) (NYU, Facebook AI Research)
+    **Compositional generalization in minds and machines**
+    People learn in fast and flexible ways that elude the best artificial neural networks. Once a person learns how to “dax,” they can effortlessly understand how to “dax twice” or “dax vigorously” thanks to their compositional skills. In this talk, we examine how people and machines generalize compositionally in language-like instruction learning tasks. Artificial neural networks have long been criticized for lacking systematic compositionality (Fodor & Pylshyn, 1988; Marcus, 1998), but new architectures have been tackling increasingly ambitious language tasks. In light of these developments, we reevaluate these classic criticisms and find that artificial neural nets still fail spectacularly when systematic compositionality is required. We then show how people succeed in similar few-shot learning tasks and find they utilize three inductive biases that can be incorporated into models. Finally, we show how more structured neural nets can acquire compositional skills and human-like inductive biases through meta-learning.
+
 
 ## Organizers ##
 - [Roberto Calandra](https://www.robertocalandra.com/) (Facebook AI Research)
@@ -50,20 +65,20 @@ In terms of prospective participants, our main targets are machine learning rese
 
 | --------:| ---------------------------------------------------
 | 09:00 | Introduction and opening remarks
-| 09:10 | Invited talk 1
-| 09:40 | Invited talk 2
+| 09:10 | **Erin Grant**
+| 09:40 | **Jeff Clune**
 | 10:00 | Poster spotlights 1
 | 10:30 | *Coffee & posters*
-| 11:30 | Invited talk 3
+| 11:30 | **Pieter Abbeel**
 | 12:00 | Discussion 1
 | 12:30 | *Lunch break*
-| 14:00 | Invited talk 4
-| 14:30 | Invited talk 5
+| 14:00 | **David Abel**
+| 14:30 | **Raia Hadsell**
 | 15:00 | Poster spotlights 2
 | 15:20 | *Coffee & posters* 
-| 16:30 | Contributed talk 1
-| 16:45 | Contributed talk 2
-| 17:00 | Invited talk 6
+| 16:30 | **Sebastian Flennerhag**: Meta-Learning with Warped Gradient Descent
+| 16:45 | **Jessica Lee**: MetaPix: Few-shot video retargeting
+| 17:00 | **Brenden Lake**
 | 17:30 | Discussion 2
 | 18:00 | End
 
@@ -102,7 +117,13 @@ during the submission period. -->
 5. Can a paper be submitted to the workshop that is currently under review or will be under review at a conference during the review phase? 
 
 	MetaLearn submissions are 4 pages, i.e., much shorter than standard conference submissions. But from our side it is perfectly fine to submit a condensed version of a parallel conference submission, if it also fine for the conference in question. Our workshop does not have archival proceedings, and therefore parallel submissions of extended versions to other conferences are acceptable.
+
+6. Are there any instructions for poster formatting or for the camera-ready?
+
+  - Posters should be A0, preferably on light paper. Poster can be hung up before the start of the workshop or during the breaks or poster sessions.
+  - The camera-ready version of your accepted paper should be limited to 4 pages, with up to 10 pages additional materials.
 	
+
 ## Accepted Papers ##
 - **Deep Subspace Networks For Few-Shot Learning**.
  *Christian Simon, Piotr  Koniusz, Richard  Nock, Mehrtash  Harandi*
