@@ -41,7 +41,7 @@ In terms of prospective participants, our main targets are machine learning rese
     **Meta-learning as hierarchical modelling**  
 
 - [Raia Hadsell](http://raiahadsell.com/index.html) (DeepMind)  
-    TBA
+    **Scalable Meta-Learning**
 
 - [Brenden Lake](https://cims.nyu.edu/~brenden/) (NYU, Facebook AI Research)  
     **Compositional generalization in minds and machines**  
