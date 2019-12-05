@@ -285,8 +285,8 @@ during the submission period. -->
 - [**Understanding and Robustifying Differentiable Architecture Search**.](papers/metalearn2019-zela.pdf)
  *Arber Zela, Thomas  Elsken, Yassine  Marrakchi, Tonmoy  Saikia, Thomas  Brox, Frank  Hutter*
 
-- [**Learning to Estimate Point-Prediction Uncertainty and Correct Output in Neural Networks**.](papers/metalearn2019-qiu.pdf)
- *Xin Qiu, Elliot  Meyerson, Risto  Miikkulainen* [[Appendix](papers/metalearn2019-qiu-appendix.pdf)] 
+- [**Learning to Estimate Point-Prediction Uncertainty and Correct Output in Neural Networks**.](papers/metalearn2019-qiu.pdf) [[Appendix](papers/metalearn2019-qiu-appendix.pdf)] 
+ *Xin Qiu, Elliot  Meyerson, Risto  Miikkulainen* 
 
 - [**Towards Benchmarking and Dissecting One-shot Neural Architecture Search**.](papers/metalearn2019-siems.pdf)
  *Julien  Siems, Arber Zela, Frank  Hutter*
