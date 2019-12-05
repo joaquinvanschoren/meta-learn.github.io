@@ -132,8 +132,8 @@ during the submission period. -->
 - [**On the conditions of MAML convergence**](papers/metalearn2019-takagi.pdf)
  *Shiro Takagi, Yoshihiro Nagano, Yuki Yoshida, and Masato Okada*
 
-- [**Constrained Bayesian Optimization with Max-Value Entropy Search**.](papers/metalearn2019-perrone.pdf)
- *Valerio Perrone, Iaroslav  Shcherbatyi, Rodolphe  Jenatton, Cedric  Archambeau, Matthias  Seeger* [[Appendix](papers/metalearn2019-perrone-appendix.pdf)]
+- [**Constrained Bayesian Optimization with Max-Value Entropy Search**.](papers/metalearn2019-perrone.pdf) [[Appendix](papers/metalearn2019-perrone-appendix.pdf)]
+ *Valerio Perrone, Iaroslav  Shcherbatyi, Rodolphe  Jenatton, Cedric  Archambeau, Matthias  Seeger* 
 
 - [**Is Fast Adaptation All You Need?**.](paper/metalearn2019-javed.pdf)
  *Khurram Javed, Hengshuai  Yao, Martha  White*
@@ -156,8 +156,8 @@ during the submission period. -->
 - [**DEGAS: Differentiable Efficient Generator Search**.](papers/metalearn2019-doveh.pdf)
  *Sivan Doveh, Raja  Giryes*
 
-- [**Niseko: a Large-Scale Meta-Learning Dataset**.](papers/metalearn2019-shang.pdf)
- *Zeyuan Shang, Emanuel   Zgraggen, Philipp  Eichmann, Tim  Kraska* [[Appendix](papers/metalearn2019-shang-appendix.pdf)]
+- [**Niseko: a Large-Scale Meta-Learning Dataset**.](papers/metalearn2019-shang.pdf) [[Appendix](papers/metalearn2019-shang-appendix.pdf)]
+ *Zeyuan Shang, Emanuel   Zgraggen, Philipp  Eichmann, Tim  Kraska* 
 
 - [**AutoML using Metadata Language Embeddings**.](papers/metalearn2019-drori.pdf)
  *Iddo Drori, Lu  Liu, Yi  Nian, Sharath  Koorathota, Jie  Li, Antonio K  Moretti, Juliana   Freire , Madeleine  Udell*
@@ -165,8 +165,8 @@ during the submission period. -->
 - [**Neural Architecture Search via Bayesian Optimization with a Neural Network Prior**.](papers/metalearn2019-white.pdf)
  *Colin White, Willie  Neiswanger, Yash  Savani*
 
-- [**Improved Training Speed, Accuracy, and Data Utilization Through Loss Function Optimization**.](papers/metalearn2019-gonzalez.pdf)
- *Santiago Gonzalez, Risto  Miikkulainen* [[Appendix](papers/metalearn2019-gonzalez-appendix.pdf)]
+- [**Improved Training Speed, Accuracy, and Data Utilization Through Loss Function Optimization**.](papers/metalearn2019-gonzalez.pdf) [[Appendix](papers/metalearn2019-gonzalez-appendix.pdf)]
+ *Santiago Gonzalez, Risto  Miikkulainen* 
 
 - [**Domain-Agnostic Few-Shot Classification by Learning Disparate Modulators**.](papers/metalearn2019-choi.pdf)
  *Yongseok Choi, Junyoung  Park, Subin  Yi, Dong-Yeon  Cho*
@@ -207,14 +207,14 @@ during the submission period. -->
 - [**Modular Meta-Learning with Shrinkage**.](papers/metalearn2019-chen.pdf)
  *Yutian Chen, Abram  Friesen, Feryal Behbahani, David  Budden, Matt  Hoffman, Arnaud  Doucet, Nando  de Freitas*
 
-- [**Meta-analysis of Bayesian analyses**.](papers/metalearn2019-blomstedt.pdf)
- *Paul Blomstedt, Diego  Mesquita, Samuel  Kaski* [[Appendix](papers/metalearn2019-blomstedt-appendix.pdf)]   
+- [**Meta-analysis of Bayesian analyses**.](papers/metalearn2019-blomstedt.pdf) [[Appendix](papers/metalearn2019-blomstedt-appendix.pdf)]
+ *Paul Blomstedt, Diego  Mesquita, Samuel  Kaski* 
 
 - [**Ranking architectures using meta-learning**.](papers/metalearn2019-dubatovka.pdf)
  *Alina Dubatovka, Effrosyni  Kokiopoulou, Luciano  Sbaiz, Andrea  Gesmundo, Gabor  Bartok, Jesse  Berent*
 
-- [**Meta-Learning Deep Energy-Based Memory Models**.](papers/metalearn2019-bartunov.pdf)
- *Sergey Bartunov, Jack  Rae, Simon  Osindero, Timothy  Lillicrap* [[Appendix](papers/metalearn2019-bartunov-appendix.pdf)]   
+- [**Meta-Learning Deep Energy-Based Memory Models**.](papers/metalearn2019-bartunov.pdf) [[Appendix](papers/metalearn2019-bartunov-appendix.pdf)]
+ *Sergey Bartunov, Jack  Rae, Simon  Osindero, Timothy  Lillicrap* 
 
 - [**ES-MAML: Learning to Adapt with Evolution Strategies**.](papers/metalearn2019-song.pdf)
  *Xingyou Song, Krzysztof Choromanski, Wenbo  Gao, Yuxiang  Yang, Yunhao  Tang, Aldo  Pacchiano*
@@ -222,8 +222,8 @@ during the submission period. -->
 - [**Charting the Right Manifold: Manifold Mixup for Few-shot Learning**.](papers/metalearn2019-mangla.pdf)
  *Puneet Mangla, Mayank Singh, Nupur Kumari, Abhishek  Sinha, Balaji  Krishnamurthy, Vineeth  N Balasubramanian*
 
-- [**A quantile-based approach to hyperparameter transfer learning**.](papers/metalearn2019-salinas.pdf)
- *David Salinas, Huibin  Shen, Valerio Perrone* [[Appendix](papers/metalearn2019-salinas-appendix.pdf)]   
+- [**A quantile-based approach to hyperparameter transfer learning**.](papers/metalearn2019-salinas.pdf) [[Appendix](papers/metalearn2019-salinas-appendix.pdf)]   
+ *David Salinas, Huibin  Shen, Valerio Perrone* 
 
 - [**Learning an Adaptive Learning Rate Schedule**.](papers/metalearn2019-xu.pdf)
  *Zhen Xu, Andrew  M  Dai, Jonas  Kemp, Luke  Metz*
@@ -267,17 +267,17 @@ during the submission period. -->
 - [**Neural Architecture Evolution in Deep Reinforcement Learning for Continuous Control**.](papers/metalearn2019-franke.pdf)
  *Jörg K.H. Franke, Gregor  Koehler, Noor  Awad, Frank  Hutter*
 
-- [**Continuous Meta-Learning without Task Supervision**.](papers/metalearn2019-harrison.pdf)
- *James Harrison, Apoorva  Sharma, Chelsea  Finn, Marco  Pavone* [[Appendix](papers/metalearn2019-harrison-appendix.pdf)] 
+- [**Continuous Meta-Learning without Task Supervision**.](papers/metalearn2019-harrison.pdf) [[Appendix](papers/metalearn2019-harrison-appendix.pdf)] 
+ *James Harrison, Apoorva  Sharma, Chelsea  Finn, Marco  Pavone* 
 
-- [**Online Meta-Learning on Non-convex Setting**.](papers/metalearn2019-zhuang.pdf)
- *Zhenxun Zhuang, Kezi  Yu, Songtao  Lu, Lucas Glass, Yunlong  Wang* [[Appendix](papers/metalearn2019-zhuang-appendix.pdf)] 
+- [**Online Meta-Learning on Non-convex Setting**.](papers/metalearn2019-zhuang.pdf) [[Appendix](papers/metalearn2019-zhuang-appendix.pdf)] 
+ *Zhenxun Zhuang, Kezi  Yu, Songtao  Lu, Lucas Glass, Yunlong  Wang* 
 
 - [**PAC-Bayes Objectives for Meta-Learning using Deep Probabilistic Programs**.](papers/metalearn2019-warrell.pdf)
  *Jonathan Warrell*
 
-- [**A Baseline for Few-Shot Image Classification**.](papers/metalearn2019-dhillon.pdf)
- *Guneet S Dhillon, Pratik  Chaudhari, Avinash Ravichandran, Stefano Soatto* [[Appendix](papers/metalearn2019-dhillon-appendix.pdf)] 
+- [**A Baseline for Few-Shot Image Classification**.](papers/metalearn2019-dhillon.pdf) [[Appendix](papers/metalearn2019-dhillon-appendix.pdf)] 
+ *Guneet S Dhillon, Pratik  Chaudhari, Avinash Ravichandran, Stefano Soatto* 
 
 - [**NASIB: Neural Architecture Search withIn Budget**.](papers/metalearn2019-singh.pdf)
  *Abhishek Singh, Anubhav Garg, Debo Dutta*
