@@ -126,181 +126,179 @@ during the submission period. -->
 
 ## Accepted Papers ##
 
-- `SPOTLIGHT` **A Baseline for Few-Shot Image Classification**.  
- *Guneet S Dhillon, Pratik  Chaudhari, Avinash  Ravichandran, Stefano  Soatto*
-
-- `SPOTLIGHT` **An empirical study of pretrained representations for few-shot classification**.  
- *Tiago Ramalho, Thierry  Sousbie, Stefano  Peluchetti*
-
-- `SPOTLIGHT` **A quantile-based approach to hyperparameter transfer learning**.  
- *David Salinas, Huibin  Shen, Valerio  Perrone*
-
-- **Assay modelling with adaptive deep kernel learning**.  
- *Prudencio Tossou, Basile  Dura, Alexandre  Lacoste*
-
-- **Automated Model Search Using Bayesian Optimization and Genetic Programming**.  
- *Louis B Schlessinger, Gustavo  Malkomes, Roman  Garnett*
-
-- **AutoML using Metadata Language Embeddings**.    
- *Iddo Drori, Lu  Liu, Yi  Nian, Sharath  Koorathota, Jie  Li, Antonio K  Moretti, Juliana   Freire , Madeleine  Udell*
-
-- **Bayesian Optimisation over Multiple Continuous and Categorical Inputs**.  
- *Binxin Ru, Ahsan  Alvi, Vu  Nguyen, Michael A.   Osborne, Stephen  Roberts*
-
-- **Characterizing Policy Divergence for Personalized Meta-Reinforcement Learning**.  
- *Michael Zhang*
-
-- `SPOTLIGHT` **Charting the Right Manifold: Manifold Mixup for Few-shot Learning**.  
- *Puneet Mangla, Mayank  Singh, Nupur  Kumari, Abhishek  Sinha, Balaji  Krishnamurthy, Vineeth  N Balasubramanian*
-
-- **Constrained Bayesian Optimization with Max-Value Entropy Search**.  
- *Valerio Perrone, Iaroslav  Shcherbatyi, Rodolphe  Jenatton, Cedric  Archambeau, Matthias  Seeger*
-
-- **Continuous Meta-Learning without Task Supervision**.  
- *James Harrison, Apoorva  Sharma, Chelsea  Finn, Marco  Pavone*
-
-- **Decoupled Meta Learning with Structured Latents**.  
- *Russell Mendonca, Sergey  Levine, Chelsea  Finn*
-
-- `SPOTLIGHT` **Deep Subspace Networks For Few-Shot Learning**.    
+- [**Deep Subspace Networks For Few-Shot Learning**.](papers/metalearn2019-simon.pdf)
  *Christian Simon, Piotr  Koniusz, Richard  Nock, Mehrtash  Harandi*
 
-- **DEGAS: Differentiable Efficient Generator Search**.    
- *Sivan Doveh, Raja  Giryes*
-
-- **Differentially Private Meta-Learning**.  
- *Jeffrey Li, Mikhail  Khodak, Sebastian  Caldas, Ameet  Talwalkar*
-
-- **Domain-Agnostic Few-Shot Classification by Learning Disparate Modulators**.    
- *Yongseok Choi, Junyoung  Park, Subin  Yi, Dong-Yeon  Cho*
-
-- **Empirical Bayes Meta-Learning with Synthetic Gradients**.  
- *Xu Hu, Pablo  Moreno, Xi  Shen, Yang  Xiao, Neil  Lawrence, Guillaume  Obozinski, Andreas  Damianou*
-
-- `SPOTLIGHT` **ES-MAML: Learning to Adapt with Evolution Strategies**.  
- *Xingyou Song, Krzysztof  Choromanski, Wenbo  Gao, Yuxiang  Yang, Yunhao  Tang, Aldo  Pacchiano*
-
-- **Gradient-Aware Model-based Policy Search**.    
- *Pierluca D'Oro, Alberto Maria  Metelli, Andrea  Tirinzoni, Matteo  Papini, Marcello  Restelli*
-
-- **Improved Training Speed, Accuracy, and Data Utilization Through Loss Function Optimization**.    
- *Santiago Gonzalez, Risto  Miikkulainen*
-
-- **Improving Model Robustness via Automatically Incorporating Self-supervision Tasks**.  
- *Donghwa Kim, Kangwook  Lee, Changho  Suh*
-
-- **Is Fast Adaptation All You Need?**.    
- *Khurram Javed, Hengshuai  Yao, Martha  White*
-
-- **Learning an Adaptive Learning Rate Schedule**.  
- *Zhen Xu, Andrew  M  Dai, Jonas  Kemp, Luke  Metz*
-
-- **Learning Compositional Rules via Neural Program Synthesis**.  
- *Maxwell Nye, Armando  Solar-Lezama, Joshua  Tenenbaum, Brenden  Lake*
-
-- **Learning to Estimate Point-Prediction Uncertainty and Correct Output in Neural Networks**.  
- *Xin Qiu, Elliot  Meyerson, Risto  Miikkulainen*
-
-- **Learning to tune XGBoost with XGBoost**.    
- *Johanna Sommer, Dimitrios  Sarigiannis, Thomas  Parnell*
-
-- **Meta-analysis of Bayesian analyses**.  
- *Paul Blomstedt, Diego  Mesquita, Samuel  Kaski*
-
-- **Meta-analysis of Continual Learning**.    
- *Cuong V. Nguyen, Alessandro Achille, Michael Lam, Tal Hassner, Vijay Mahadevan, Stefano Soatto*
-
-- `SPOTLIGHT` **Meta-Learning Contextual Bandit Exploration**.    
- *Amr Sharaf, Hal  Daume*
-
-- **Meta-learning curiosity algorithms**.  
- *Ferran Alet, Martin  Schneider, Tomas  Lozano-Perez, Leslie  Kaelbling*
-
-- **Meta-Learning Deep Energy-Based Memory Models**.  
- *Sergey Bartunov, Jack  Rae, Simon  Osindero, Timothy  Lillicrap*
-
-- **Meta-Learning for Algorithm and Hyperparameter Optimization with Surrogate Model Ensembles**.  
- *Georgiana Manolache, Joaquin  Vanschoren*
-
-- `SPOTLIGHT` **Meta-Learning of Structured Representation by Proximal Mapping**.    
- *Mao Li, Yingyi  Ma, Hongwei  Jin, Zhan  Shi, Xinhua  Zhang*
-
-- **Meta-Learning without Memorization**.  
- *Mingzhang Michael Yin, Chelsea  Finn, George  Tucker, Sergey  Levine*
-
-- `CONTRIBUTED TALK` **Meta-Learning with Warped Gradient Descent**.  
- *Sebastian Flennerhag, Andrei A.  Rusu, Razvan  Pascanu, Hujun  Yin, Raia  Hadsell*
-
-- `CONTRIBUTED TALK` **MetaPix: Few-shot video retargeting**.  
- *Jessica Lee, Rohit  Girdhar, Deva  Ramanan*
-
-- `SPOTLIGHT` **MetaPoison: Learning to Craft Adversarial Poisoning Examples via Meta-Learning**.  
- *W. Ronny Huang, Jonas  Geiping, Liam  Fowl, Tom  Goldstein*
-
-- **Meta-reinforcement learning of causal strategies**.  
- *Ishita Dasgupta, Zeb  Kurth-Nelson, Silvia  Chiappa, Jovana  Mitrovic, Edward  Hughes, Pedro Ortega, Matthew  Botvinick, Jane  Wang*
-
-- `SPOTLIGHT` **Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning**.  
- *Tianhe Yu, Deirdre  Quillen, Zhanpeng  He, Ryan  Julian, Karol  Hausman, Sergey  Levine, Chelsea  Finn*
-
-- **Modular Meta-Learning with Shrinkage**.  
- *Yutian Chen, Abram  Friesen, Feryal  Behbahani, David  Budden, Matt  Hoffman, Arnaud  Doucet, Nando  de Freitas*
-
-- **NASIB: Neural Architecture Search withIn Budget**.  
- *Abhishek Singh, Anubhav  Garg, Debo  Dutta*
-
-- **Neural Architecture Evolution in Deep Reinforcement Learning for Continuous Control**.  
- *Jörg K.H. Franke, Gregor  Koehler, Noor  Awad, Frank  Hutter*
-
-- **Neural Architecture Search via Bayesian Optimization with a Neural Network Prior**.    
- *Colin White, Willie  Neiswanger, Yash  Savani*
-
-- **Niseko: a Large-Scale Meta-Learning Dataset**.    
- *Zeyuan Shang, Emanuel   Zgraggen, Philipp  Eichmann, Tim  Kraska*
-
-- **Noise Contrastive Meta-Learning for Conditional Density Estimation using Kernel Mean Embeddings**.  
- *Jean-Francois Ton, Leung  Chan, Yee Whye  Teh, Dino  Sejdinovic*
-
-- **Online Meta-Learning on Non-convex Setting**.  
- *Zhenxun Zhuang, Kezi  Yu, Songtao  Lu, Lucas Glass, Yunlong  Wang*
-
-- **On the conditions of MAML convergence**.    
+- [**On the conditions of MAML convergence**](papers/metalearn2019-takagi.pdf)
  *Shiro Takagi, Yoshihiro Nagano, Yuki Yoshida, and Masato Okada*
 
-- **On Transfer Learning via Linearized Neural Networks**.  
- *Wesley J Maddox, Shuai  Tang, Pablo  Moreno, Andrew Gordon Gordon  Wilson, Andreas  Damianou*
+- [**Constrained Bayesian Optimization with Max-Value Entropy Search**.](papers/metalearn2019-perrone.pdf)
+ *Valerio Perrone, Iaroslav  Shcherbatyi, Rodolphe  Jenatton, Cedric  Archambeau, Matthias  Seeger* [[Appendix](papers/metalearn2019-perrone-appendix.pdf)]
 
-- **PAC-Bayes Objectives for Meta-Learning using Deep Probabilistic Programs**.  
- *Jonathan Warrell*
+- [**Is Fast Adaptation All You Need?**.](paper/metalearn2019-javed.pdf)
+ *Khurram Javed, Hengshuai  Yao, Martha  White*
 
-- **Ranking architectures using meta-learning**.  
- *Alina Dubatovka, Effrosyni  Kokiopoulou, Luciano  Sbaiz, Andrea  Gesmundo, Gabor  Bartok, Jesse  Berent*
+- [**Learning to tune XGBoost with XGBoost**.](papers/metalearn2019-sommer.pdf)
+ *Johanna Sommer, Dimitrios  Sarigiannis, Thomas  Parnell*
 
-- **Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML**.  
- *Aniruddh Raghu, Maithra  Raghu, Oriol  Vinyals, Samy  Bengio*
+- [**Texture Bias Of CNNs Limits Few-Shot Classification Performance**.](papers/metalearn2019-ringer.pdf)
+ *Sam Ringer, William JW Williams, Tom Ash, Remi Francis, David Macleod*
 
-- **Texture Bias Of CNNs Limits Few-Shot Classification Performance**.    
- *David Macleod, Sam Ringer, William JW Williams, Tom Ash, Remi Francis*
+- [**Meta-Learning Contextual Bandit Exploration**.](papers/metalearn2019-sharaf.pdf)
+ *Amr Sharaf, Hal  Daume*
 
-- **Towards Benchmarking and Dissecting One-shot Neural Architecture Search**.  
- *Arber Zela, Julien  Siems, Frank  Hutter*
+- [**Gradient-Aware Model-based Policy Search**.](papers/metalearn2019-doro.pdf)
+ *Pierluca D'Oro, Alberto Maria  Metelli, Andrea  Tirinzoni, Matteo  Papini, Marcello  Restelli*
 
-- **Transferable Neural Processes for Hyperparameter Optimization**.    
- *Ying WEI, Peilin  Zhao, Huaxiu  Yao, Junzhou  Huang*
+- [**Transferable Neural Processes for Hyperparameter Optimization**.](papers/metalearn2019-wei.pdf)
+ *Ying Wei, Peilin  Zhao, Huaxiu  Yao, Junzhou  Huang*
 
-- **VIABLE: Fast Adaptation via Backpropagating Learned Loss**.  
- *Leo Feng, Luisa  Zintgraf, Bei  Peng, Shimon  Whiteson*
+- [**DEGAS: Differentiable Efficient Generator Search**.](papers/metalearn2019-doveh.pdf)
+ *Sivan Doveh, Raja  Giryes*
 
-- **Understanding and Robustifying Differentiable Architecture Search**.  
- *Arber Zela, Thomas  Elsken, Yassine  Marrakchi, Tonmoy  Saikia, Thomas  Brox, Frank  Hutter*
+- [**Niseko: a Large-Scale Meta-Learning Dataset**.](papers/metalearn2019-shang.pdf)
+ *Zeyuan Shang, Emanuel   Zgraggen, Philipp  Eichmann, Tim  Kraska* [[Appendix](papers/metalearn2019-shang-appendix.pdf)]
 
-- **Warm Starting Method for CMA-ES**.  
+- [**AutoML using Metadata Language Embeddings**.](papers/metalearn2019-drori.pdf)
+ *Iddo Drori, Lu  Liu, Yi  Nian, Sharath  Koorathota, Jie  Li, Antonio K  Moretti, Juliana   Freire , Madeleine  Udell*
+
+- [**Neural Architecture Search via Bayesian Optimization with a Neural Network Prior**.](papers/metalearn2019-white.pdf)
+ *Colin White, Willie  Neiswanger, Yash  Savani*
+
+- [**Improved Training Speed, Accuracy, and Data Utilization Through Loss Function Optimization**.](papers/metalearn2019-gonzalez.pdf)
+ *Santiago Gonzalez, Risto  Miikkulainen* [[Appendix](papers/metalearn2019-gonzalez-appendix.pdf)]
+
+- [**Domain-Agnostic Few-Shot Classification by Learning Disparate Modulators**.](papers/metalearn2019-choi.pdf)
+ *Yongseok Choi, Junyoung  Park, Subin  Yi, Dong-Yeon  Cho*
+
+- [**Meta-analysis of Continual Learning**.](papers/metalearn2019-nguyen.pdf)
+ *Cuong V. Nguyen, Alessandro Achille, Michael Lam, Tal Hassner, Vijay Mahadevan, Stefano Soatto*
+
+- [**Meta-Learning of Structured Representation by Proximal Mapping**.](papers/metalearn2019-li1.pdf)
+ *Mao Li, Yingyi  Ma, Hongwei  Jin, Zhan  Shi, Xinhua  Zhang*
+
+- [**Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning**.](papers/metalearn2019-yu.pdf)
+ *Tianhe Yu, Deirdre  Quillen, Zhanpeng  He, Ryan  Julian, Karol  Hausman, Sergey  Levine, Chelsea  Finn*
+
+- [**An empirical study of pretrained representations for few-shot classification**.](papers/metalearn2019-ramalho.pdf)
+ *Tiago Ramalho, Thierry  Sousbie, Stefano  Peluchetti*
+
+- [**Warm Starting Method for CMA-ES**.](papers/metalearn2019-nomura.pdf)
  *Masahiro Nomura, Shuhei  Watanabe, Yoshihiko  Ozaki, Masaki  Onishi*
 
-- **Zero-Shot Text Classification With Generative Language Models**.  
+- [**Bayesian Optimisation over Multiple Continuous and Categorical Inputs**.](papers/metalearn2019-ru.pdf)
+ *Binxin Ru, Ahsan  Alvi, Vu  Nguyen, Michael A.   Osborne, Stephen  Roberts*
+
+- [**Noise Contrastive Meta-Learning for Conditional Density Estimation using Kernel Mean Embeddings**.](papers/metalearn2019-ton.pdf)
+ *Jean-Francois Ton, Leung Chan, Yee Whye  Teh, Dino  Sejdinovic*
+
+- **MetaPoison: Learning to Craft Adversarial Poisoning Examples via Meta-Learning**.
+ *W. Ronny Huang, Jonas Geiping, Liam  Fowl, Tom  Goldstein*
+
+- [**MetaPix: Few-shot video retargeting**.](papers/metalearn2019-lee.pdf)
+ *Jessica Lee, Rohit  Girdhar, Deva  Ramanan*
+
+- [**Meta-Learning with Warped Gradient Descent**.](papers/metalearn2019-flennerhag.pdf)
+ *Sebastian Flennerhag, Andrei A. Rusu, Razvan  Pascanu, Hujun Yin, Raia  Hadsell*
+
+- [**Characterizing Policy Divergence for Personalized Meta-Reinforcement Learning**.](papers/metalearn2019-zhang.pdf)
+ *Michael Zhang*
+
+- [**Modular Meta-Learning with Shrinkage**.](papers/metalearn2019-chen.pdf)
+ *Yutian Chen, Abram  Friesen, Feryal Behbahani, David  Budden, Matt  Hoffman, Arnaud  Doucet, Nando  de Freitas*
+
+- [**Meta-analysis of Bayesian analyses**.](papers/metalearn2019-blomstedt.pdf)
+ *Paul Blomstedt, Diego  Mesquita, Samuel  Kaski* [[Appendix](papers/metalearn2019-blomstedt-appendix.pdf)]   
+
+- [**Ranking architectures using meta-learning**.](papers/metalearn2019-dubatovka.pdf)
+ *Alina Dubatovka, Effrosyni  Kokiopoulou, Luciano  Sbaiz, Andrea  Gesmundo, Gabor  Bartok, Jesse  Berent*
+
+- [**Meta-Learning Deep Energy-Based Memory Models**.](papers/metalearn2019-bartunov.pdf)
+ *Sergey Bartunov, Jack  Rae, Simon  Osindero, Timothy  Lillicrap* [[Appendix](papers/metalearn2019-bartunov-appendix.pdf)]   
+
+- [**ES-MAML: Learning to Adapt with Evolution Strategies**.](papers/metalearn2019-song.pdf)
+ *Xingyou Song, Krzysztof Choromanski, Wenbo  Gao, Yuxiang  Yang, Yunhao  Tang, Aldo  Pacchiano*
+
+- [**Charting the Right Manifold: Manifold Mixup for Few-shot Learning**.](papers/metalearn2019-mangla.pdf)
+ *Puneet Mangla, Mayank Singh, Nupur Kumari, Abhishek  Sinha, Balaji  Krishnamurthy, Vineeth  N Balasubramanian*
+
+- [**A quantile-based approach to hyperparameter transfer learning**.](papers/metalearn2019-salinas.pdf)
+ *David Salinas, Huibin  Shen, Valerio Perrone* [[Appendix](papers/metalearn2019-salinas-appendix.pdf)]   
+
+- [**Learning an Adaptive Learning Rate Schedule**.](papers/metalearn2019-xu.pdf)
+ *Zhen Xu, Andrew  M  Dai, Jonas  Kemp, Luke  Metz*
+
+- [**VIABLE: Fast Adaptation via Backpropagating Learned Loss**.](papers/metalearn2019-feng.pdf)
+ *Leo Feng, Luisa  Zintgraf, Bei  Peng, Shimon  Whiteson*
+
+- [**Empirical Bayes Meta-Learning with Synthetic Gradients**.](papers/metalearn2019-hu.pdf)
+ *Shell Xu Hu, Pablo  Moreno, Xi  Shen, Yang  Xiao, Neil  Lawrence, Guillaume  Obozinski, Andreas  Damianou*
+
+- [**Zero-Shot Text Classification With Generative Language Models**.](papers/metalearn2019-puri.pdf)
  *Raul Puri, Bryan  Catanzaro*
 
+- [**On Transfer Learning via Linearized Neural Networks**.](papers/metalearn2019-maddox.pdf)
+ *Wesley J Maddox, Shuai  Tang, Pablo Moreno, Andrew Gordon Gordon  Wilson, Andreas  Damianou*
 
+- [**Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML**.](papers/metalearn2019-raghu.pdf)
+ *Aniruddh Raghu, Maithra  Raghu, Oriol Vinyals, Samy  Bengio*
+
+- **Learning Compositional Rules via Neural Program Synthesis**.
+ *Maxwell Nye, Armando  Solar-Lezama, Joshua  Tenenbaum, Brenden  Lake*
+
+- [**Assay modelling with adaptive deep kernel learning**.](papers/metalearn2019-tossou.pdf)
+ *Prudencio Tossou, Basile  Dura, Alexandre  Lacoste*
+
+- [**Meta-Learning without Memorization**.](papers/metalearn2019-yin.pdf)
+ *Mingzhang Michael Yin, Chelsea  Finn, George  Tucker, Sergey  Levine*
+
+- **Meta-reinforcement learning of causal strategies**.
+ *Ishita Dasgupta, Zeb  Kurth-Nelson, Silvia  Chiappa, Jovana  Mitrovic, Edward  Hughes, Pedro Ortega, Matthew  Botvinick, Jane  Wang*
+
+- [**Improving Model Robustness via Automatically Incorporating Self-supervision Tasks**.](papers/metalearn2019-kim.pdf)
+ *Donghwa Kim, Kangwook  Lee, Changho  Suh*
+
+- [**Meta-learning curiosity algorithms**.](papers/metalearn2019-alet.pdf)
+ *Ferran Alet, Martin  Schneider, Tomas  Lozano-Perez, Leslie  Kaelbling*
+
+- [**Differentially Private Meta-Learning**.](papers/metalearn2019-li2.pdf)
+ *Jeffrey Li, Mikhail  Khodak, Sebastian  Caldas, Ameet  Talwalkar*
+
+- [**Neural Architecture Evolution in Deep Reinforcement Learning for Continuous Control**.](papers/metalearn2019-franke.pdf)
+ *Jörg K.H. Franke, Gregor  Koehler, Noor  Awad, Frank  Hutter*
+
+- [**Continuous Meta-Learning without Task Supervision**.](papers/metalearn2019-harrison.pdf)
+ *James Harrison, Apoorva  Sharma, Chelsea  Finn, Marco  Pavone* [[Appendix](papers/metalearn2019-harrison-appendix.pdf)] 
+
+- [**Online Meta-Learning on Non-convex Setting**.](papers/metalearn2019-zhuang.pdf)
+ *Zhenxun Zhuang, Kezi  Yu, Songtao  Lu, Lucas Glass, Yunlong  Wang* [[Appendix](papers/metalearn2019-zhuang-appendix.pdf)] 
+
+- [**PAC-Bayes Objectives for Meta-Learning using Deep Probabilistic Programs**.](papers/metalearn2019-warrell.pdf)
+ *Jonathan Warrell*
+
+- [**A Baseline for Few-Shot Image Classification**.](papers/metalearn2019-dhillon.pdf)
+ *Guneet S Dhillon, Pratik  Chaudhari, Avinash Ravichandran, Stefano Soatto* [[Appendix](papers/metalearn2019-dhillon-appendix.pdf)] 
+
+- [**NASIB: Neural Architecture Search withIn Budget**.](papers/metalearn2019-singh.pdf)
+ *Abhishek Singh, Anubhav Garg, Debo Dutta*
+
+- [**Understanding and Robustifying Differentiable Architecture Search**.](papers/metalearn2019-zela.pdf)
+ *Arber Zela, Thomas  Elsken, Yassine  Marrakchi, Tonmoy  Saikia, Thomas  Brox, Frank  Hutter*
+
+- [**Learning to Estimate Point-Prediction Uncertainty and Correct Output in Neural Networks**.](papers/metalearn2019-qiu.pdf)
+ *Xin Qiu, Elliot  Meyerson, Risto  Miikkulainen* [[Appendix](papers/metalearn2019-qiu-appendix.pdf)] 
+
+- [**Towards Benchmarking and Dissecting One-shot Neural Architecture Search**.](papers/metalearn2019-siems.pdf)
+ *Julien  Siems, Arber Zela, Frank  Hutter*
+
+- [**Decoupled Meta Learning with Structured Latents**.](papers/metalearn2019-mendonca.pdf)
+ *Russell Mendonca, Sergey  Levine, Chelsea  Finn*
+
+- [**Automated Model Search Using Bayesian Optimization and Genetic Programming**.](papers/metalearn2019-schlessinger.pdf)
+ *Louis B Schlessinger, Gustavo  Malkomes, Roman  Garnett*
+
+- [**Meta-Learning for Algorithm and Hyperparameter Optimization with Surrogate Model Ensembles**.](papers/metalearn2019-manolache.pdf)
+ *Georgiana Manolache, Joaquin  Vanschoren*
 
 
  
