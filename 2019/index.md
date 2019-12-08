@@ -255,7 +255,7 @@ during the submission period. -->
 - [**Meta-Learning without Memorization**.](papers/metalearn2019-yin.pdf)
  *Mingzhang Michael Yin, Chelsea  Finn, George  Tucker, Sergey  Levine*
 
-- **Meta-reinforcement learning of causal strategies**.
+- [**Meta-reinforcement learning of causal strategies**.](papers/metalearn2019-dasgupta.pdf)
  *Ishita Dasgupta, Zeb  Kurth-Nelson, Silvia  Chiappa, Jovana  Mitrovic, Edward  Hughes, Pedro Ortega, Matthew  Botvinick, Jane  Wang*
 
 - [**Improving Model Robustness via Automatically Incorporating Self-supervision Tasks**.](papers/metalearn2019-kim.pdf)
