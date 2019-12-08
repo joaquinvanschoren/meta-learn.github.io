@@ -26,6 +26,9 @@ In terms of prospective participants, our main targets are machine learning rese
 
 
 ## Invited Speakers ##
+
+Submit challenge questions for the speakers [here](https://forms.gle/DGEev5erxAmoi6eEA).  
+
 - [Pieter Abbeel](https://people.eecs.berkeley.edu/~pabbeel/) (UC Berkeley, Covariant.ai)  
     **Interaction of Model-based RL and Meta-RL**
 
