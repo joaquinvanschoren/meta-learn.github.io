@@ -195,7 +195,7 @@ during the submission period. -->
 - [**Noise Contrastive Meta-Learning for Conditional Density Estimation using Kernel Mean Embeddings**.](papers/metalearn2019-ton.pdf)
  *Jean-Francois Ton, Leung Chan, Yee Whye  Teh, Dino  Sejdinovic*
 
-- **MetaPoison: Learning to Craft Adversarial Poisoning Examples via Meta-Learning**.
+- [**MetaPoison: Learning to Craft Adversarial Poisoning Examples via Meta-Learning**.](papers/metalearn2019-huang.pdf)
  *W. Ronny Huang, Jonas Geiping, Liam  Fowl, Tom  Goldstein*
 
 - [**MetaPix: Few-shot video retargeting**.](papers/metalearn2019-lee.pdf)
