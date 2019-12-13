@@ -52,6 +52,9 @@ Submit challenge questions for the speakers [here](https://forms.gle/DGEev5erxAm
 
 ## Spotlights
 ### Morning Session
+- [**MetaPoison: Learning to Craft Adversarial Poisoning Examples via Meta-Learning**.](slides/metalearn2019-huang.pdf)
+ *W. Ronny Huang, Jonas Geiping, Liam  Fowl, Tom  Goldstein*
+
 - [**ES-MAML: Learning to Adapt with Evolution Strategies**.](slides/metalearn2019-song.pdf)
  *Xingyou Song, Krzysztof Choromanski, Wenbo  Gao, Yuxiang  Yang, Yunhao  Tang, Aldo  Pacchiano*
  
