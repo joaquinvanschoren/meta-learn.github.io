@@ -50,6 +50,19 @@ Submit challenge questions for the speakers [here](https://forms.gle/DGEev5erxAm
     **Compositional generalization in minds and machines**  
     People learn in fast and flexible ways that elude the best artificial neural networks. Once a person learns how to “dax,” they can effortlessly understand how to “dax twice” or “dax vigorously” thanks to their compositional skills. In this talk, we examine how people and machines generalize compositionally in language-like instruction learning tasks. Artificial neural networks have long been criticized for lacking systematic compositionality (Fodor & Pylshyn, 1988; Marcus, 1998), but new architectures have been tackling increasingly ambitious language tasks. In light of these developments, we reevaluate these classic criticisms and find that artificial neural nets still fail spectacularly when systematic compositionality is required. We then show how people succeed in similar few-shot learning tasks and find they utilize three inductive biases that can be incorporated into models. Finally, we show how more structured neural nets can acquire compositional skills and human-like inductive biases through meta-learning.
 
+## Spotlights
+### Morning Session
+- [**ES-MAML: Learning to Adapt with Evolution Strategies**.](slides/metalearn2019-song.pdf)
+ *Xingyou Song, Krzysztof Choromanski, Wenbo  Gao, Yuxiang  Yang, Yunhao  Tang, Aldo  Pacchiano*
+ 
+ - [**Meta-Learning Contextual Bandit Exploration**.](slides/metalearn2019-sharaf.pdf)
+ *Amr Sharaf, Hal  Daume*
+ 
+ - [**A quantile-based approach to hyperparameter transfer learning**.](slides/metalearn2019-salinas.pdf) 
+ *David Salinas, Huibin  Shen, Valerio Perrone* 
+ 
+ - [**Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning**.](slides/metalearn2019-yu.pdf)
+ *Tianhe Yu, Deirdre  Quillen, Zhanpeng  He, Ryan  Julian, Karol  Hausman, Sergey  Levine, Chelsea  Finn*
 
 ## Organizers ##
 - [Roberto Calandra](https://www.robertocalandra.com/) (Facebook AI Research)
