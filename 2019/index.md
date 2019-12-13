@@ -70,8 +70,9 @@ Submit challenge questions for the speakers [here](https://forms.gle/DGEev5erxAm
 | 09:00 | Introduction and opening remarks
 | 09:10 | **Erin Grant**
 | 09:40 | **Jeff Clune**
-| 10:10 | Poster spotlights 1
-| 10:30 | *Coffee & posters*
+| 10:10 | *Coffee & posters*
+| 10:30 | Poster spotlights 1
+| 10:50 | *Posters*
 | 11:30 | **Pieter Abbeel**
 | 12:00 | Discussion 1
 | 12:30 | *Lunch break*
@@ -83,7 +84,7 @@ Submit challenge questions for the speakers [here](https://forms.gle/DGEev5erxAm
 | 16:45 | **Jessica Lee**: MetaPix: Few-shot video retargeting
 | 17:00 | **Brenden Lake**
 | 17:30 | Discussion 2
-| 18:00 | End
+| 17:50 | End
 
 <!-- 
 ## Submission Instructions  ##
