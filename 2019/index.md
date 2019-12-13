@@ -54,18 +54,39 @@ Submit challenge questions for the speakers [here](https://forms.gle/DGEev5erxAm
 ### Morning Session
 - [**MetaPoison: Learning to Craft Adversarial Poisoning Examples via Meta-Learning**.](slides/metalearn2019-huang.pdf)
  *W. Ronny Huang, Jonas Geiping, Liam  Fowl, Tom  Goldstein*
-
-- [**ES-MAML: Learning to Adapt with Evolution Strategies**.](slides/metalearn2019-song.pdf)
- *Xingyou Song, Krzysztof Choromanski, Wenbo  Gao, Yuxiang  Yang, Yunhao  Tang, Aldo  Pacchiano*
  
  - [**Meta-Learning Contextual Bandit Exploration**.](slides/metalearn2019-sharaf.pdf)
  *Amr Sharaf, Hal  Daume*
+ 
+- [**ES-MAML: Learning to Adapt with Evolution Strategies**.](slides/metalearn2019-song.pdf)
+ *Xingyou Song, Krzysztof Choromanski, Wenbo  Gao, Yuxiang  Yang, Yunhao  Tang, Aldo  Pacchiano*
  
  - [**A quantile-based approach to hyperparameter transfer learning**.](slides/metalearn2019-salinas.pdf) 
  *David Salinas, Huibin  Shen, Valerio Perrone* 
  
  - [**Meta-World: A Benchmark and Evaluation for Multi-Task and Meta Reinforcement Learning**.](slides/metalearn2019-yu.pdf)
  *Tianhe Yu, Deirdre  Quillen, Zhanpeng  He, Ryan  Julian, Karol  Hausman, Sergey  Levine, Chelsea  Finn*
+ 
+### Afternoon Session
+- [**An empirical study of pretrained representations for few-shot classification**.](slides/metalearn2019-ramalho.pdf)
+ *Tiago Ramalho, Thierry  Sousbie, Stefano  Peluchetti*
+ 
+ - [**A Baseline for Few-Shot Image Classification**.](slides/metalearn2019-dhillon.pdf)
+ *Guneet S Dhillon, Pratik  Chaudhari, Avinash Ravichandran, Stefano Soatto* 
+ 
+ - [**Charting the Right Manifold: Manifold Mixup for Few-shot Learning**.](slides/metalearn2019-mangla.pdf)
+ *Puneet Mangla, Mayank Singh, Nupur Kumari, Abhishek  Sinha, Balaji  Krishnamurthy, Vineeth  N Balasubramanian*
+ 
+ - [**Meta-Learning of Structured Representation by Proximal Mapping**.](slides/metalearn2019-li1.pdf)
+ *Mao Li, Yingyi  Ma, Hongwei  Jin, Zhan  Shi, Xinhua  Zhang*
+ 
+ - [**Deep Subspace Networks For Few-Shot Learning**.](slides/metalearn2019-simon.pdf)
+ *Christian Simon, Piotr  Koniusz, Richard  Nock, Mehrtash  Harandi*
+ 
+ 
+ 
+
+
 
 ## Organizers ##
 - [Roberto Calandra](https://www.robertocalandra.com/) (Facebook AI Research)
