@@ -237,7 +237,7 @@ during the submission period. -->
  *W. Ronny Huang, Jonas Geiping, Liam  Fowl, Tom  Goldstein*
 
 - [**MetaPix: Few-shot video retargeting**.](papers/metalearn2019-lee.pdf)
- *Jessica Lee, Rohit  Girdhar, Deva  Ramanan*
+ *Jessica Lee, Deva Ramanan, Rohit Girdhar*
 
 - [**Meta-Learning with Warped Gradient Descent**.](papers/metalearn2019-flennerhag.pdf)
  *Sebastian Flennerhag, Andrei A. Rusu, Razvan  Pascanu, Hujun Yin, Raia  Hadsell*
@@ -284,7 +284,7 @@ during the submission period. -->
 - [**Rapid Learning or Feature Reuse? Towards Understanding the Effectiveness of MAML**.](papers/metalearn2019-raghu.pdf)
  *Aniruddh Raghu, Maithra  Raghu, Oriol Vinyals, Samy  Bengio*
 
-- **Learning Compositional Rules via Neural Program Synthesis**.
+- [**Learning Compositional Rules via Neural Program Synthesis**.](papers/metalearn2019-nye.pdf)
  *Maxwell Nye, Armando  Solar-Lezama, Joshua  Tenenbaum, Brenden  Lake*
 
 - [**Assay modelling with adaptive deep kernel learning**.](papers/metalearn2019-tossou.pdf)
