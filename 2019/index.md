@@ -320,7 +320,7 @@ during the submission period. -->
 - [**A Baseline for Few-Shot Image Classification**.](papers/metalearn2019-dhillon.pdf) [[Appendix](papers/metalearn2019-dhillon-appendix.pdf)] 
  *Guneet S Dhillon, Pratik  Chaudhari, Avinash Ravichandran, Stefano Soatto* 
 
-- [**NASIB: Neural Architecture Search withIn Budget**.](papers/metalearn2019-singh.pdf)
+- [**NASIB: Neural Architecture Search withIn Budget**.](papers/metalearn2019-singhv2.pdf)
  *Abhishek Singh, Anubhav Garg, Jinan Zhou, Shiv Ram Dubey, Debo Dutta*
 
 - [**Understanding and Robustifying Differentiable Architecture Search**.](papers/metalearn2019-zela.pdf)
