@@ -321,7 +321,7 @@ during the submission period. -->
  *Guneet S Dhillon, Pratik  Chaudhari, Avinash Ravichandran, Stefano Soatto* 
 
 - [**NASIB: Neural Architecture Search withIn Budget**.](papers/metalearn2019-singh.pdf)
- *Abhishek Singh, Anubhav Garg, Debo Dutta*
+ *Abhishek Singh, Anubhav Garg, Jinan Zhou, Shiv Ram Dubey, Debo Dutta*
 
 - [**Understanding and Robustifying Differentiable Architecture Search**.](papers/metalearn2019-zela.pdf)
  *Arber Zela, Thomas  Elsken, Yassine  Marrakchi, Tonmoy  Saikia, Thomas  Brox, Frank  Hutter*
