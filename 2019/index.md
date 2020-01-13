@@ -429,6 +429,13 @@ Zeyu Zheng
 
 [Workshop on Meta-Learning (MetaLearn 2018) @ NeurIPS 2018](http://metalearning.ml/2018/)
 
+## Sponsors ##
+We are grateful for the support of our sponsors, which enabled us to offer travel grants to several participants.
+
+<img src="https://static.xx.fbcdn.net/rsrc.php/v3/yW/r/1hFIifa2Fcy.png" alt="Facebook" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" alt="Amazon" width="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/12/DeepMind_logo.png" alt="Deepmind" width="300">
+
 ## Contacts  ##
 
 For any further questions, you can contact us at <info@metalearning.ml>.
