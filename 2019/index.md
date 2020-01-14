@@ -123,6 +123,10 @@ Submit challenge questions for the speakers [here](https://forms.gle/DGEev5erxAm
 | 17:30 | Discussion 2
 | 17:50 | End
 
+[Video1](https://slideslive.com/38921882/metalearning-1)
+[Video2](https://slideslive.com/38922013/metalearning-2)
+[Video3](https://slideslive.com/38921884/metalearning-3)
+[Video4](https://slideslive.com/38921885/metalearning-4)
 <!-- 
 ## Submission Instructions  ##
 Papers must be in the latest [NeurIPS format](https://neurips.cc/Conferences/2019/PaperInformation/StyleFiles), but with a maximum of 4 pages (excluding references). 
