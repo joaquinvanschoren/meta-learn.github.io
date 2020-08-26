@@ -54,9 +54,9 @@ In terms of prospective participants, our main targets are machine learning rese
 
 ## Important Dates
 
-- ~~Submission deadline: XX September 2020 ([11:59 PM anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))~~
-- ~~Notification: XX October 2020~~
-- ~~Camera ready: XX December 2020~~
+- Submission deadline: XX September 2020 ([11:59 PM anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
+- Notification: XX October 2020
+- Camera ready: XX December 2020
 - Workshop: XX December 2020
 
 <!--
