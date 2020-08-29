@@ -7,30 +7,57 @@ weight: -1
 redirect_from: /2020/
 ---
 
-Recent years have seen rapid progress in meta-learning methods, which learn (and optimize) the performance of learning methods based on data, generate new learning methods from scratch, and learn to transfer knowledge across tasks and domains. Meta-learning can be seen as the logical conclusion of the arc that machine learning has undergone in the last decade, from learning classifiers, to learning representations, and finally to learning algorithms that themselves acquire representations and classifiers. The ability to improve one’s own learning capabilities through experience can also be viewed as a hallmark of intelligent beings, and there are strong connections with work on human learning in neuroscience.
+Recent years have seen rapid progress in meta-learning methods, which transfer knowledge across tasks and domains to learn new tasks more efficiently, optimize the learning process itself, and even generate new learning methods from scratch. Meta-learning can be seen as the logical conclusion of the arc that machine learning has undergone in the last decade, from learning classifiers, to learning representations, and finally to learning algorithms that themselves acquire representations, classifiers, and policies for acting in environments. Meta-learning methods are of substantial practical interest. For instance, they been shown to yield new state-of-the-art automated machine learning methods, novel deep learning architectures, and substantially improved one-shot learning systems. Moreover, the ability to improve one’s own learning capabilities through experience can also be viewed as a hallmark of intelligent beings, and there are strong connections with work on human and reward learning in neuroscience via the rapidly growing subfield of meta-reinforcement learning.
 
-Meta-learning methods are also of substantial practical interest, since they have, e.g., been shown to yield new state-of-the-art automated machine learning methods, novel deep learning architectures, and substantially improved one-shot learning systems.
+In this edition of the meta-learning workshop, we want to particularly stimulate discussion to crystallize our understanding on several key underlying and unsolved questions, such as its relationship with continual and multitask learning, and the roles of task distributions and inductive biases in learning processes.
 
 Some of the fundamental questions that this workshop aims to address are:
 
 - How can we exploit our domain knowledge to effectively guide the meta-learning process?
 - What are the meta-learning processes in nature (e.g, in humans), and how can we take inspiration from them?
-- Which ML approaches are best suited for meta-learning, in which circumstances, and why?
+- Which machine learning approaches are best suited for meta-learning, in which circumstances, and why?
 - What principles can we learn from meta-learning to help us design the next generation of learning systems?
-- What are the fundamental differences in the learning “task” compared to traditional “non-meta” learners?
-- Is there a practical limit to the number of meta-learning layers (e.g., would a meta-meta-meta-learning algorithm be of practical use)?
 - How can we design more sample-efficient meta-learning methods?
+
+In a change from previous instantiations of this workshop, this year we’d like to highlight 3 main focuses we think are crucial to the future of meta-learning:
+
+- **Task distributions** What defines a *task distribution*? What does it mean to have learned this distribution, and to generalize outside of this distribution?
+- **Transfer/continual/lifelong learning** What is the relationship between meta-learning and transfer/continual or lifelong learning? How do the notions of “meta-train” and “meta-test” datasets map to continual or lifelong learning?
+- **Inductive biases** What is the role of inductive biases, be they algorithmic or architectural? How do they manifest in evolution, neural architecture search, etc.? What kinds of useful inductive biases can we learn from neuroscience or cognitive science?
+
 
 The goal of this workshop is to bring together researchers from all the different communities and topics that fall under the umbrella of meta-learning. We expect that the presence of these different communities will result in a fruitful exchange of ideas and stimulate an open discussion about the current challenges in meta-learning, as well as possible solutions.
 
-In terms of prospective participants, our main targets are machine learning researchers interested in the processes related to understanding and improving current meta-learning algorithms. Specific target communities within machine learning include, but are not limited to: meta-learning, AutoML, reinforcement learning, deep learning, optimization, evolutionary computation, and Bayesian optimization. Our invited speakers also include researchers who study human learning, to provide a broad perspective to the attendees.
+In terms of prospective participants, our main targets are machine learning researchers interested in the processes related to understanding and improving current meta-learning algorithms. Specific target communities within machine learning include, but are not limited to: meta-learning, AutoML, reinforcement learning, deep learning, optimization, evolutionary computation, and Bayesian optimization. We also invite submissions from researchers who study human learning and neuroscience, to provide a broad perspective to the attendees.
+
+## Virtual format
+
+In terms of organising this workshop in a virtual format, we understand that accessibility across time zones is a major challenge for a virtual meeting. We will thus offer a mix of synchronous and asynchronous formats that allow participation despite this complication. In thinking about this format we took inspiration from best practices that emerged from past conferences.
+
+Specifically, we will require both invited speakers and authors of accepted papers to make pre-recorded videos available in advance, allowing registered participants to engage with the recordings at any time. This will be accompanied by live offerings such as a panel session and Q&A for invited talks or spotlights, where participants will be given the opportunity to submit and vote on questions using a Q&A platform during and in advance of the livestream. One of the organisers will facilitate as a moderator for each live session.
+
+For our virtual poster sessions, we will provide access to virtual rooms for each accepted paper using a video chat service. We will allow authors to choose between one of three sessions that will be several hours apart, allowing a choice based on the most suitable time in their local time zone. Although they will not be required to, we will also encourage them to present their poster in multiple sessions, in order to maximize interaction between attendees across many timezones.
+
+Finally, we will use a dedicated channel on a chat service throughout the event to provide a means of interaction between workshop participants. A schedule will be set up to include three poster sessions  throughout the day, to ensure that virtual attendees in all timezones will be able to participate in at least one.
+
+More detailed instructions will be given closer to the workshop date.
 
 ## Invited Speakers
 
 <!-- Submit challenge questions for the speakers [here](https://forms.gle/DGEev5erxAmoi6eEA).  -->
 
-- [Speaker](https://example.com) (Affiliation)  
-   **Title**
+- [Timothy Hospedales](http://homepages.inf.ed.ac.uk/thospeda/index.html) (University of Edinburgh)
+<!--  **Title**  -->
+- [Frank Hutter](http://http://ml.informatik.uni-freiburg.de/~hutter/) (University of Freiburg)
+<!--   **Title**  -->
+- [Louis Kirsch](http://louiskirsch.com/) (IDSIA)
+<!--  **Title**  -->
+- [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li) (Stanford University)
+<!--  **Title**  -->
+- [Kate Rakelly](http://people.eecs.berkeley.edu/~rakelly/) (UC Berkeley)
+<!--  **Title**  -->
+- [Luisa Zintgraf](https://luisazintgraf.com/) (University of Oxford)
+<!--  **Title**  -->
 
 <!--
 ## Spotlights
@@ -41,61 +68,58 @@ In terms of prospective participants, our main targets are machine learning rese
 ### Afternoon Session
 - [**Title**.](slides/metalearn2020-paper.pdf)
  *Authors*
- -->
+-->
 
 ## Organizers
 
 - [Roberto Calandra](https://www.robertocalandra.com/) (Facebook AI Research)
-- [Erin Grant](TODO) (Google Brain)
-- [Jonathan Schwarz](TODO) (Deepmind)
+- [Erin Grant](https://eringrant.github.io/) (Google Brain)
+- [Jonathan Schwarz](https://jonathan-schwarz.github.io/) (University College London, Deepmind)
 - [Joaquin Vanschoren](http://www.win.tue.nl/~jvanscho/) (Eindhoven University of Technology)
 - [Francesco Visin](TODO) (Deepmind)
 - [Jane Wang](http://www.janexwang.com) (DeepMind)
 
 ## Important Dates
 
-- Submission deadline: XX September 2020 ([11:59 PM anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
-- Notification: XX October 2020
-- Camera ready: XX December 2020
-- Workshop: XX December 2020
+- Submission deadline: 01 October 2020 ([11:59 PM anywhere on Earth](https://www.timeanddate.com/time/zones/aoe))
+- Notification: 30 October 2020
+- Camera ready: 14 November 2020
+- Workshop: 11/12 December 2020
 
-<!--
 ## Schedule ##
 
 | --------:| ---------------------------------------------------
 | 09:00 | Introduction and opening remarks
-| 09:10 | **Speaker 1**
-| 09:40 | **Speaker 2e**
-| 10:10 | *Coffee & posters*
-| 10:30 | Poster spotlights 1
-| 10:50 | *Posters*
-| 11:30 | **Speaker 3**
-| 12:00 | Discussion 1
-| 12:30 | *Lunch break*
-| 14:00 | **Speaker 4**
-| 14:30 | **Speaker 5**
-| 15:00 | Poster spotlights 2
-| 15:20 | *Coffee & posters*
-| 16:30 | **Speaker**: Title
-| 16:45 | **Speaker**: Title
-| 17:00 | **Speaker **
-| 17:30 | Discussion 2
-| 17:50 | End
-
--->
+| 09:10 | **Invited talk 1**
+| 09:40 | **Contributed talk 1**
+| 10:00 | Poster session 1
+| 11:00 | **Invited talk 2**
+| 11:30 | **Invited talk 3**
+| 12:00 | *Break*
+| 13:00 | Poster session 2
+| 14:00 | **Invited talk 4**
+| 14:30 | **Invited talk 5**
+| 15:00 | Poster session 3
+| 16:00 | **Invited talk 6**
+| 16:30 | **Contributed talk 2**
+| 16:45 | **Contributed talk 3**
+| 17:00 | Panel Discussion
+| 18:00 | *End*
 
 ## Submission Instructions
 
-Papers must be in the latest [NeurIPS format](https://neurips.cc/Conferences/2019/PaperInformation/StyleFiles), but with a maximum of 4 pages (excluding references).
+Papers must be in the latest [NeurIPS format](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles), but with a maximum of 4 pages (excluding references and supplementary material).
 
 Papers should be anonymized upon submission.
 
 Accepted papers and eventual supplementary material will be made available on the workshop website. However, this does not constitute an archival publication and no formal workshop proceedings will be made available, meaning contributors are free to publish their work in archival journals or conferences.
 
-The two best papers submitted will be presented as 15-minute contributed talks.
+The three best papers submitted will be presented as 15-minute contributed talks.
 
+<!--
 Submissions can be made at [https://cmt3.research.microsoft.com/METALEARN2019/Submission/Index](https://cmt3.research.microsoft.com/METALEARN2019/Submission/Index)
 during the submission period.
+-->
 
 ### FAQ
 
@@ -119,98 +143,21 @@ during the submission period.
 
    MetaLearn submissions are 4 pages, i.e., much shorter than standard conference submissions. But from our side it is perfectly fine to submit a condensed version of a parallel conference submission, if it also fine for the conference in question. Our workshop does not have archival proceedings, and therefore parallel submissions of extended versions to other conferences are acceptable.
 
-6. Are there any instructions for poster formatting or for the camera-ready?
-
-- Posters should be A0, preferably on light paper. Poster can be hung up before the start of the workshop or during the breaks or poster sessions.
-- The camera-ready version of your accepted paper should be limited to 4 pages, with up to 10 pages additional materials.
-
 <!--
 ## Accepted Papers ##
 
 - [**Title**.](papers/paper.pdf)
  *Authors*
+-->
 
- -->
-
+<!--
 ## Program Committee
 
 We thank the program committee for shaping the excellent technical program (in alphabetical order):
 
-Aaron Klein,
-Abhishek Gupta,
-Alexander Toshev,
-Alexandre Galashov,
-Andre Carvalho,
-Andrei A. Rusu,
-Ang Li,
-Ashvin V. Nair,
-Avi Singh,
-Aviral Kumar,
-Ben Eysenbach,
-Benjamin Letham,
-Bradly C,
-Brandon Schoenfeld,
-Brian Cheung,
-Carlos Soares,
-Daniel Hernandez,
-Deirdre Quillen,
-Devendra ingh,
-Dumitru Erhan,
-Dushyant Rao,
-Eleni Triantafillou,
-Erin Grant,
-Esteban Real,
-Eytan Bakshy,
-Frank Hutter,
-Haoran Tang,
-Hugo air,
-Igor Mordatch,
-Jakub Sygnowski,
-Jan Humplik,
-Jan N. van Rijn,
-Jan endrik,
-Jiajun Wu,
-Jonas Rothfuss,
-Jonathan Schwarz,
-Jürgen Schmidhuber,
-Kate Rakelly,
-Katharina Eggensperger,
-Kevin Swersky,
-Kyle Hsu,
-Lars Kotthoff,
-Leonard Hasenclever,
-Lerrel Pinto,
-Luisa Zintgraf,
-Marc Pickett,
-Marta Garnelo,
-Marvin Zhang,
-Matthias Seeger,
-Maximilian Igl,
-Misha Denil,
-Parminder Bhatia,
-Parsa Mahmoudieh,
-Pavel Brazdil,
-Pieter Gijsbers,
-Piotr Mirowski,
-Rachit Dubey,
-Rafael Gomes,
-Razvan Pascanu,
-Ricardo B. Prudencio,
-Roger B. Grosse,
-Rowan McAllister,
-Sayna Ebrahimi,
-Sebastien Racaniere,
-Sergio Escalera,
-Siddharth Reddy,
-Stephen Roberts,
-Sungryull Sohn,
-Surya Bhupatiraju,
-Thomas Elsken,
-Tin K. Ho,
-Udayan Khurana,
-Vincent Dumoulin,
-Vitchyr H. Pong,
-Zeyu Zheng
+John Doe,
+
+-->
 
 ## Past Workshops
 
@@ -220,9 +167,11 @@ Zeyu Zheng
 
 [Workshop on Meta-Learning (MetaLearn 2019) @ NeurIPS 2019](http://metalearning.ml/2019/)
 
+<!--
 ## Sponsors
 
 We are grateful for the support of our sponsors, which enabled us to offer XX to several participants.
+-->
 
 ## Contacts
 
