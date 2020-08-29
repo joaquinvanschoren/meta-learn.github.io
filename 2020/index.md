@@ -76,7 +76,7 @@ More detailed instructions will be given closer to the workshop date.
 - [Erin Grant](https://eringrant.github.io/) (UC Berkeley)
 - [Jonathan Schwarz](https://jonathan-schwarz.github.io/) (University College London, Deepmind)
 - [Joaquin Vanschoren](http://www.win.tue.nl/~jvanscho/) (Eindhoven University of Technology)
-- [Francesco Visin](TODO) (DeepMind)
+- [Francesco Visin](https://www.linkedin.com/in/francescovisin/?originalSubdomain=it) (DeepMind)
 - [Jane Wang](http://www.janexwang.com) (DeepMind)
 
 ## Important Dates
@@ -115,6 +115,8 @@ Papers should be anonymized upon submission.
 Accepted papers and eventual supplementary material will be made available on the workshop website. However, this does not constitute an archival publication and no formal workshop proceedings will be made available, meaning contributors are free to publish their work in archival journals or conferences.
 
 The three best papers submitted will be presented as 15-minute contributed talks.
+
+A link to the submission page will appear here soon.
 
 <!--
 Submissions can be made at [https://cmt3.research.microsoft.com/METALEARN2019/Submission/Index](https://cmt3.research.microsoft.com/METALEARN2019/Submission/Index)
