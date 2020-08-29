@@ -1,6 +1,6 @@
 ---
 title: Workshop on Meta-Learning (MetaLearn 2020)
-description: "@NeurIPS 2020 <br> XX December 2020 <br> (Virtual-Only)"
+description: "@NeurIPS 2020 <br> 18-19 December 2020 <br> (Virtual-Only)"
 
 permalink: /2020/index.html
 weight: -1
@@ -21,10 +21,9 @@ Some of the fundamental questions that this workshop aims to address are:
 
 In a change from previous instantiations of this workshop, this year we’d like to highlight 3 main focuses we think are crucial to the future of meta-learning:
 
-- **Task distributions** What defines a *task distribution*? What does it mean to have learned this distribution, and to generalize outside of this distribution?
+- **Task distributions** What defines a _task distribution_? What does it mean to have learned this distribution, and to generalize outside of this distribution?
 - **Transfer/continual/lifelong learning** What is the relationship between meta-learning and transfer/continual or lifelong learning? How do the notions of “meta-train” and “meta-test” datasets map to continual or lifelong learning?
 - **Inductive biases** What is the role of inductive biases, be they algorithmic or architectural? How do they manifest in evolution, neural architecture search, etc.? What kinds of useful inductive biases can we learn from neuroscience or cognitive science?
-
 
 The goal of this workshop is to bring together researchers from all the different communities and topics that fall under the umbrella of meta-learning. We expect that the presence of these different communities will result in a fruitful exchange of ideas and stimulate an open discussion about the current challenges in meta-learning, as well as possible solutions.
 
@@ -38,7 +37,7 @@ Specifically, we will require both invited speakers and authors of accepted pape
 
 For our virtual poster sessions, we will provide access to virtual rooms for each accepted paper using a video chat service. We will allow authors to choose between one of three sessions that will be several hours apart, allowing a choice based on the most suitable time in their local time zone. Although they will not be required to, we will also encourage them to present their poster in multiple sessions, in order to maximize interaction between attendees across many timezones.
 
-Finally, we will use a dedicated channel on a chat service throughout the event to provide a means of interaction between workshop participants. A schedule will be set up to include three poster sessions  throughout the day, to ensure that virtual attendees in all timezones will be able to participate in at least one.
+Finally, we will use a dedicated channel on a chat service throughout the event to provide a means of interaction between workshop participants. A schedule will be set up to include three poster sessions throughout the day, to ensure that virtual attendees in all timezones will be able to participate in at least one.
 
 More detailed instructions will be given closer to the workshop date.
 
@@ -47,17 +46,17 @@ More detailed instructions will be given closer to the workshop date.
 <!-- Submit challenge questions for the speakers [here](https://forms.gle/DGEev5erxAmoi6eEA).  -->
 
 - [Timothy Hospedales](http://homepages.inf.ed.ac.uk/thospeda/index.html) (University of Edinburgh)
-<!--  **Title**  -->
+  <!--  **Title**  -->
 - [Frank Hutter](http://http://ml.informatik.uni-freiburg.de/~hutter/) (University of Freiburg)
-<!--   **Title**  -->
+  <!--   **Title**  -->
 - [Louis Kirsch](http://louiskirsch.com/) (IDSIA)
-<!--  **Title**  -->
+  <!--  **Title**  -->
 - [Fei-Fei Li](https://profiles.stanford.edu/fei-fei-li) (Stanford University)
-<!--  **Title**  -->
+  <!--  **Title**  -->
 - [Kate Rakelly](http://people.eecs.berkeley.edu/~rakelly/) (UC Berkeley)
-<!--  **Title**  -->
+  <!--  **Title**  -->
 - [Luisa Zintgraf](https://luisazintgraf.com/) (University of Oxford)
-<!--  **Title**  -->
+  <!--  **Title**  -->
 
 <!--
 ## Spotlights
@@ -86,7 +85,7 @@ More detailed instructions will be given closer to the workshop date.
 - Camera ready: 14 November 2020
 - Workshop: 11/12 December 2020
 
-## Schedule ##
+## Schedule
 
 | --------:| ---------------------------------------------------
 | 09:00 | Introduction and opening remarks
@@ -95,7 +94,7 @@ More detailed instructions will be given closer to the workshop date.
 | 10:00 | Poster session 1
 | 11:00 | **Invited talk 2**
 | 11:30 | **Invited talk 3**
-| 12:00 | *Break*
+| 12:00 | _Break_
 | 13:00 | Poster session 2
 | 14:00 | **Invited talk 4**
 | 14:30 | **Invited talk 5**
@@ -104,7 +103,7 @@ More detailed instructions will be given closer to the workshop date.
 | 16:30 | **Contributed talk 2**
 | 16:45 | **Contributed talk 3**
 | 17:00 | Panel Discussion
-| 18:00 | *End*
+| 18:00 | _End_
 
 ## Submission Instructions
 
