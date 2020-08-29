@@ -73,10 +73,10 @@ More detailed instructions will be given closer to the workshop date.
 ## Organizers
 
 - [Roberto Calandra](https://www.robertocalandra.com/) (Facebook AI Research)
-- [Erin Grant](https://eringrant.github.io/) (Google Brain)
+- [Erin Grant](https://eringrant.github.io/) (UC Berkeley)
 - [Jonathan Schwarz](https://jonathan-schwarz.github.io/) (University College London, Deepmind)
 - [Joaquin Vanschoren](http://www.win.tue.nl/~jvanscho/) (Eindhoven University of Technology)
-- [Francesco Visin](TODO) (Deepmind)
+- [Francesco Visin](TODO) (DeepMind)
 - [Jane Wang](http://www.janexwang.com) (DeepMind)
 
 ## Important Dates
