@@ -35,7 +35,8 @@ In terms of organising this workshop in a virtual format, we understand that acc
 
 Specifically, we will require both invited speakers and authors of accepted papers to make pre-recorded videos available in advance, allowing registered participants to engage with the recordings at any time. This will be accompanied by live offerings such as a panel session and Q&A for invited talks or spotlights, where participants will be given the opportunity to submit and vote on questions using a Q&A platform during and in advance of the livestream. One of the organisers will facilitate as a moderator for each live session.
 
-For our virtual poster sessions, we will provide access to virtual rooms for each accepted paper using a video chat service. We will allow authors to choose between one of three sessions that will be several hours apart, allowing a choice based on the most suitable time in their local time zone. Although they will not be required to, we will also encourage them to present their poster in multiple sessions, in order to maximize interaction between attendees across many timezones.
+For our virtual poster sessions, we plan to use [gather.town](https://gather.town/) to allow the ability to interact within a virtual space. We will allow authors to choose between one or more of three sessions that will be several hours apart, allowing a choice based on the most suitable time in their local time zone. 
+<!--Although they will not be required to, we will also encourage them to present their poster in multiple sessions, in order to maximize interaction between attendees across many timezones.-->
 
 Finally, we will use a dedicated channel on a chat service throughout the event to provide a means of interaction between workshop participants. A schedule will be set up to include three poster sessions throughout the day, to ensure that virtual attendees in all timezones will be able to participate in at least one.
 
@@ -72,6 +73,7 @@ More detailed instructions will be given closer to the workshop date.
 ## Organizers
 
 - [Roberto Calandra](https://www.robertocalandra.com/) (Facebook AI Research)
+- [Jeff Clune](https://www.jeffclune.com/) (OpenAI)
 - [Erin Grant](https://eringrant.github.io/) (UC Berkeley)
 - [Jonathan Schwarz](https://jonathan-schwarz.github.io/) (University College London, Deepmind)
 - [Joaquin Vanschoren](http://www.win.tue.nl/~jvanscho/) (Eindhoven University of Technology)
@@ -105,17 +107,25 @@ More detailed instructions will be given closer to the workshop date.
 | 17:00 | Panel Discussion
 | 18:00 | _End_
 
-## Submission Instructions
 
-Papers must be in the latest [NeurIPS format](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles), but with a maximum of 4 pages (excluding references and supplementary material).
+## Submission Instructions and Formatting
 
-Papers should be anonymized upon submission.
+Papers must be in the latest [NeurIPS format](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles), but with a maximum of 4 pages (excluding references and supplementary material). Papers should be anonymized upon submission.
+
+We understand that many submissions might be previously unsuccessful submissions to conferences such as NeurIPS or ICML. In this case, submissions may be 8 pages, but we ask that you *include the NeurIPS reviews and meta-review and as part of supplementary information.* Please details ways in which your submission has been revised based on these reviews, or a reasoning for why you did not do so. Please note that although papers which have been already reviewed and suitably revised will be looked on more favorably, it is still subject to review and might be rejected due to lack of fit with the workshop. 
 
 Accepted papers and eventual supplementary material will be made available on the workshop website. However, this does not constitute an archival publication and no formal workshop proceedings will be made available, meaning contributors are free to publish their work in archival journals or conferences.
 
 The three best papers submitted will be presented as 15-minute contributed talks.
 
 A link to the submission page will appear here soon.
+
+
+### Reviewing mentorship scheme
+
+This year we are trialing a new reviewer mentorship scheme, which we hope will improve the future pool of expert reviewers in machine learning. Junior reviewers will be able to provide reviews in a guided setting, and linked with senior reviewers who will give them feedback and advice throughout the reviewing process. It is our hope that this will be a useful learning experience for reviewers, and improve overall quality of reviewing. 
+
+In order for this to be feasible, all submissions will be asked to provide *two* contacts who have agreed to review for the workshop. These volunteers can of course be authors of the submission, or people who have agreed to review on behalf of the authors. Depending on their experience reviewing, these contacts will be assigned in their a junior or senior reviewer role. All submissions will be ensured at least one senior reviewer, as we will still be directly recruiting for reviewers as in previous years.
 
 <!--
 Submissions can be made at [https://cmt3.research.microsoft.com/METALEARN2019/Submission/Index](https://cmt3.research.microsoft.com/METALEARN2019/Submission/Index)
@@ -176,4 +186,4 @@ We are grateful for the support of our sponsors, which enabled us to offer XX to
 
 ## Contacts
 
-For any further questions, you can contact us at <info@metalearning.ml>.
+For any further questions, you can contact us at <metalearn2020@googlegroups.com>.
