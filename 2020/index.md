@@ -112,7 +112,7 @@ More detailed instructions will be given closer to the workshop date.
 
 Papers must be in the latest [NeurIPS format](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles), but with a maximum of 4 pages (excluding references and supplementary material). Papers should be anonymized upon submission.
 
-We understand that many submissions might be previously unsuccessful submissions to conferences such as NeurIPS or ICML. In this case, submissions may be 8 pages, but we ask that you *include the NeurIPS reviews and meta-review and as part of supplementary information.* Please details ways in which your submission has been revised based on these reviews, or a reasoning for why you did not do so. Please note that although papers which have been already reviewed and suitably revised will be looked on more favorably, it is still subject to review and might be rejected due to lack of fit with the workshop. 
+We understand that many submissions might be previously unsuccessful submissions to conferences such as NeurIPS or ICML. In this case, submissions may be 8 pages, but we ask that you **include the conference reviews and meta-review and as part of supplementary materials.** Please details ways in which your submission has been revised based on these reviews, or a reasoning for why you did not do so. Please note that although papers which have been already reviewed and suitably revised will be considered stronger, they are still subject to review and might be rejected due to lack of fit with the workshop. 
 
 Accepted papers and eventual supplementary material will be made available on the workshop website. However, this does not constitute an archival publication and no formal workshop proceedings will be made available, meaning contributors are free to publish their work in archival journals or conferences.
 
@@ -125,7 +125,9 @@ A link to the submission page will appear here soon.
 
 This year we are trialing a new reviewer mentorship scheme, which we hope will improve the future pool of expert reviewers in machine learning. Junior reviewers will be able to provide reviews in a guided setting, and linked with senior reviewers who will give them feedback and advice throughout the reviewing process. It is our hope that this will be a useful learning experience for reviewers, and improve overall quality of reviewing. 
 
-In order for this to be feasible, all submissions will be asked to provide *two* contacts who have agreed to review for the workshop. These volunteers can of course be authors of the submission, or people who have agreed to review on behalf of the authors. Depending on their experience reviewing, these contacts will be assigned in their a junior or senior reviewer role. All submissions will be ensured at least one senior reviewer, as we will still be directly recruiting for reviewers as in previous years.
+In order for this to be feasible, all submissions will be asked to provide **two** contacts who have agreed to review for the workshop. These volunteers can of course be authors of the submission, or people who have agreed to review on behalf of the authors. Depending on their experience reviewing, these contacts will be assigned to either a junior or senior reviewer role. All submissions will be ensured at least one senior reviewer, since we will still be directly recruiting for reviewers as in previous years.
+
+We anticipate that all reviewers will get 2-3 papers to review, which will need to be finished by October 23, 2020. 
 
 <!--
 Submissions can be made at [https://cmt3.research.microsoft.com/METALEARN2019/Submission/Index](https://cmt3.research.microsoft.com/METALEARN2019/Submission/Index)
