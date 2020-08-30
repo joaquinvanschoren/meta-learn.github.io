@@ -108,7 +108,9 @@ More detailed instructions will be given closer to the workshop date.
 | 18:00 | _End_
 
 
-## Submission Instructions and Formatting
+## Submission Instructions
+
+### Formatting
 
 Papers must be in the latest [NeurIPS format](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles), but with a maximum of 4 pages (excluding references and supplementary material). Papers should be anonymized upon submission.
 
@@ -127,7 +129,7 @@ This year we are trialing a new reviewer mentorship scheme, which we hope will i
 
 In order for this to be feasible, all submissions will be asked to provide **two** contacts who have agreed to review for the workshop. These volunteers can of course be authors of the submission, or people who have agreed to review on behalf of the authors. Depending on their experience reviewing, these contacts will be assigned to either a junior or senior reviewer role. All submissions will be ensured at least one senior reviewer, since we will still be directly recruiting for reviewers as in previous years.
 
-We anticipate that all reviewers will get 2-3 papers to review, which will need to be finished by October 23, 2020. 
+We anticipate that all reviewers will receive 2-3 papers to review, which will need to be finished by October 23, 2020. 
 
 <!--
 Submissions can be made at [https://cmt3.research.microsoft.com/METALEARN2019/Submission/Index](https://cmt3.research.microsoft.com/METALEARN2019/Submission/Index)
