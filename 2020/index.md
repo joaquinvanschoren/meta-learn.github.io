@@ -120,7 +120,7 @@ Accepted papers and eventual supplementary material will be made available on th
 
 The three best papers submitted will be presented as 15-minute contributed talks.
 
-A link to the submission page will appear here soon.
+Submissions can be made at [https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index](https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index) by October 1, 2020 (Anywhere on Earth).
 
 
 ### Reviewing mentorship scheme
@@ -130,8 +130,6 @@ This year we are trialing a new reviewer mentorship scheme, which we hope will i
 In order for this to be feasible, all submissions will be asked to provide **two** contacts who have agreed to review for the workshop. These volunteers can of course be authors of the submission, or people who have agreed to review on behalf of the authors. Depending on their experience reviewing, these contacts will be assigned to either a junior or senior reviewer role. All submissions will be ensured at least one senior reviewer, since we will still be directly recruiting for reviewers as in previous years.
 
 We anticipate that all reviewers will receive 2-3 papers to review, which will need to be finished by October 23, 2020. 
-
-Submissions can be made at [https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index](https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index) by October 1, 2020 (Anywhere on Earth).
 
 
 ### FAQ
