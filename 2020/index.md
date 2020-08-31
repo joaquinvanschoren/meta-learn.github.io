@@ -112,7 +112,7 @@ More detailed instructions will be given closer to the workshop date.
 
 ### Formatting
 
-Papers must be in the latest [NeurIPS format](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles), but with a maximum of 4 pages (excluding references and supplementary material). Papers should be anonymized upon submission.
+Papers must be in the latest [NeurIPS format](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles), but with a maximum of 6 pages (excluding references and supplementary material). Papers should be anonymized upon submission.
 
 We understand that many submissions might be previously unsuccessful submissions to conferences such as NeurIPS or ICML. In this case, submissions may be 8 pages, but we ask that you **include the conference reviews and meta-review and as part of supplementary materials.** Please details ways in which your submission has been revised based on these reviews, or a reasoning for why you did not do so. Please note that although papers which have been already reviewed and suitably revised will be considered stronger, they are still subject to review and might be rejected due to lack of fit with the workshop. 
 
@@ -131,14 +131,12 @@ In order for this to be feasible, all submissions will be asked to provide **two
 
 We anticipate that all reviewers will receive 2-3 papers to review, which will need to be finished by October 23, 2020. 
 
-<!--
-Submissions can be made at [https://cmt3.research.microsoft.com/METALEARN2019/Submission/Index](https://cmt3.research.microsoft.com/METALEARN2019/Submission/Index)
-during the submission period.
--->
+Submissions can be made at [https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index](https://cmt3.research.microsoft.com/METALEARN2020/Submission/Index) by October 1, 2020 (Anywhere on Earth).
+
 
 ### FAQ
 
-1. Can supplementary material be added beyond the 4-page limit and are there any restrictions on it?
+1. Can supplementary material be added beyond the 6-page limit and are there any restrictions on it?
 
    Yes, you may include additional supplementary material, but you should ensure that the main paper is self-contained, since looking at supplementary material is at the discretion of the reviewers. The supplementary material should also follow the same NeurIPS format as the paper and be limited to a reasonable amount (max 10 pages in addition to the main submission).
 
@@ -156,7 +154,7 @@ during the submission period.
 
 5. Can a paper be submitted to the workshop that is currently under review or will be under review at a conference during the review phase?
 
-   MetaLearn submissions are 4 pages, i.e., much shorter than standard conference submissions. But from our side it is perfectly fine to submit a condensed version of a parallel conference submission, if it also fine for the conference in question. Our workshop does not have archival proceedings, and therefore parallel submissions of extended versions to other conferences are acceptable.
+   MetaLearn submissions are 6 pages, i.e., much shorter than standard conference submissions. But from our side it is perfectly fine to submit a condensed version of a parallel conference submission, if it also fine for the conference in question. Our workshop does not have archival proceedings, and therefore parallel submissions of extended versions to other conferences are acceptable.
 
 <!--
 ## Accepted Papers ##
