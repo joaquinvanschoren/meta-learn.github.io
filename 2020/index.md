@@ -75,7 +75,7 @@ More detailed instructions will be given closer to the workshop date.
 - [Roberto Calandra](https://www.robertocalandra.com/) (Facebook AI Research)
 - [Jeff Clune](https://www.jeffclune.com/) (OpenAI)
 - [Erin Grant](https://eringrant.github.io/) (UC Berkeley)
-- [Jonathan Schwarz](https://jonathan-schwarz.github.io/) (University College London, Deepmind)
+- [Jonathan Schwarz](https://jonathan-schwarz.github.io/) (University College London, DeepMind)
 - [Joaquin Vanschoren](http://www.win.tue.nl/~jvanscho/) (Eindhoven University of Technology)
 - [Francesco Visin](https://www.linkedin.com/in/francescovisin/?originalSubdomain=it) (DeepMind)
 - [Jane Wang](http://www.janexwang.com) (DeepMind)
