@@ -1,6 +1,6 @@
 ---
 title: Workshop on Meta-Learning (MetaLearn 2020)
-description: "@NeurIPS 2020 <br> 18-19 December 2020 <br> (Virtual-Only)"
+description: "@NeurIPS 2020 <br> 11-12 December 2020 <br> (Virtual-Only)"
 
 permalink: /2020/index.html
 weight: -1
